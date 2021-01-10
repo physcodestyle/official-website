@@ -6,6 +6,6 @@ services:
     build:
       context: ./
       args:
-        USER_NAME: ${NARISOFT_USER_NAME}
-        USER_EMAIL: ${NARISOFT_USER_EMAIL}
-        SIGNATURE: ${NARISOFT_USER_SIGNATURE}
+        USER_NAME: ${PHYS_USER_NAME}
+        USER_EMAIL: ${PHYS_USER_EMAIL}
+        SIGNATURE: ${PHYS_USER_SIGNATURE}
