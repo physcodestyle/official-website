@@ -1,0 +1,42 @@
+matrix:
+- name: RU_Markdown
+  group: ru_spelling
+  aspell:
+    lang: ru
+  dictionary:
+    wordlists:
+    - .wordlist-ru.txt
+    - .wordlist-terms.txt
+    - .wordlist-abbr.txt
+    encoding: utf-8
+  pipeline:
+  - pyspelling.filters.markdown:
+  - pyspelling.filters.html:
+    comments: false
+    ignores:
+    - code
+    - pre
+  sources:
+  - 'README.md'
+  - '/src/content/ru/**/*.md'
+  default_encoding: utf-8
+- name: EN_Markdown
+  group: en_spelling
+  aspell:
+    lang: en
+  dictionary:
+    wordlists:
+    - .wordlist-en.txt
+    - .wordlist-terms.txt
+    - .wordlist-abbr.txt
+    encoding: utf-8
+  pipeline:
+  - pyspelling.filters.markdown:
+  - pyspelling.filters.html:
+    comments: false
+    ignores:
+    - code
+    - pre
+  sources:
+  - '/src/content/en/**/*.md'
+  default_encoding: utf-8
