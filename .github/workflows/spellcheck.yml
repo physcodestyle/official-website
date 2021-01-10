@@ -25,5 +25,5 @@ jobs:
       # Spellcheck
       - uses: actions/checkout@v2
       - uses: rojopolis/spellcheck-github-actions@0.5.0
-      - run sudo apt-get install hunspell-ru
         name: Spellcheck
+        run: apt-get install hunspell hunspell-en-us hunspell-ru -y
