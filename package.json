@@ -1,0 +1,24 @@
+{
+  "name": "phys.vsu.ru",
+  "version": "3.0.0",
+  "description": "The official site of the Physics Faculty of Voronezh State University",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/physcodestyle/official-website.git"
+  },
+  "keywords": [
+    "eleventy",
+    "markdown",
+    "nunjucks"
+  ],
+  "author": "Phys Code Style Society",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/physcodestyle/official-website/issues"
+  },
+  "homepage": "https://github.com/physcodestyle/official-website#readme"
+}
