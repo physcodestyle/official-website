@@ -1,0 +1,15 @@
+{
+  "dockerComposeFile": "../docker-compose.yaml",
+  "service": "narisoft",
+  "workspaceFolder": "/app",
+  "extensions": [
+    // Supporting of formats for 11ty engine
+    "yzhang.markdown-all-in-one",
+    "eseom.nunjucks-template",
+    "ecmel.vscode-html-css",
+    "editorconfig.editorconfig",
+    // Supporting of formats for container configuration
+    "ms-azuretools.vscode-docker",
+    "irongeek.vscode-env"
+  ]
+}
