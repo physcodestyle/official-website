@@ -27,8 +27,17 @@
 
 ### Работа в контейнере
 
-Для удобства использования котнтейнера необходимо создать следующие переменные окружения:
+Для удобства использования котнтейнера необходимо создать следующие переменные окружения (необходимо задать реальные значения):
 
+```bash
+$ export PHYS_USER_NAME=<Имя Фамилия>
+$ export PHYS_USER_EMAIL=<Email, используемый на GitHub>
+$ export PHYS_USER_SIGNATURE=$(cat ~/.ssh/<ключ для доступа на GitHub>)
+```
+
+Создание ключа для доступа на GitHub описано в [официальном руководстве](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). После создания, ключ необходимо поместить в настройки, как описано в [инструкции](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account). Полный перечень возможностей описан [здесь](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh).
+
+Переменные можно также добавить в конфигурационный файл Вашего терминала как переменные среды.
 
 1. Редактирование репозитория на GitHub:
 
@@ -45,35 +54,35 @@
     --build-arg SIGNATURE=${PHYS_USER_SIGNATURE} .
     ```
 
-    To start the container and use bash inside of it use following command:
+    Для запуска контейнера можно воспользоваться следующей командой:
 
     ```bash
     $ docker run --name physcodestyle_site --rm -i -t physcodestyle:site bash
     ```
 
-3. Using Docker Compose
+3. Использование Docker Compose
 
-    To setup enviroment variables you have to run the command:
+    Для настройки значений по умолчанию необходимо создать файл со значениями переменных окружения для контейнера:
 
     ```bash
     $ export | grep "PHYS" > ./.env
     ```
 
-     To build the container
+     Собрать контейнер можно следующей командой:
 
     ```bash
     $ docker-compose build
     ```
 
-4. Using Remote Containers in VSCode
+4. Использование Remote Containers в VSCode
 
-    To setup enviroment variables you have to run the command:
+    Для настройки значений по умолчанию необходимо создать файл со значениями переменных окружения для контейнера:
 
     ```bash
     $ export | grep "PHYS" > ./.env
     ```
 
-    To run developer container follow according [guide](https://code.visualstudio.com/docs/remote/containers)
+    Запустить контейнер в соответствии с [инструкцией](https://code.visualstudio.com/docs/remote/containers)
 
 ## Контакты
 
