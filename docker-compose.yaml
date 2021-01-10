@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  narisoft:
+    env_file: ./.env
+    command: /bin/sh -c "while sleep 1000; do :; done"
+    build:
+      context: ./
+      args:
+        USER_NAME: ${NARISOFT_USER_NAME}
+        USER_EMAIL: ${NARISOFT_USER_EMAIL}
+        SIGNATURE: ${NARISOFT_USER_SIGNATURE}
