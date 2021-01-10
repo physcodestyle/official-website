@@ -1,8 +1,8 @@
 matrix:
 - name: RU_Markdown
   group: ru_spelling
-  aspell:
-    lang: ru
+  hunspell:
+    d: ru
   dictionary:
     wordlists:
     - .wordlist/.wordlist-ru.txt
@@ -22,8 +22,8 @@ matrix:
   default_encoding: utf-8
 - name: EN_Markdown
   group: en_spelling
-  aspell:
-    lang: en
+  hunspell:
+    d: en_US
   dictionary:
     wordlists:
     - .wordlist/.wordlist-en.txt
