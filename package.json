@@ -21,6 +21,11 @@
     "url": "https://github.com/physcodestyle/official-website/issues"
   },
   "homepage": "https://github.com/physcodestyle/official-website#readme",
+  "browserslist": [
+    "last 2 version",
+    "not dead",
+    "not ie <= 11"
+  ],
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1"
   }
