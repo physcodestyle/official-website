@@ -1,3 +1,19 @@
+---
+language: 'en'
+date: 1295308800,
+filename: 'istoriya-faculteta'
+type: 'longread'
+aim: 'all'
+title: 'The History of the Faculty'
+description: 'The faculty of physics has been around for 100 years...'
+lead: 'The dawn of the faculty of physics takes us to the 30 years of the last century. As part of the main scientific disciplines, the study of physics was of great importance for the Voronezh state University. The first head of the Department of physics was a veteran of the University Professor N. A. Sakharov. The Department conducted work on the application of the photoelectric method and photometry to the study of radiant energy, as well as optics. The scientific work was noticeably revived after the arrival of Professor A. p. Pospelov, who moved to Voronezh from Tomsk.'
+images:
+  - src: '/images/milky-way.jpg'
+    alt: 'The History of the Faculty'
+    type: 'image'
+updatedAt: 1568360578,
+materialType: 'longread'
+---
 In the early 1930s, the Department of Geophysics was restored as part of the physical Department. The traditions of geophysical research at the Voronezh University were founded by the famous scientist Professor B. I. Sreznevsky. But to work in Voronezh, he was destined only to the hungry 1920, Then geophysical studies for many years was headed by Professor A. V. Shipchenski.
 
 By 1935, Voronezh state University had survived the time typical for all provincial universities. The rise of industry and the need to replenish and update the engineering staff due to the “proletarian-poor youth” sparked a wave of purges and reorganizations 29-30, threatened the elimination of all universities, except the Metropolitan, as structures existing before the revolution, and therefore “obsolete”. Then, in 1931-32, there was a correction of mistakes and restoration of the status of universities as the main educational institutions. It was during these years that the “established” Voronezh University organized first departments - mechanical-mathematical, physical, chemical, Zoological and Botanical, and in 1933 the faculties were re-established: chemical, biological, physical and mathematical. In 1934, the physicist was formed in three specialties: mathematics, aerodynamics, experimental and technical physics. In 1935 the Department of theoretical physics appeared.

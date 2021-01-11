@@ -9,7 +9,7 @@ Next, the registration page opens. Here you need to enter your name, confirm tha
 
 *   Use the e-mail address of the educational institution;
 *   Upload a document that confirms that you are a student (student card).
-*   Use ISIC (how to make it, we tell [here](https://phys.vsu.ru/long-read/ru/2017-10-22-isic.html)).
+*   Use ISIC (how to make it, we tell [here](https://phys.vsu.ru/longread/ru/2017-10-22-isic.html)).
 
 We will use the University e-mail.
 
