@@ -30,6 +30,7 @@
     "@11ty/eleventy": "^0.11.1",
     "eslint": "^7.17.0",
     "eslint-config-google": "^0.14.0",
-    "html-minifier": "^4.0.0"
+    "html-minifier": "^4.0.0",
+    "markdownlint": "^0.22.0"
   }
 }
