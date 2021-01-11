@@ -73,9 +73,9 @@ contacts:
   site: ''
   email: ''
 - name: 'Кафедра ядерной физики'
-phone: '+7 473 220 88 21'
-site: ''
-email: 'nuc@phys.vsu.ru'
+  phone: '+7 473 220 88 21'
+  site: ''
+  email: 'nuc@phys.vsu.ru'
 socialNetworks:
 - name: 'ФизФак ВГУ'
   type: 'instagram'
