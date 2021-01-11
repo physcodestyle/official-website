@@ -24,6 +24,5 @@ jobs:
     steps:
       # Spellcheck
       - uses: actions/checkout@v2
-      - uses: rojopolis/spellcheck-github-actions@0.5.0
+      - uses: igskeor/pyspelling-any@1.0.0
         name: Spellcheck
-        run: apt-get install hunspell hunspell-en-us hunspell-ru -y
