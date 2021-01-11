@@ -7,9 +7,9 @@ aim: 'all'
 title: 'Продукты JetBrains для студентов'
 description: 'Рассказываем как получить редакторы кода от JetBrains для таких языков как C, Java, Python и др.'
 images:
-  - src: '/images/how-to-get-jetbrains-products.jpg'
-    alt: 'Продукты JetBrains для студентов'
-    type: 'image'
+- src: '/images/how-to-get-jetbrains-products.jpg'
+  alt: 'Продукты JetBrains для студентов'
+  type: 'image'
 updatedAt: 1568360578
 materialType: 'longread'
 ---

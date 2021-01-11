@@ -8,9 +8,9 @@ title: 'Как студенту ФизФака получить скидку 25%
 description: 'Студенческая программа действует на поездки в вагонах типа купейных (те, что принадлежат...'
 lead: 'Студенческая программа действует на поездки в вагонах типа купейных (те, что принадлежат АО «ФПК»). А также «Сапсан» и «Аллегро» и другие поезда серии 701-750.'
 images:
-src: '/images/trail-discounts-for-students.jpg'
+- src: '/images/trail-discounts-for-students.jpg'
   alt: 'Скидка на проезд по стране'
-type: 'image'
+  type: 'image'
 updatedAt: 1568360578
 materialType: 'longread'
 ---

@@ -1,17 +1,18 @@
 ---
-language: 'en'date: 1535932800
+language: 'en'
+date: 1535932800
 filename: 'cherenkov-radiation'
 type: 'longread'
 aim: 'all'
 title: 'Cherenkov radiation'
 description: 'In 1934, Pavel Cherenkov, performing in the laboratory of S. I. Vavilov studies of luminescence of liquids under...'lead: 'In 1934, Pavel Cherenkov, performing in the laboratory Of S. I. Vavilov studies of luminescence of liquids under the influence of gamma radiation, found a weak blue radiation of unknown nature. Later it was found that this glow is caused by electrons moving at speeds greater than the phase velocity of light in the medium. Fast electrons are knocked out of the electron shells of the atoms of the medium by gamma radiation.'
 images:
-  - src: '/images/nobel_prize_58.png'
-    alt: 'Nobel prize of 1958'
-    type: 'image'
-  - src: '/images/cherenkov_radiation.jpg'
-    alt: 'Cherenkov radiation'
-    type: 'image'
+- src: '/images/nobel_prize_58.png'
+  alt: 'Nobel prize of 1958'
+  type: 'image'
+- src: '/images/cherenkov_radiation.jpg'
+  alt: 'Cherenkov radiation'
+  type: 'image'
 updatedAt: 1568360578
 materialType: 'longread'
 ---

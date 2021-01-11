@@ -1,14 +1,15 @@
 ---
-language: 'ru'date: 1518912000
+language: 'ru'
+date: 1518912000
 filename: 'kak-oformit-matpomosh'
 type: 'longread'
 aim: 'all'
 title: 'Как оформить матпомощь?'
 description: 'Материальную помощь можно получать вне зависимости от успеваемости и...'
 images:
-  - src: '/images/kak-oformit-matpomosch.jpg'
-    alt: 'Как оформить матпомощь?'
-    type: 'image'
+- src: '/images/kak-oformit-matpomosch.jpg'
+  alt: 'Как оформить матпомощь?'
+  type: 'image'
 updatedAt: 1568360578
 materialType: 'longread'
 ---

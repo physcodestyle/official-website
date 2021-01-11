@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1513987200
+language: 'en'
+date: 1513987200
 filename: 'studsovet-itogi-goda'
 type: 'longread'
 aim: 'all'

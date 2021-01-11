@@ -1,14 +1,15 @@
 ---
-language: 'en'date: 1522108800
+language: 'en'
+date: 1522108800
 filename: 'intervu-so-specialistami-dataart-kotorye-zakonchili-fizfak'
 type: 'longread'
 aim: 'all'
 title: 'Interview With the Specialists at DataArt, Who Graduated From the Faculty of Physics'
 description: 'How did the Faculty of Physics help you get into IT-company, and what do you think about the myth that after it there is no place to work?'
 images:
-  - src: '/images/dataart-logo.png'
-    alt: 'Interview With the Specialists at DataArt, Who Graduated From the Faculty of Physics'
-    type: 'image'
+- src: '/images/dataart-logo.png'
+  alt: 'Interview With the Specialists at DataArt, Who Graduated From the Faculty of Physics'
+  type: 'image'
 updatedAt: 1568360578
 materialType: 'longread'
 ---

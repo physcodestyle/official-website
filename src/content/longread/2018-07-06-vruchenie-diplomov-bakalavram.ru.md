@@ -7,9 +7,9 @@ aim: 'all'
 title: 'Вручение дипломов бакалаврам'
 description: 'Вручение дипломов бакалаврам пройдет 10 июля (вторник)...'
 images:
-  - src: '/images/graduate-bachelor-2018.jpg'
-    alt: 'Вручение дипломов бакалаврам'
-    type: 'image'
+- src: '/images/graduate-bachelor-2018.jpg'
+  alt: 'Вручение дипломов бакалаврам'
+  type: 'image'
 updatedAt: 1568360578
 materialType: 'news'
 ---

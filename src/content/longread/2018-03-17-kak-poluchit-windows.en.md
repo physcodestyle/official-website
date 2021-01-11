@@ -1,14 +1,15 @@
 ---
-language: 'en'date: 1521244800
+language: 'en'
+date: 1521244800
 filename: 'kak-poluchit-windows'
 type: 'longread'
 aim: 'all'
 title: 'How to Get Windows?'
 description: 'We tell you how to get licensed Windows 10'
 images:
-  - src: '/images/microsoft-office-license-for-students.jpg'
-    alt: 'How to Get Windows?'
-    type: 'image'
+- src: '/images/microsoft-office-license-for-students.jpg'
+  alt: 'How to Get Windows?'
+  type: 'image'
 updatedAt: 1568360578
 materialType: 'longread'
 ---

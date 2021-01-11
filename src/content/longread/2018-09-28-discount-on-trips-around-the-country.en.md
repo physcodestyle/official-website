@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1538092800
+language: 'ru'
+date: 1538092800
 filename: 'discount-on-trips-around-the-country'
 type: 'longread'
 aim: 'all'
@@ -8,9 +9,9 @@ description: 'Russian Railways gives 25% discount to students for trips around t
 and \'Allegro\'
 and other trains of the series 701-750.'
 images:
-  - src: '/images/trail-discounts-for-students.jpg'
-    alt: 'Discount on Travel Around the Country'
-    type: 'image'
+- src: '/images/trail-discounts-for-students.jpg'
+  alt: 'Discount on Travel Around the Country'
+  type: 'image'
 updatedAt: 1568360578
 materialType: 'longread'
 ---

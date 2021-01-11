@@ -1,17 +1,18 @@
 ---
-language: 'en'date: 1530144000
+language: 'en'
+date: 1530144000
 filename: 'physics-basics-of-microelectronics'
 type: 'course'
 aim: 'all'
 title: 'Physical fundamentals of solid-state electronics'
 description: 'The course describes the physical basis of solid-state semiconductor devices...'
 images:
-  - src: '/images/physics-basics-of-microelectronics-1.jpg'
-    alt: 'Physical fundamentals of solid-state electronics'
-    type: 'image'
-  - src: '/images/physics-basics-of-microelectronics-2.jpg'
-    alt: 'Physical fundamentals of solid-state electronics'
-    type: 'image'
+- src: '/images/physics-basics-of-microelectronics-1.jpg'
+  alt: 'Physical fundamentals of solid-state electronics'
+  type: 'image'
+- src: '/images/physics-basics-of-microelectronics-2.jpg'
+  alt: 'Physical fundamentals of solid-state electronics'
+  type: 'image'
 updatedAt: 1568360578
 materialType: 'course'
 ---

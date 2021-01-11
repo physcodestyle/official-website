@@ -1,23 +1,24 @@
 ---
-language: 'en'date: 1537488000
+language: 'en'
+date: 1537488000
 filename: 'github-student-subscription'
 type: 'longread'
 aim: 'all'
 title: 'github Student subscription'
 description: 'Today we tell you how to get a student subscription to GitHub, which gives access to...'lead: 'Today we will tell you how to get a student subscription to GitHub, which gives access to the text editor Atom, AWS Educate-a resource from Amazon for learning in the field of cloud technologies, as well as access to products from JetBrains, etc.'
 images:
-  - src: '/images/github-student-subscription-01.jpg'
-    alt: 'Студенческая подписка на GitHub - 1'
-    type: 'image'
-  - src: '/images/github-student-subscription-02.jpg'
-    alt: 'Студенческая подписка на GitHub - 2'
-    type: 'image'
-  - src: '/images/github-student-subscription-03.jpg'
-    alt: 'Студенческая подписка на GitHub - 3'
-    type: 'image'
-  - src: '/images/github-student-subscription-04.jpg'
-    alt: 'Студенческая подписка на GitHub - 4'
-    type: 'image'
+- src: '/images/github-student-subscription-01.jpg'
+  alt: 'Студенческая подписка на GitHub - 1'
+  type: 'image'
+- src: '/images/github-student-subscription-02.jpg'
+  alt: 'Студенческая подписка на GitHub - 2'
+  type: 'image'
+- src: '/images/github-student-subscription-03.jpg'
+  alt: 'Студенческая подписка на GitHub - 3'
+  type: 'image'
+- src: '/images/github-student-subscription-04.jpg'
+  alt: 'Студенческая подписка на GitHub - 4'
+  type: 'image'
 updatedAt: 1568360578
 materialType: 'longread'
 ---

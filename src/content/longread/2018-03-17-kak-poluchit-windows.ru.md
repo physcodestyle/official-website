@@ -7,9 +7,9 @@ aim: 'all'
 title: 'Как получить Windows?'
 description: 'Рассказываем, как получить лицензионную Windows 10'
 images:
-src: '/images/microsoft-office-license-for-students.jpg'
+- src: '/images/microsoft-office-license-for-students.jpg'
   alt: 'Как получить Windows?'
-type: 'image'
+  type: 'image'
 updatedAt: 1568360578
 materialType: 'longread'
 ---
