@@ -14,4 +14,3 @@ images:
 updatedAt: 1591142400
 materialType: 'important'
 ---
-

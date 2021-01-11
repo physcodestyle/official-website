@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1591142400
+language: 'ru'
+date: 1591142400
 filename: 'lessons-schedule'
 type: 'important'
 aim: 'all'
@@ -13,4 +14,3 @@ images:
 updatedAt: 1591142400
 materialType: 'important'
 ---
-
