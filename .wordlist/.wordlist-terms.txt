@@ -169,6 +169,7 @@ Exe
 EXE
 eXtentions
 facebook
+faculteta
 Fedor
 Fedorov
 Fedorova
@@ -272,6 +273,7 @@ Isaakovich
 ise
 isic
 ISIC
+istoriya
 itgeneration
 ITMO
 iturnir
@@ -284,6 +286,7 @@ jetbrains
 JetBrains
 JINR
 jjgTc
+jpg
 jq
 jQuery
 jsc
@@ -354,6 +357,7 @@ Lev
 Levitskaya
 Lisitsin
 Lomonosov
+longread
 löwitzian
 LPI
 Lugovskoy
@@ -369,6 +373,7 @@ Manne
 Markova
 Masha
 Maslenitsa
+materialType
 Mayorova
 melatonin
 meleshina
@@ -467,6 +472,7 @@ Petrovsky
 photocatalysis
 photochemical
 photoelectron
+photometry
 photonic
 Photonics
 Photophysical
@@ -487,6 +493,7 @@ PMM
 Pokrovsky
 polariton
 polymesomorphic
+Pospelov
 PowerShell
 ppuusshhkkaa
 preobrazovaniem
@@ -572,6 +579,7 @@ Spbgukit
 sphera
 spintronics
 SPO
+src
 SRC
 Sredne
 Sreznevsky
@@ -643,6 +651,7 @@ UMO
 Unallocated
 UniCredit
 UNiDSYs
+updatedAt
 uW
 UX
 uzt
