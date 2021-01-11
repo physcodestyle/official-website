@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1545609600
+language: 'en'
+date: 1545609600
 filename: 'akciya-moy-geroy'
 type: 'news'
 aim: 'all'

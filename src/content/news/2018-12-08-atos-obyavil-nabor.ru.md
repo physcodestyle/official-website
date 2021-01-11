@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1544227200
+language: 'ru'
+date: 1544227200
 filename: 'atos-obyavil-nabor'
 type: 'news'
 aim: 'all'

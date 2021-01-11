@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1553558400
+language: 'ru'
+date: 1553558400
 filename: 'zayavleniya-na-yug'
 type: 'news'
 aim: 'all'

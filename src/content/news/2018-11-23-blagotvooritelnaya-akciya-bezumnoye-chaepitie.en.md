@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1542931200
+language: 'en'
+date: 1542931200
 filename: 'blagotvooritelnaya-akciya-bezumnoye-chaepitie'
 type: 'news'
 aim: 'all'

@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1550361600
+language: 'en'
+date: 1550361600
 filename: 'perviy-sbor-bakha-v-etom-godu'
 type: 'news'
 aim: 'all'

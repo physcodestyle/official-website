@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1553040000
+language: 'ru'
+date: 1553040000
 filename: 'kak-ophormit-matpomosch'
 type: 'news'
 aim: 'all'

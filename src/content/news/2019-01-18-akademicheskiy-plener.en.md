@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1547769600
+language: 'en'
+date: 1547769600
 filename: 'akademicheskiy-planner'
 type: 'news'
 aim: 'all'

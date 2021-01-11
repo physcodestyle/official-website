@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1547510400
+language: 'ru'
+date: 1547510400
 filename: 'lekcii-ot-red-collar'
 type: 'news'
 aim: 'all'

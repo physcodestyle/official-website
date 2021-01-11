@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1540425600
+language: 'en'
+date: 1540425600
 filename: 'tech-leaders-russia'
 type: 'news'
 aim: 'all'

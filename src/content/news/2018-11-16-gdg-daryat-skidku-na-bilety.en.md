@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1542326400
+language: 'en'
+date: 1542326400
 filename: 'gdg-daryat-skidku-na-bilety'
 type: 'news'
 aim: 'all'

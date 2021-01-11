@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1538006400
+language: 'en'
+date: 1538006400
 filename: 'cup-misis-case'
 type: 'news'
 aim: 'all'

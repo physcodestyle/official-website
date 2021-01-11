@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1543881600
+language: 'ru'
+date: 1543881600
 filename: 'v-sibak-trebuetsya-nauchniy-redaktor'
 type: 'news'
 aim: 'all'

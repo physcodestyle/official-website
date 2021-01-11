@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1543104000
+language: 'ru'
+date: 1543104000
 filename: '8-poleznyh-prilozhenii-dlya-studenta'
 type: 'news'
 aim: 'all'

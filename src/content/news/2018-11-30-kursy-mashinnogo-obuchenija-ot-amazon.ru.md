@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1543536000
+language: 'ru'
+date: 1543536000
 filename: 'kursy-mashinnogo-obuchenija-ot-amazon'
 type: 'news'
 aim: 'all'

@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1551312000
+language: 'ru'
+date: 1551312000
 filename: 'nikita-buylov-inzhener-goda'
 type: 'news'
 aim: 'all'

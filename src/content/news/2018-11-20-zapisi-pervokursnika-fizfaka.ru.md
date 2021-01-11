@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1542672000
+language: 'ru'
+date: 1542672000
 filename: 'zapisi-pervokursnika-fizfaka'
 type: 'news'
 aim: 'all'

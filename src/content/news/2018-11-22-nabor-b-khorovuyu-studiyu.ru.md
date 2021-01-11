@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1542844800
+language: 'ru'
+date: 1542844800
 filename: 'nabor-b-khorovuyu-studiyu'
 type: 'news'
 aim: 'all'

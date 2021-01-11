@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1542067200
+language: 'en'
+date: 1542067200
 filename: 'razdacha-certificatov-v-qvest-komnaty'
 type: 'news'
 aim: 'all'
@@ -19,8 +20,8 @@ Reception of applications from 13:00 to 14:00. Issuance of certificates after 14
 Sites with lists of quest rooms:
 
 *   [Quest Brothers](http://quest%20brothers.ru/)
-    
+
 *   [Za-Dveryu](http://za-dveryu.ru/)
-    
+
 
 You should have a student (or an identity document) and a professional card.

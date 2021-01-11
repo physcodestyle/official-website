@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1552348800
+language: 'ru'
+date: 1552348800
 filename: 'konferenciya-po-svch'
 type: 'news'
 aim: 'all'

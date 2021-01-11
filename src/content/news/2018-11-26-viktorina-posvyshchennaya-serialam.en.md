@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1543190400
+language: 'en'
+date: 1543190400
 filename: 'viktorina-posvyshchennaya-serialam'
 type: 'news'
 aim: 'all'

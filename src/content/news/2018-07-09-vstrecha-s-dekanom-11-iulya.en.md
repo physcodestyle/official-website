@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1531094400
+language: 'en'
+date: 1531094400
 filename: 'vstrecha-s-dekanom-11-iulya'
 type: 'news'
 aim: 'all'

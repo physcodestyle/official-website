@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1552953600
+language: 'ru'
+date: 1552953600
 filename: 'yuriy-perin-voshel-v-desyatku-luchshikh'
 type: 'news'
 aim: 'all'

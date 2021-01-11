@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1542326400
+language: 'en'
+date: 1542326400
 filename: 'nabor-v-facultet-18'
 type: 'news'
 aim: 'all'

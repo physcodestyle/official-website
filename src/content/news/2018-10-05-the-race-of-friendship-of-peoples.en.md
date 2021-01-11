@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1538697600
+language: 'en'
+date: 1538697600
 filename: 'the-race-of-friendship-of-peoples'
 type: 'news'
 aim: 'all'

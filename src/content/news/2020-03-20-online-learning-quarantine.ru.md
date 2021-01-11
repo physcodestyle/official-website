@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1584662400
+language: 'ru'
+date: 1584662400
 filename: 'online-learning-quarantine'
 type: 'news'
 aim: 'all'

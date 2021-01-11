@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1588809600
+language: 'ru'
+date: 1588809600
 filename: 'online-exams'
 type: 'news'
 aim: 'all'

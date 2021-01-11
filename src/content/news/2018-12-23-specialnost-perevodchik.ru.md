@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1545523200
+language: 'ru'
+date: 1545523200
 filename: 'specialnost-perevodchik'
 type: 'news'
 aim: 'all'

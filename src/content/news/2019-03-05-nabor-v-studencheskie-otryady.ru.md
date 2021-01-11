@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1551744000
+language: 'ru'
+date: 1551744000
 filename: 'nabor-v-studencheskie-otryady'
 type: 'news'
 aim: 'all'

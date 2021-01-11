@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1542153600
+language: 'en'
+date: 1542153600
 filename: 'master-klass-celenapravlenie'
 type: 'news'
 aim: 'all'

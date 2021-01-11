@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1548720000
+language: 'en'
+date: 1548720000
 filename: 'konkurs-na-rospis-stolovoy'
 type: 'news'
 aim: 'all'

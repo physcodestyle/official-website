@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1537660800
+language: 'en'
+date: 1537660800
 filename: 'supply-chain-cup'
 type: 'news'
 aim: 'all'

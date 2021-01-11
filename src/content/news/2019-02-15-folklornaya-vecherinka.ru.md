@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1550102400
+language: 'ru'
+date: 1550102400
 filename: 'folklornaya-vecherinka'
 type: 'news'
 aim: 'all'

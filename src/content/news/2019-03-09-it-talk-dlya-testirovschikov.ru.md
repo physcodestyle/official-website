@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1552089600
+language: 'ru'
+date: 1552089600
 filename: 'it-talk-dlya-testirovschikov'
 type: 'news'
 aim: 'all'

@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1531872000
+language: 'ru'
+date: 1531872000
 filename: 'v-t-systems-otkryt-nabor-v-java-shkolu'
 type: 'news'
 aim: 'all'

@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1543881600
+language: 'ru'
+date: 1543881600
 filename: 'rubikon-vyigral-turnir-phisikov'
 type: 'news'
 aim: 'all'

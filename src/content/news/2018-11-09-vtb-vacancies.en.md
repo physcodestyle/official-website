@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1541721600
+language: 'en'
+date: 1541721600
 filename: 'vtb-vacancies'
 type: 'news'
 aim: 'all'

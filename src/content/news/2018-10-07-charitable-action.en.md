@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1538870400
+language: 'en'
+date: 1538870400
 filename: 'charitable-action'
 type: 'news'
 aim: 'all'

@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1539475200
+language: 'ru'
+date: 1539475200
 filename: 'layer-help'
 type: 'news'
 aim: 'all'

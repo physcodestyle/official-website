@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1539129600
+language: 'en'
+date: 1539129600
 filename: 'read-dumpty'
 type: 'news'
 aim: 'all'

@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1538956800
+language: 'ru'
+date: 1538956800
 filename: 'dota2-csgo-tournaments'
 type: 'news'
 aim: 'all'

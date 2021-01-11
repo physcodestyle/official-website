@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1532649600
+language: 'ru'
+date: 1532649600
 filename: 'na-chto-zamenit-chupa-chups'
 type: 'news'
 aim: 'all'

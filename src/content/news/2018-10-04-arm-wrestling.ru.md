@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1538611200
+language: 'ru'
+date: 1538611200
 filename: 'arm-wrestling'
 type: 'news'
 aim: 'all'

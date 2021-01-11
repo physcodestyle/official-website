@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1542499200
+language: 'ru'
+date: 1542499200
 filename: 'kak-poluchit-dostup-k-supercomputery'
 type: 'news'
 aim: 'all'

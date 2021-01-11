@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1549584000
+language: 'en'
+date: 1549584000
 filename: 'v-vgu-proidet-rlnc'
 type: 'news'
 aim: 'all'

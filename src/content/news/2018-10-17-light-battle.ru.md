@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1539734400
+language: 'ru'
+date: 1539734400
 filename: 'light-battle'
 type: 'news'
 aim: 'all'

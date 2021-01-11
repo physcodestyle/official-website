@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1537833600
+language: 'ru'
+date: 1537833600
 filename: 'teacher-for-russia'
 type: 'news'
 aim: 'all'

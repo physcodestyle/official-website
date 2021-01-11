@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1550016000
+language: 'en'
+date: 1550016000
 filename: 'inradel-vseros-konkurs-ntp'
 type: 'news'
 aim: 'all'

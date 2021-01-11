@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1532304000
+language: 'ru'
+date: 1532304000
 filename: 'vstrecha-vypusknikov'
 type: 'news'
 aim: 'all'

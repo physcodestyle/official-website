@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1545955200
+language: 'ru'
+date: 1545955200
 filename: 'otkryt-nabor-volonterov-na-roboart'
 type: 'news'
 aim: 'all'

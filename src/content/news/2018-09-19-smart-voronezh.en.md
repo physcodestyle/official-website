@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1537315200
+language: 'en'
+date: 1537315200
 filename: 'smart-voronezh'
 type: 'news'
 aim: 'all'

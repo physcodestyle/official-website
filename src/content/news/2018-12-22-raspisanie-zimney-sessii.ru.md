@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1545436800
+language: 'ru'
+date: 1545436800
 filename: 'raspisanie-zimney-sessii'
 type: 'news'
 aim: 'all'

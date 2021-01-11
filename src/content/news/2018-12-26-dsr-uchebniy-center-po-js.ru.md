@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1545782400
+language: 'ru'
+date: 1545782400
 filename: 'dsr-uchebniy-center-po-js'
 type: 'news'
 aim: 'all'

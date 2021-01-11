@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1538524800
+language: 'ru'
+date: 1538524800
 filename: 'it-breakthrough'
 type: 'news'
 aim: 'all'

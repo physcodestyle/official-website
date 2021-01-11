@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1539216000
+language: 'ru'
+date: 1539216000
 filename: 'c-pascal-courses'
 type: 'news'
 aim: 'all'

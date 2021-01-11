@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1541894400
+language: 'en'
+date: 1541894400
 filename: 'tuf-school'
 type: 'news'
 aim: 'all'

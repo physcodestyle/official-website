@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1544572800
+language: 'en'
+date: 1544572800
 filename: 'oznakomitelnaya-vstrecha-s-mail-ru-group'
 type: 'news'
 aim: 'all'

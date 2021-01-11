@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1549065600
+language: 'en'
+date: 1549065600
 filename: 'otkryt-nabor-na-igrosfery'
 type: 'news'
 aim: 'all'

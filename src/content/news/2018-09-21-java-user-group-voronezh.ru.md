@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1537488000
+language: 'ru'
+date: 1537488000
 filename: 'java-user-group-voronezh'
 type: 'news'
 aim: 'all'

@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1539561600
+language: 'en'
+date: 1539561600
 filename: 'physics-astronomy-teacher'
 type: 'news'
 aim: 'all'

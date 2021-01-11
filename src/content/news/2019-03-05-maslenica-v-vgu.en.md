@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1551744000
+language: 'en'
+date: 1551744000
 filename: 'maslenica-v-vgu'
 type: 'news'
 aim: 'all'

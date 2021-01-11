@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1537056000
+language: 'ru'
+date: 1537056000
 filename: 'fotootchyot-s-vstrechi-vypusknikov-100-letie-vsu'
 type: 'news'
 aim: 'all'

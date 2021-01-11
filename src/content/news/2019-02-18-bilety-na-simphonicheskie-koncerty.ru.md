@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1550448000
+language: 'ru'
+date: 1550448000
 filename: 'bilety-na-simphonicheskie-koncerty'
 type: 'news'
 aim: 'all'

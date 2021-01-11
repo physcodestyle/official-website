@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1552262400
+language: 'ru'
+date: 1552262400
 filename: 'totalniy-diktant'
 type: 'news'
 aim: 'all'

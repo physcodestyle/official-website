@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1549584000
+language: 'ru'
+date: 1549584000
 filename: 'otkryvaetsya-noviy-turnir-tryokh-nauk'
 type: 'news'
 aim: 'all'

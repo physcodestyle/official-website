@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1550188800
+language: 'ru'
+date: 1550188800
 filename: 'zayavleniya-na-stimuliruyuschuyu-stipendiyu'
 type: 'news'
 aim: 'all'

@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1551225600
+language: 'en'
+date: 1551225600
 filename: 'nabor-volonterov-na-dataart'
 type: 'news'
 aim: 'all'

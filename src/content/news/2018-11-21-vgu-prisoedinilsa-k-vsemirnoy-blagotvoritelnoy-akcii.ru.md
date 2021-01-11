@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1542758400
+language: 'ru'
+date: 1542758400
 filename: 'vgu-prisoedinilsa-k-vsemirnoy-blagotvoritelnoy-akcii'
 type: 'news'
 aim: 'all'

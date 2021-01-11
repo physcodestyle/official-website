@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1543795200
+language: 'ru'
+date: 1543795200
 filename: 'rubikon-vyshel-v-final'
 type: 'news'
 aim: 'all'

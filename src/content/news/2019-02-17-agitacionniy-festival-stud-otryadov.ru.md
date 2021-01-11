@@ -1,5 +1,6 @@
 ---
-language: 'ru'date: 1550361600
+language: 'ru'
+date: 1550361600
 filename: 'agitacionniy-festival-stud-otryadov'
 type: 'news'
 aim: 'all'

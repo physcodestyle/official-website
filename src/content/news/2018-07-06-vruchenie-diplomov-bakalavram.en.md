@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1530835200
+language: 'en'
+date: 1530835200
 filename: 'vruchenie-diplomov-bakalavram'
 type: 'news'
 aim: 'all'

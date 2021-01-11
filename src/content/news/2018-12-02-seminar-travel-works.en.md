@@ -1,5 +1,6 @@
 ---
-language: 'en'date: 1543708800
+language: 'en'
+date: 1543708800
 filename: 'seminar-travel-works'
 type: 'news'
 aim: 'all'
@@ -15,11 +16,11 @@ materialType: 'news'
 TravelWorks will hold a seminar “what to do after graduation”, where an accredited specialist on career and education abroad will tell:
 
 *   What specialists and professions are in demand abroad
-    
+
 *   How to continue your education and gain experience abroad.
-    
+
 *   How to live abroad without knowing English.
-    
+
 
 After the seminar, you can get a personal consultation and a discount on one of the TravelWorks programs.
 
