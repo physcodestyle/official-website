@@ -1,0 +1,1 @@
+March 7 at VSU celebrate Maslenitsa. On the ground floor of the main building at 12:00 you can eat pancakes, drink tea, dance and meet the spring.

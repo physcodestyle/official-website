@@ -1,0 +1,1 @@
+2018 is coming to an end, it’s time to remember what happened in student life during this time. About the achievements of the heads of directions of the student Council of the physical Faculty. [Read more](https://vk.com/@physvsu-itogi-goda-studencheskogo-soveta).

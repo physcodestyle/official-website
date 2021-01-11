@@ -1,0 +1,3 @@
+[“Internship.ru”](https://vk.com/stazhirovka_ru) conducts a skills marathon. The program will help you to decide what profession suits you, and then the site team will recommend a vacancy.
+
+To take part, it is necessary: 1. Sign up on [the website](https://stazhirovka.ru/) 2. In your profile, in the about themselves, specify 5 skills and at the end, add the hashtag [#ПерспективныйСтудент](https://vk.com/feed?section=search&q=%23%D0%9F%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82) (#ProspectiveStudent) 3. After that, within 3-4 days, the mail will receive a letter from the team with recommendations.

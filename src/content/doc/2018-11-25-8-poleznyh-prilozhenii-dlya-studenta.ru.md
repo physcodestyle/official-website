@@ -1,0 +1,1 @@
+[Учимся использовать](https://vk.com/@physvsu-8-poleznyh-prilozhenii-dlya-studenta) смартфон на пользу учебе и для упрощения студенческой жизни.

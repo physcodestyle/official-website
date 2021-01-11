@@ -1,0 +1,1 @@
+Congratulations to the beautiful half of our faculty on the holiday! The editors of the group “from the physics Department of VSU” made for you a few wishes.

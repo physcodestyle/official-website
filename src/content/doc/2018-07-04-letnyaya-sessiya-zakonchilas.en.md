@@ -1,0 +1,3 @@
+If you still have tails or you want to know if everything is put down in the sheets, it can be done on [сайте](https://edu.vsu.ru).
+
+If you have never used the portal, use the student number for the first login. Password - date of birth in DD format.mm. Then, in the “my user account” tab in the “Personal information about educational activities” section, click on the link “academic Performance”. Here you can see all the information about tests and exams.

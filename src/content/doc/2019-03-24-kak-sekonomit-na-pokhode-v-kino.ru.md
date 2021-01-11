@@ -1,0 +1,1 @@
+[Инструкция](https://vk.com/@physvsu-kak-studentu-v-voronezhe-ekonomit-na-kino) любителям кино, которые хотят немного сэкономить.

@@ -1,0 +1,1 @@
+[This artcicle](https://vk.com/@physvsu-superkomputer-vgu) will help you to know how to use the VSU’s supercomputer. It will help you with complex calculations, for example, in scientific work.

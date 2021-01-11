@@ -1,0 +1,1 @@
+Published photos from the new year’s concert of the faculty of physics! They are available in [album](https://vk.com/physvsu?z=album-131429_259533731).

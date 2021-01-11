@@ -1,0 +1,1 @@
+Winter session came to an end and you can relax a little. But the best rest is a change of activity. We have selected for you [11 online courses](https://vk.com/@physvsu-12-onlain-kursov-dlya-tehnarei) that will help you become a sought-after specialist.
