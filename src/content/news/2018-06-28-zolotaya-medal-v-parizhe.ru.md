@@ -5,8 +5,8 @@ filename: 'zolotaya-medal-v-parizhe'
 type: 'news'
 aim: 'all'
 title: 'Золотая медаль в Париже'
-'description: 'Книжный салон в Париже отметил золотой медалью...'
-'images:
+description: 'Книжный салон в Париже отметил золотой медалью...'
+images:
   - src: '/images/paris-book-fair.jpg'
     alt: 'Золотая медаль в Париже'
     type: 'image'

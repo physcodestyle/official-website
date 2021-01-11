@@ -5,8 +5,8 @@ filename: 'nabor-v-studencheskie-otryady'
 type: 'news'
 aim: 'all'
 title: 'Recruitment in student teams for the summer of 2019'
-'description: 'Set in the student teams for the summer of 2019'
-'images:
+description: 'Set in the student teams for the summer of 2019'
+images:
   - src: '/images/nabor-v-studencheskie-otryady.jpg'
     alt: 'Set in student teams for summer 2019'
     type: 'image'

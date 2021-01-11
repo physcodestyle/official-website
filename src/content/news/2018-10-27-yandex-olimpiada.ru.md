@@ -5,8 +5,8 @@ filename: 'yandex-olimpiada'
 type: 'news'
 aim: 'all'
 title: 'Студенческая олимпиада «Я — профессионал»'
-'description: 'Яндекс открыл регистрацию на студенческую олимпиаду «Я — профессионал»'
-'images:
+description: 'Яндекс открыл регистрацию на студенческую олимпиаду «Я — профессионал»'
+images:
   - src: '/images/yandex-olimpiada.jpg'
     alt: 'Студенческая олимпиада «Я — профессионал»'
     type: 'image'

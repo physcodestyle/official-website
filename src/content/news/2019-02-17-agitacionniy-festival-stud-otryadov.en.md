@@ -5,8 +5,8 @@ filename: 'agitacionniy-festival-stud-otryadov'
 type: 'news'
 aim: 'all'
 title: 'VSU Student teams are invited to the agitation festival'
-'description: 'VSU Student teams are invited to the agitation festival'
-'images:
+description: 'VSU Student teams are invited to the agitation festival'
+images:
   - src: '/images/agitacionniy-festival-stud-otryadov.jpg'
     alt: 'Student groups of VSU invite to the propaganda festival'
     type: 'image'

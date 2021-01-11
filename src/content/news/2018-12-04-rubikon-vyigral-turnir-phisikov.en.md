@@ -5,8 +5,8 @@ filename: 'rubikon-vyigral-turnir-phisikov'
 type: 'news'
 aim: 'all'
 title: 'Rubicon Club won the all-Russian physics tournament!'
-'description: 'The Rubicon team won the final of the all-Russian tournament of physicists!'
-'images:
+description: 'The Rubicon team won the final of the all-Russian tournament of physicists!'
+images:
   - src: '/images/rubikon-vyigral-turnir-phisikov.jpg'
     alt: ''
     type: 'image'

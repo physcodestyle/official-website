@@ -5,8 +5,8 @@ filename: 'stazhirovka-ru-provodit-maraphon-navykov'
 type: 'news'
 aim: 'all'
 title: '«Стажировка.ру» проводит марафон навыков'
-'description: '«Стажировка.ру» проводит марафон навыков. Программа поможет определиться...'
-'images:
+description: '«Стажировка.ру» проводит марафон навыков. Программа поможет определиться...'
+images:
   - src: '/images/stazhirovka-ru-provodit-maraphon-navykov.jpg'
     alt: '«Стажировка.ру» проводит марафон навыков'
     type: 'image'

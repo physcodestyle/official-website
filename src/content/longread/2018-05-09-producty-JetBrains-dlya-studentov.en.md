@@ -5,8 +5,8 @@ filename: 'producty-JetBrains-dlya-studentov'
 type: 'longread'
 aim: 'all'
 title: 'JetBrains Products for Students'
-'description: 'We tell you how to get code editors from JetBrains for languages such as C, Java, Python, etc'
-'images:
+description: 'We tell you how to get code editors from JetBrains for languages such as C, Java, Python, etc'
+images:
   - src: '/images/how-to-get-jetbrains-products.jpg'
     alt: 'JetBrains Products for Students'
     type: 'image'

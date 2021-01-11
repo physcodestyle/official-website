@@ -5,8 +5,8 @@ filename: 'light-battle'
 type: 'news'
 aim: 'all'
 title: 'Light battle'
-'description: 'from 16 to 25 November in the main building of the VSU will be Light battle...'
-'images:
+description: 'from 16 to 25 November in the main building of the VSU will be Light battle...'
+images:
   - src: '/images/light-battle.jpg'
     alt: 'Light battle'
     type: 'image'

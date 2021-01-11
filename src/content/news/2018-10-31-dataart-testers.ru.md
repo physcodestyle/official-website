@@ -5,8 +5,8 @@ filename: 'dataart-testers'
 type: 'news'
 aim: 'all'
 title: 'Компания DataArt приглашает начинающих тестировщиков на стажировку'
-'description: 'Компания DataArt приглашает начинающих тестировщиков на стажировку...'
-'images:
+description: 'Компания DataArt приглашает начинающих тестировщиков на стажировку...'
+images:
   - src: '/images/dataart-testers.jpg'
     alt: 'DataArt приглашает начинающих тестировщиков'
     type: 'image'

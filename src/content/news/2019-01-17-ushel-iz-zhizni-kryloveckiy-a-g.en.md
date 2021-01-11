@@ -5,8 +5,8 @@ filename: 'ushel-iz-zhizni-krylovecky-a-g'
 type: 'news'
 aim: 'all'
 title: 'Gone from the life of Abram G. Krylovetsky'
-'description: 'Gone from the life of Abram G. Krylovetsky'
-'images:
+description: 'Gone from the life of Abram G. Krylovetsky'
+images:
   - src: '/images/ushel-iz-zhizni-kryloveckiy-a-g.jpg'
     alt: 'Abram Grigorievich Krylovetsky'
     type: 'image'

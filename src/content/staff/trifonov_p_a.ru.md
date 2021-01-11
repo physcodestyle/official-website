@@ -2,13 +2,12 @@
 language: 'ru'
 filename: 'trifonov_p_a'
 type: 'staff'
-aim: ['radio']
+aim: 'radio']
 name: 'Трифонов Павел Андреевич'
 degree: 'доктор технических наук'
 title: 'доцент'
-post: ['профессор']
+post: 'профессор']
 speciality: '(20.01.12) Радиоэлектронная борьба (способы и средства)'
-contacts: []
 avatar:
 src: ''
 title: 'Трифонов Павел Андреевич - профессор кафедры радиофизики'

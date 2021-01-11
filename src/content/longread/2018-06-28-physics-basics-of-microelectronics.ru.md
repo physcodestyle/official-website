@@ -5,8 +5,8 @@ filename: 'physics-basics-of-microelectronics'
 type: 'course'
 aim: 'all'
 title: 'Физические основы твердотельной электроники'
-'description: 'В курсе рассмотрены физические основы работы твердотельных полупроводниковых приборов...'
-'images:
+description: 'В курсе рассмотрены физические основы работы твердотельных полупроводниковых приборов...'
+images:
   - src: '/images/physics-basics-of-microelectronics-1.jpg'
     alt: 'Физические основы твердотельной электроники'
     type: 'image'

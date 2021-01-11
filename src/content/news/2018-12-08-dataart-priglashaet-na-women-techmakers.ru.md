@@ -5,8 +5,8 @@ filename: 'dataart-priglashaet-na-women-techmakers'
 type: 'news'
 aim: 'all'
 title: 'DataArt приглашает всех желающих на Women Techmakers'
-'description: 'DataArt приглашает всех желающих на Women Techmakers.'
-'images:
+description: 'DataArt приглашает всех желающих на Women Techmakers.'
+images:
   - src: '/images/dataart-priglashaet-na-women-techmakers.jpg'
     alt: 'DataArt. Women Techmakers'
     type: 'image'

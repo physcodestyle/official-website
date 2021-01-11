@@ -5,8 +5,8 @@ filename: 'academiya-yandexa-shkola-razrabotki-interfeysov'
 type: 'news'
 aim: 'all'
 title: 'School of development of interfaces'
-'description: 'Academy of Yandex opened the school of design interfaces. The school will take place...'
-'images:
+description: 'Academy of Yandex opened the school of design interfaces. The school will take place...'
+images:
   - src: '/images/yandex.jpg'
     alt: 'School of development of interfaces'
     type: 'image'

@@ -5,8 +5,8 @@ filename: 'vstrecha-c-arkadiem-davidovichem'
 type: 'news'
 aim: 'all'
 title: 'Встреча с Аркадием Давидовичем'
-'description: 'Факультет журналистики ВГУ проведёт встречу с Аркадием Давидовичем.'
-'images:
+description: 'Факультет журналистики ВГУ проведёт встречу с Аркадием Давидовичем.'
+images:
   - src: '/images/vstrecha-c-arkadiem-davidovichem.jpg'
     alt: 'Встреча с Аркадием Давидовичем'
     type: 'image'

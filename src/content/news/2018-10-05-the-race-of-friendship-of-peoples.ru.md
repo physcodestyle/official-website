@@ -5,8 +5,8 @@ filename: 'the-race-of-friendship-of-peoples'
 type: 'news'
 aim: 'all'
 title: 'Забег «Дружбы народов»'
-'description: 'Спортивный клуб ВГУ «Хищные бобры» приглашает пробежать забег «Дружбы народов».'
-'images:
+description: 'Спортивный клуб ВГУ «Хищные бобры» приглашает пробежать забег «Дружбы народов».'
+images:
   - src: '/images/the-race-of-friendship-of-peoples.jpg'
     alt: 'Забег «Дружбы народов»'
     type: 'image'

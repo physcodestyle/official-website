@@ -5,8 +5,8 @@ filename: 'cup-misis-case'
 type: 'news'
 aim: 'all'
 title: 'Всероссийский кейс-чемпионат CUP MISIS CASE'
-'description: 'Всероссийский кейс-чемпионат CUP MISIS CASE. Задания составлены на основе IoT, AI, Big Data, Machine Learning'
-'images:
+description: 'Всероссийский кейс-чемпионат CUP MISIS CASE. Задания составлены на основе IoT, AI, Big Data, Machine Learning'
+images:
   - src: '/images/idea.png'
     alt: 'Всероссийский кейс-чемпионат CUP MISIS CASE'
     type: 'image'

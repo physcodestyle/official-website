@@ -5,8 +5,8 @@ filename: 'c-pascal-sources'
 type: 'news'
 aim: 'all'
 title: 'Free C and Pascal language courses'
-'description: 'DSR Corporation and VSU open free C and Pascal language courses...'
-'images:
+description: 'DSR Corporation and VSU open free C and Pascal language courses...'
+images:
   - src: '/images/c-pascal-courses.jpg'
     alt: 'Free C and Pascal language courses'
     type: 'image'

@@ -2,11 +2,13 @@
 language: 'en'
 filename: 'glukhov_i_l'
 type: 'staff'
-'aim: ['exp']  'name: 'Glukhov Igor'
+aim: 'exp'
+name: 'Glukhov Igor'
 Leonidovich'
-'degree: 'Candidate of Physico-Mathematical Sciences'
-'title: null  'post: ['assistant']  'speciality: '(01.04.02) Theoretical physics'
-'contacts: []  'avatar:
+degree: 'Candidate of Physico-Mathematical Sciences'
+'title: null  post: 'assistant'
+speciality: '(01.04.02) Theoretical physics'
+avatar:
   - src: ''
 title: 'Glukhov Igor'
 Leonidovich - assistant of the Experimental physics Department'

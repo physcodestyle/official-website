@@ -5,8 +5,8 @@ filename: 'intechros'
 type: 'news'
 aim: 'all'
 title: 'Holding Intekhros'
-'description: 'Intechros Holding creates robots for shopping centers...'
-'images:
+description: 'Intechros Holding creates robots for shopping centers...'
+images:
   - src: '/images/idea.png'
     alt: 'Intechros holding creates robots for shopping centers'
     type: 'image'

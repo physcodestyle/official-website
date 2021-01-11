@@ -2,13 +2,12 @@
 language: 'ru'
 filename: 'elfimov_s_v'
     type: 'staff'
-aim: ['math']
+aim: 'math']
 name: 'Елфимов Сергей Викторович'
 degree: 'кандидат физико-математических наук'
 title: null
-post: ['ассистент']
+post: 'ассистент']
 speciality: '(01.04.05) Оптика'
-contacts: []
 avatar:
   - src: ''
 title: 'Елфимов Сергей Викторович - ассистент кафедры математической физики'

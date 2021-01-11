@@ -5,8 +5,8 @@ filename: 'reytingovyy-spisok-po-originalam'
 type: 'news'
 aim: 'all'
 title: 'On the Website There is a List of the Originals!'
-'description: 'List of applicants who submitted the original documents of education'
-'images:
+description: 'List of applicants who submitted the original documents of education'
+images:
   - src: '/images/rating-certificates-2018.jpg'
     alt: 'On the Website There is a List of the Originals!'
     type: 'image'

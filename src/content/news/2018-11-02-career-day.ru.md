@@ -5,8 +5,8 @@ filename: 'career-day'
 type: 'news'
 aim: 'all'
 title: 'День карьеры в ВГУ'
-'description: '10 ноября (суббота) в ВГУ состоится День карьеры...'
-'images:
+description: '10 ноября (суббота) в ВГУ состоится День карьеры...'
+images:
   - src: '/images/career-day.jpg'
     alt: 'День карьеры в ВГУ'
     type: 'image'

@@ -5,7 +5,7 @@ filename: 'courses-from-dsr'
 type: 'news'
 aim: 'all'
 title: 'DSR проводит набор на курсы'
-'description: 'DSR проводит набор на курсы по Java, C, Pascal и встроенным системам.'
+description: 'DSR проводит набор на курсы по Java, C, Pascal и встроенным системам.'
 updatedAt: 1568360578
 materialType: 'news'
 ---

@@ -5,8 +5,8 @@ filename: 'foto-s-novogodnego-koncerta'
 type: 'news'
 aim: 'all'
 title: 'photos from new year's concert of the physics Department'
-'description: 'photo report from the new year's concert of the Physicist'
-'images:
+description: 'photo report from the new year's concert of the Physicist'
+images:
   - src: '/images/foto-s-novogodnego-koncerta.jpg'
     alt: 'New year's concert of the physics Department of VSU'
     type: 'image'

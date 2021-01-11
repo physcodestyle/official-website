@@ -2,13 +2,13 @@
 language: 'ru'
 filename: 'kukuev_v_i'
 type: 'staff'
-aim: ['kof']
+aim: 'kof']
 name: 'Кукуев Вячеслав Иванович'
 degree: 'доктор физико-математических наук'
 title: 'профессор'
-post: ['профессор']
+post: 'профессор']
 speciality: '(02.00.04) Физическая химия'
-contacts: ['+74732208917', 'kukuev@ftt.vsu.ru']
+contacts: '+74732208917', 'kukuev@ftt.vsu.ru']
 avatar:
 src: ''
 title: 'Кукуев Вячеслав Иванович - профессор кафедры общей физики'

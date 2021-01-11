@@ -2,13 +2,12 @@
 language: 'ru'
 filename: 'saburov_a_n'
     type: 'staff'
-aim: ['nuc']
+aim: 'nuc']
 name: 'Сабуров Анатолий Николаевич'
 degree: null
 title: null
-post: ['ассистент']
+post: 'ассистент']
 speciality: null
-contacts: []
 avatar:
   - src: ''
 title: 'Сабуров Анатолий Николаевич - ассистент кафедры ядерной физики'

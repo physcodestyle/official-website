@@ -5,8 +5,8 @@ filename: 'winter-vocation'
 type: 'news'
 aim: 'all'
 title: 'The Union will begin to accept applications for winter holidays'
-'description: 'From November 1, the Union will begin to accept applications for winter holidays. You can...'
-'images:
+description: 'From November 1, the Union will begin to accept applications for winter holidays. You can...'
+images:
   - src: '/images/winter-vocation.jpg'
     alt: 'Winter holidays'
     type: 'image'

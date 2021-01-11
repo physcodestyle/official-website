@@ -5,8 +5,8 @@ filename: 'specialnost-perevodchik'
 type: 'news'
 aim: 'all'
 title: 'Second degree-translator in the field of professional communication'
-'description: 'Second education in the specialty-translator in the field of professional communication'
-'images:
+description: 'Second education in the specialty-translator in the field of professional communication'
+images:
   - src: '/images/specialnost-perevodchik.jpg'
     alt: 'Translator in professional communication'
     type: 'image'

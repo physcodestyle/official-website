@@ -2,8 +2,8 @@
 language: 'ru'
 filename: 'bobreshov_a_m'
 type: 'staff'
-aim: ['el', 'el']name: 'Бобрешов Анатолий Михайлович'degree: 'доктор физико-математических наук'
-title: 'профессор'post: ['заведующий кафедрой', 'главный научный сотрудник']speciality: '(01.04.03) Радиофизика'contacts: ['+74732208284', 'phelec@main.vsu.ru', 'bobreshov@phys.vsu.ru']avatar:
+aim: 'el', 'el']name: 'Бобрешов Анатолий Михайловичdegree: 'доктор физико-математических наук'
+title: 'профессорpost: 'заведующий кафедрой', 'главный научный сотрудник']speciality: '(01.04.03) Радиофизикаcontacts: '+74732208284', 'phelec@main.vsu.ru', 'bobreshov@phys.vsu.ru']avatar:
   - src: '/images/bobreshov_a_m-avatar.jpeg'
 title: 'Бобрешов Анатолий Михайлович - заведующий кафедрой электроники'
     type: 'image'

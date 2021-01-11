@@ -5,8 +5,8 @@ filename: 'intechros'
 type: 'news'
 aim: 'all'
 title: 'Холдинг «Интехрос»'
-'description: 'Холдинг «Интехрос» создает роботов для торговых центров...'
-'images:
+description: 'Холдинг «Интехрос» создает роботов для торговых центров...'
+images:
   - src: '/images/idea.png'
     alt: 'Холдинг «Интехрос» создает роботов для торговых центров'
     type: 'image'

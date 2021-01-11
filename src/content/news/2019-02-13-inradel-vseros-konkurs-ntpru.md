@@ -5,8 +5,8 @@ filename: 'inradel-vseros-konkurs-ntp'
 type: 'news'
 aim: 'all'
 title: 'Открыт VI сезон конкурса INRADEL'
-'description: 'Открыт VI сезон конкурса INRADEL'
-'images:
+description: 'Открыт VI сезон конкурса INRADEL'
+images:
   - src: '/images/inradel-vseros-konkurs-ntp.jpg'
     alt: 'INRADEL'
     type: 'image'

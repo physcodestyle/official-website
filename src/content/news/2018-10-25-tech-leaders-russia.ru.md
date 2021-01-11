@@ -5,8 +5,8 @@ filename: 'tech-leaders-russia'
 type: 'news'
 aim: 'all'
 title: 'Набор в программу Tech Leaders Russia'
-'description: 'Набор в программу Tech Leaders Russia...'
-'images:
+description: 'Набор в программу Tech Leaders Russia...'
+images:
   - src: '/images/tech-leaders-russia.jpg'
     alt: 'Набор в программу Tech Leaders Russia'
     type: 'image'

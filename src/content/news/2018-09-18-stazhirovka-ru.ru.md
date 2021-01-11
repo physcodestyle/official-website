@@ -5,8 +5,8 @@ filename: 'stazhirovka-ru'
 type: 'news'
 aim: 'all'
 title: 'Стажировка.ру запускает новый проект IT-Generation в рамках...'
-'description: 'Стажировка.ру запускает новый проект IT-Generation в рамках РИФ-Воронеж 2018 и приглашает студентов и выпускников к...'
-'images:
+description: 'Стажировка.ру запускает новый проект IT-Generation в рамках РИФ-Воронеж 2018 и приглашает студентов и выпускников к...'
+images:
   - src: '/images/stazhirovka-ru.jpg'
     alt: 'Стажировка.ру запускает новый проект IT-Generation'
     type: 'image'

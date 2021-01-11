@@ -5,8 +5,8 @@ filename: 'vakansii-v-dataart'
 type: 'news'
 aim: 'all'
 title: 'Вакансии в DataArt'
-'description: 'Компания DataArt открыла две вакансии для практикантов'
-'images:
+description: 'Компания DataArt открыла две вакансии для практикантов'
+images:
   - src: '/images/dataart-practice-summer-2018.jpg'
     alt: 'Вакансии в DataArt'
     type: 'image'

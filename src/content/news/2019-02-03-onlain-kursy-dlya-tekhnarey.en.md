@@ -5,8 +5,8 @@ filename: 'onlain-kursy-dlya-tekhnarey'
 type: 'news'
 aim: 'all'
 title: '11 online courses for techies'
-'description: '11 online courses for techies'
-'images:
+description: '11 online courses for techies'
+images:
   - src: '/images/onlain-kursy-dlya-tekhnarey.jpg'
     alt: '11 online courses for techies'
     type: 'image'

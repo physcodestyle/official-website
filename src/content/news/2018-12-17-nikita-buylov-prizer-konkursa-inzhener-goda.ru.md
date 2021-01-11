@@ -5,8 +5,8 @@ filename: 'nikita-buylov-prizer-konkursa-inzhener-goda'
 type: 'news'
 aim: 'all'
 title: 'Никита Буйлов занял II место в областном ежегодном конкурсе Инженер года – 2018'
-'description: 'Никита Буйлов занял II место в областном ежегодном конкурсе Инженер года – 2018'
-'images:
+description: 'Никита Буйлов занял II место в областном ежегодном конкурсе Инженер года – 2018'
+images:
   - src: '/images/nikita-buylov-prizer-konkursa-inzhener-goda.jpg'
     alt: 'Никита Буйлов - аспирант физического факультета ВГУ'
     type: 'image'

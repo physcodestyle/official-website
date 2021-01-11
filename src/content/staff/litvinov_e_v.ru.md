@@ -2,10 +2,12 @@
 language: 'ru'
 filename: 'litvinov_e_v'
 type: 'staff'
-'aim: ['radio', 'radio']  'name: 'Литвинов Евгений Владимирович'
-'degree: 'кандидат физико-математических наук'
-'title: null  'post: ['ассистент', 'ведущий электроник']  'speciality: '(01.04.03) Радиофизика'
-'contacts: []  'avatar:
+aim: 'radio', 'radio'
+name: 'Литвинов Евгений Владимирович'
+degree: 'кандидат физико-математических наук'
+'title: null  post: 'ассистент', 'ведущий электроник'
+speciality: '(01.04.03) Радиофизика'
+avatar:
   - src: ''
 title: 'Литвинов Евгений Владимирович - ассистент кафедры радиофизики'
     type: 'image'

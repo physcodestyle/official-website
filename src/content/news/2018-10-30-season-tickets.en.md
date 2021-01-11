@@ -5,8 +5,8 @@ filename: 'season-tickets'
 type: 'news'
 aim: 'all'
 title: 'Issue of season tickets'
-'description: 'October 31, Wednesday, in the Assembly hall of the main building will be given tickets to...'
-'images:
+description: 'October 31, Wednesday, in the Assembly hall of the main building will be given tickets to...'
+images:
   - src: '/images/season-tickets.jpg'
     alt: 'The results of season passes for the pool'
     type: 'image'

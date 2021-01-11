@@ -5,8 +5,8 @@ filename: 'razdacha-certificatov-v-qvest-komnaty'
 type: 'news'
 aim: 'all'
 title: 'Раздача сертификатов в квест-комнаты'
-'description: '5 ноября, четверг, в актовом зале главного корпуса раздадут сертификаты...'
-'images:
+description: '5 ноября, четверг, в актовом зале главного корпуса раздадут сертификаты...'
+images:
   - src: '/images/razdacha-certificatov-v-qvest-komnaty.jpg'
     alt: 'Раздача сертификатов в квест-комнаты'
     type: 'image'

@@ -5,8 +5,8 @@ filename: '8-poleznyh-prilozhenii-dlya-studenta'
 type: 'news'
 aim: 'all'
 title: '8 useful apps for students'
-'description: 'Learn to use your smartphone for the benefit of learning...'
-'images:
+description: 'Learn to use your smartphone for the benefit of learning...'
+images:
   - src: '/images/8-poleznyh-prilozhenii-dlya-student.jpg'
     alt: '8 useful applications for students'
     type: 'image'

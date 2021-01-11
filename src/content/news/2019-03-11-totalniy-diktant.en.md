@@ -5,8 +5,8 @@ filename: 'totalniy-diktant'
 type: 'news'
 aim: 'all'
 title: 'Total dictation'
-'description: 'April 19 will be a Total dictation'
-'images:
+description: 'April 19 will be a Total dictation'
+images:
   - src: '/images/totalniy-diktant.jpg'
     alt: 'April 19 will be a Total dictation'
     type: 'image'

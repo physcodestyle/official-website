@@ -5,8 +5,8 @@ filename: 'alumni-database'
 type: 'news'
 aim: 'all'
 title: 'База выпускников'
-'description: 'Мы напоминаем о базе выпускников Физического факультета....'
-'images:
+description: 'Мы напоминаем о базе выпускников Физического факультета....'
+images:
   - src: '/images/vruchenie-diplomov-magistram-2018.jpg'
     alt: 'IT talk по дизайну'
     type: 'image'

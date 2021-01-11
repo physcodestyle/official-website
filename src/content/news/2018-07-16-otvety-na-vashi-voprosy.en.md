@@ -5,8 +5,8 @@ filename: 'otvety-na-vashi-voprosy'
 type: 'news'
 aim: 'all'
 title: 'Answers your questions'
-'description: 'The Dean will answer your questions again this Wednesday at 15:00....'
-'images:
+description: 'The Dean will answer your questions again this Wednesday at 15:00....'
+images:
   - src: '/images/dean-meeting-02.jpg'
     alt: 'Answers your questions'
     type: 'image'

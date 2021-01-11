@@ -5,8 +5,8 @@ filename: 'kak-sekonomit-na-pokhode-v-kino'
 type: 'news'
 aim: 'all'
 title: 'Как сэкономить на походе в кино'
-'description: 'Как сэкономить на походе в кино'
-'images:
+description: 'Как сэкономить на походе в кино'
+images:
   - src: '/images/kak-sekonomit-na-pokhode-v-kino.jpg'
     alt: 'Как сэкономить на походе в кино'
     type: 'image'

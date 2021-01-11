@@ -5,8 +5,8 @@ filename: 'supply-chain-cup'
 type: 'news'
 aim: 'all'
 title: 'Supply Chain Cup'
-'description: 'СИБУР вместе с компаниями-партнерами запускает чемпионат Supply Chain Cup.'
-'images:
+description: 'СИБУР вместе с компаниями-партнерами запускает чемпионат Supply Chain Cup.'
+images:
   - src: '/images/supply-chain-cup.png'
     alt: 'Supply Chain Cup'
     type: 'image'

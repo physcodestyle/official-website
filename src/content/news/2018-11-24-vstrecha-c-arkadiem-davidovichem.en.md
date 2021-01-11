@@ -5,8 +5,8 @@ filename: 'vstrecha-c-arkadiem-davidovichem'
 type: 'news'
 aim: 'all'
 title: 'Meeting with Arkady Davidovich'
-'description: 'The faculty of journalism of VSU will hold a meeting with Arkady Davidovich.'
-'images:
+description: 'The faculty of journalism of VSU will hold a meeting with Arkady Davidovich.'
+images:
   - src: '/images/vstrecha-c-arkadiem-davidovichem.jpg'
     alt: 'meeting with Arkady Davidovich'
     type: 'image'

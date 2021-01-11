@@ -5,8 +5,8 @@ filename: 'yandex-olimpiada'
 type: 'news'
 aim: 'all'
 title: 'Student Olympiad «I am a professional»'
-'description: 'Yandex opened registration for the student Olympiad «I am a professional»'
-'images:
+description: 'Yandex opened registration for the student Olympiad «I am a professional»'
+images:
   - src: '/images/yandex-olimpiada.jpg'
     alt: 'I am a professional student Olympiad'
     type: 'image'

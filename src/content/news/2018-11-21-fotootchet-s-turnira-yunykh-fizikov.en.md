@@ -5,8 +5,8 @@ filename: 'fotootchet-s-turnira-yunykh-fizikov'
 type: 'news'
 aim: 'all'
 title: 'Photo report from the Tournament of young physicists'
-'description: 'Photo report From the tournament of young physicists of the Voronezh region.'
-'images:
+description: 'Photo report From the tournament of young physicists of the Voronezh region.'
+images:
   - src: '/images/fotootchet-s-turnira-yunykh-fizikov-1.jpg'
     alt: 'tournament of young physicists of Voronezh region - 1'
     type: 'image'

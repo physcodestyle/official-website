@@ -5,8 +5,8 @@ filename: 'besplatnye-kursy-business-analitikov-ot-dataart'
 type: 'news'
 aim: 'all'
 title: 'DataArt приглашает на бесплатные курсы для бизнес-аналитиков'
-'description: 'DataArt приглашает на бесплатные курсы для бизнес-аналитиков'
-'images:
+description: 'DataArt приглашает на бесплатные курсы для бизнес-аналитиков'
+images:
   - src: '/images/besplatnye-kursy-business-analitikov-ot-dataart.jpg'
     alt: 'Курсы для бизнес-аналитиков в DataArt'
     type: 'image'

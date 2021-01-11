@@ -5,8 +5,8 @@ filename: 'viktorina-posvyshchennaya-serialam'
 type: 'news'
 aim: 'all'
 title: 'Викторина «Ещё серию и спать»'
-'description: 'В главном корпусе пройдет викторина «Ещё серию и спать», посвященная сериалам.'
-'images:
+description: 'В главном корпусе пройдет викторина «Ещё серию и спать», посвященная сериалам.'
+images:
   - src: '/images/viktorina-posvyshchennaya-serialam.jpg'
     alt: 'Викторина «Ещё серию и спать»'
     type: 'image'

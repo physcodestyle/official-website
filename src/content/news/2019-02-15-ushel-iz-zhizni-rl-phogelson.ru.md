@@ -5,8 +5,8 @@ filename: 'ushel-iz-zhizni-rl-phogelson'
 type: 'news'
 aim: 'all'
 title: 'Ушел из жизни Роберт Львович Фогельсон'
-'description: 'Ушел из жизни Роберт Львович Фогельсон'
-'images:
+description: 'Ушел из жизни Роберт Львович Фогельсон'
+images:
   - src: '/images/ushel-iz-zhizni-rl-phogelson.jpg'
     alt: 'Ушел из жизни Роберт Львович Фогельсон'
     type: 'image'

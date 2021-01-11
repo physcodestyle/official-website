@@ -5,8 +5,8 @@ filename: 'pozravlenie-s-8-marta'
 type: 'news'
 aim: 'all'
 title: 'from March 8!'
-'description: 'from March 8!'
-'images:
+description: 'from March 8!'
+images:
   - src: '/images/pozravlenie-s-8-marta.jpg'
     alt: 'since March 8!'
     type: 'image'

@@ -2,13 +2,12 @@
 language: 'ru'
 filename: 'lyubashevskiy_d_e'
 type: 'staff'
-aim: ['nuc']
+aim: 'nuc']
 name: 'Любашевский Дмитрий Евгеньевич'
 degree: 'кандидат физико-математических наук'
 title: null
-post: ['доцент']
+post: 'доцент']
 speciality: '(01.04.02) Теоретическая физика'
-contacts: []
 avatar:
 src: '/images/lyubashevskiy_d_e-avatar.jpeg'
 title: 'Любашевский Дмитрий Евгеньевич - доцент кафедры ядерной физики'

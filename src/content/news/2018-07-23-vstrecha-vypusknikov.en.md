@@ -5,8 +5,8 @@ filename: 'vstrecha-vypusknikov'
 type: 'news'
 aim: 'all'
 title: 'On 15 September, the University celebrates a century'
-'description: 'In addition to large-scale celebrations in the city, the main building will be large...'
-'images:
+description: 'In addition to large-scale celebrations in the city, the main building will be large...'
+images:
   - src: '/images/vsu-100-let.jpg'
     alt: 'On 15 September, the University celebrates a century'
     type: 'image'

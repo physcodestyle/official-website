@@ -5,8 +5,8 @@ filename: 'sorevnovaniya-po-footboly'
 type: 'news'
 aim: 'all'
 title: 'Фотоотчет с соревнований по футболу'
-'description: 'Фотоотчет с соревнований по футболу'
-'images:
+description: 'Фотоотчет с соревнований по футболу'
+images:
   - src: '/images/sorevnovaniya-po-footboly.jpg'
     alt: 'Соревнования по футболу. ФизФак.'
     type: 'image'

@@ -5,8 +5,8 @@ filename: 'three-science-tournament'
 type: 'news'
 aim: 'all'
 title: 'Финальные бои Турнира Трёх Наук'
-'description: 'Организаторы Турнира Трёх Наук приглашают на финальные бои 27, 28 и 30 сентября.'
-'images:
+description: 'Организаторы Турнира Трёх Наук приглашают на финальные бои 27, 28 и 30 сентября.'
+images:
   - src: '//vk.com/video_ext.php?oid=-49696909&id=456239049&hash=49fc7790ac3d9411&hd=2'
     alt: 'Финальные бои Турнира Трёх Наук'
     type: 'vk'

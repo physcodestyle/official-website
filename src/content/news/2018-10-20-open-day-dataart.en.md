@@ -5,8 +5,8 @@ filename: 'open-day-dataart'
 type: 'news'
 aim: 'all'
 title: 'DataArt invites you to an open Day'
-'description: 'DataArt invites you to an open day...'
-'images:
+description: 'DataArt invites you to an open day...'
+images:
   - src: '/images/open-day-dataart.jpg'
     alt: 'DataArt invites to open Day'
     type: 'image'

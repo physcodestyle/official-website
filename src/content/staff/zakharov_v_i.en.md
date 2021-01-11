@@ -2,7 +2,7 @@
 language: 'en'
 filename: 'zakharov_v_i'
 type: 'staff'
-aim: ['el']name: 'Zakharov Vladimir Ivanovich'degree: nulltitle: nullpost: ['assistant']speciality: nullcontacts: []avatar:
+aim: 'el']name: 'Zakharov Vladimir Ivanovichdegree: nulltitle: nullpost: 'assistant']speciality: nullcontacts: []avatar:
   - src: ''
 title: 'Zakharov Vladimir Ivanovich - assistant of the Electronics Department'
     type: 'image'

@@ -5,8 +5,8 @@ filename: 'seminar-travel-works'
 type: 'news'
 aim: 'all'
 title: 'Семинар Travel Works \'Что делать после выпуска?\''
-'description: 'TravelWorks проведёт семинар «Что делать после выпуска», на котором аккредитованный специалист по вопросам...'
-'images:
+description: 'TravelWorks проведёт семинар «Что делать после выпуска», на котором аккредитованный специалист по вопросам...'
+images:
   - src: '/images/seminar-travel-works.jpg'
     alt: 'Семинар Travel Works 'Что делать после выпуска?''
     type: 'image'

@@ -2,13 +2,12 @@
 language: 'en'
 filename: 'zolotukhin_e_v'
     type: 'staff'
-aim: ['el']
+aim: 'el']
 name: 'Zolotukhin Evgeniy Viktorovich'
 degree: null
 title: null
-post: ['assistant']
+post: 'assistant']
 speciality: null
-contacts: []
 avatar:
   - src: ''
 title: 'Zolotukhin Evgeniy Viktorovich - assistant of the Electronics Department'

@@ -5,8 +5,8 @@ filename: 'nabor-b-khorovuyu-studiyu'
 type: 'news'
 aim: 'all'
 title: 'Recruitment to the choral Studio'
-'description: 'the Department of English language science faculties invites in...'
-'images:
+description: 'the Department of English language science faculties invites in...'
+images:
   - src: '/images/nabor-b-khorovuyu-Studio.jpg'
     alt: 'Set in choral Studio'
     type: 'image'

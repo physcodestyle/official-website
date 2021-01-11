@@ -5,8 +5,8 @@ filename: 'iscshut-uchitelya-po-phizike'
 type: 'news'
 aim: 'all'
 title: 'the Organizers of the Teacher for Russia are looking for a teacher in physics'
-'description: 'the Organizers of the Teacher for Russia are looking for a teacher in physics'
-'images:
+description: 'the Organizers of the Teacher for Russia are looking for a teacher in physics'
+images:
   - src: '/images/iscshut-uchitelya-po-phizike.jpg'
     alt: 'the Organizers of the program'
 Teacher for Russia 'are looking for a teacher in physics'

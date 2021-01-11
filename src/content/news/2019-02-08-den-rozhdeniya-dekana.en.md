@@ -5,8 +5,8 @@ filename: 'den-rozhdeniya-dekana'
 type: 'news'
 aim: 'all'
 title: 'Anatoliy M. Bobreshov is selebrating 72nd anniversary today'
-'description: 'Anatoliy M. Bobreshov is selebrating 72nd anniversary today'
-'images:
+description: 'Anatoliy M. Bobreshov is selebrating 72nd anniversary today'
+images:
   - src: '/images/den-rozhdeniya-dekana.jpg'
     alt: 'Anatoly Mikhailovich Bobreshov. 72nd anniversary'
     type: 'image'

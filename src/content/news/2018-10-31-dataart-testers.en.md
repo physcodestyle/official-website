@@ -5,8 +5,8 @@ filename: 'dataart-testers'
 type: 'news'
 aim: 'all'
 title: 'DataArt invites beginners to training'
-'description: 'DataArt invites beginners to training...'
-'images:
+description: 'DataArt invites beginners to training...'
+images:
   - src: '/images/dataart-testers.jpg'
     alt: 'DataArt invites novice testers'
     type: 'image'

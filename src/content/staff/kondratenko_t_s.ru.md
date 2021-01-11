@@ -2,13 +2,12 @@
 language: 'ru'
 filename: 'kondratenko_t_s'
     type: 'staff'
-aim: ['optics']
+aim: 'optics']
 name: 'Кондратенко Тамара Сергеевна'
 degree: 'кандидат физико-математических наук'
 title: null
-post: ['доцент']
+post: 'доцент']
 speciality: '(01.04.05) Оптика'
-contacts: []
 avatar:
   - src: ''
 title: 'Кондратенко Тамара Сергеевна - доцент кафедры оптики и спектроскопии'

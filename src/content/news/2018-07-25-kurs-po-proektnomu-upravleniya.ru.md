@@ -5,8 +5,8 @@ filename: 'kurs-po-proektnomu-upravleniya'
 type: 'news'
 aim: 'all'
 title: 'Курс по проектному управлению в Surf'
-'description: 'Компания Surf открыла регистрацию на курс по проектному управлению. Проектное управление включает...'
-'images:
+description: 'Компания Surf открыла регистрацию на курс по проектному управлению. Проектное управление включает...'
+images:
   - src: '/images/surf.png'
     alt: 'Курс по проектному управлению в Surf'
     type: 'image'

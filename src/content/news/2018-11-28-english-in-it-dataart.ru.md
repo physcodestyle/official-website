@@ -5,8 +5,8 @@ filename: 'english-in-it-dataart'
 type: 'news'
 aim: 'all'
 title: 'IT Talk — English in IT'
-'description: 'Курсы технического английского языка в DataArt'
-'images:
+description: 'Курсы технического английского языка в DataArt'
+images:
   - src: '/images/english-in-it-dataart.jpg'
     alt: 'IT Talk — English in IT'
     type: 'image'

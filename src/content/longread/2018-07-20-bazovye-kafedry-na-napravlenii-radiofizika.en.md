@@ -5,10 +5,10 @@ filename: 'bazovye-kafedry-na-napravlenii-radiofizika'
 type: 'longread'
 aim: 'all'
 title: 'Basic departments in the direction of «Radiophysics»'
-'description: 'With us working tens of companies to conduct lectures, training, practice, taking the best...'
+description: 'With us working tens of companies to conduct lectures, training, practice, taking the best...'
 'lead: 'Several dozens of companies cooperate with us-they conduct lectures, internships, practices, take the best students to work. But most of all we interact with the \'Concern \'Sozvezdie\'
 and \'AEGON\'. Both of these companies have opened basic departments at our faculty.'
-'images:
+images:
   - src: '/images/kafedra-aedon-class.jpg'
     alt: 'Activity at the Department of Aegon'
     type: 'image'

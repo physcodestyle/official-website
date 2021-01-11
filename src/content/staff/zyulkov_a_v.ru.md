@@ -2,8 +2,8 @@
 language: 'ru'
 filename: 'zyulkov_a_v'
 type: 'staff'
-aim: ['radio']name: 'Зюльков Александр Владимирович'degree: 'кандидат физико-математических наук'
-title: 'доцент'post: ['доцент']speciality: '(01.04.03) Радиофизика'contacts: []avatar:
+aim: 'radio']name: 'Зюльков Александр Владимировичdegree: 'кандидат физико-математических наук'
+title: 'доцентpost: 'доцент']speciality: '(01.04.03) Радиофизикаcontacts: []avatar:
   - src: ''
 title: 'Зюльков Александр Владимирович - доцент кафедры радиофизики'
     type: 'image'

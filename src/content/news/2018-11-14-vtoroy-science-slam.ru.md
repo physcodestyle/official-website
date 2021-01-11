@@ -5,8 +5,8 @@ filename: 'vtoroy-science-slam'
 type: 'news'
 aim: 'all'
 title: 'Второй Science Slam!'
-'description: '26 ноября в состоится второй Science Slam этого сезона.'
-'images:
+description: '26 ноября в состоится второй Science Slam этого сезона.'
+images:
   - src: '/images/vtoroy-science-slam.jpg'
     alt: 'Второй Science Slam этого сезона'
     type: 'image'

@@ -2,8 +2,8 @@
 language: 'en'
 filename: 'razuvaev_yu_yu'
 type: 'staff'
-aim: ['el']name: 'Razuvaev Yuriy Yur'evich'degree: 'Candidate of Physico-Mathematical Sciences'
-title: 'Associate Professor'post: ['Associate Professor']speciality: '(01.04.03) Radiophysics'contacts: []avatar:
+aim: 'el']name: 'Razuvaev Yuriy Yur'evichdegree: 'Candidate of Physico-Mathematical Sciences'
+title: 'Associate Professorpost: 'Associate Professor']speciality: '(01.04.03) Radiophysicscontacts: []avatar:
   - src: ''
 title: 'Razuvaev Yuriy Yur'evich - Associate Professor of the Electronics Department'
     type: 'image'

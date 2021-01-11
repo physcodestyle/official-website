@@ -5,8 +5,8 @@ filename: 'zolotaya-medal-v-parizhe'
 type: 'news'
 aim: 'all'
 title: 'Gold Medal in Paris'
-'description: 'The book salon in Paris celebrated with a gold medal...'
-'images:
+description: 'The book salon in Paris celebrated with a gold medal...'
+images:
   - src: '/images/paris-book-fair.jpg'
     alt: 'Gold Medal in Paris'
     type: 'image'

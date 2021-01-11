@@ -5,8 +5,8 @@ filename: 'folklornaya-vecherinka'
 type: 'news'
 aim: 'all'
 title: 'Folklore party'
-'description: 'Folklore party'
-'images:
+description: 'Folklore party'
+images:
   - src: '/images/folklornaya-vecherinka.jpg'
     alt: 'Folk party'
     type: 'image'

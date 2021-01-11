@@ -5,8 +5,8 @@ filename: 'top-rate-obyavlyaet-nabor'
 type: 'news'
 aim: 'all'
 title: 'Танцевальный коллектив Top Rate объявляет дополнительный набор'
-'description: 'Танцевальный коллектив Top Rate объявляет дополнительный набор'
-'images:
+description: 'Танцевальный коллектив Top Rate объявляет дополнительный набор'
+images:
   - src: '/images/top-rate-obyavlyaet-nabor.jpg'
     alt: 'Танцевальный коллектив 'Top Rate'
 объявляет дополнительный набор'

@@ -5,8 +5,8 @@ filename: 'meeting-of-the-department-of-radiophysics'
 type: 'news'
 aim: 'radio'
 title: 'Заседание кафедры'
-'description: '30 августа в 13:00 заседание кафедры.'
-'images:
+description: '30 августа в 13:00 заседание кафедры.'
+images:
   - src: '/images/conference-room.jpg'
     alt: 'Заседание кафедры радиофизики'
     type: 'image'

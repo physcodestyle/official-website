@@ -5,8 +5,8 @@ filename: 'pobeditely-v-konkurse-nauchnogo-phonda'
 type: 'news'
 aim: 'all'
 title: 'Поздравляем с победой в конкурсе Российского Научного Фонда'
-'description: 'Коллектив учёных ВГУ вошёл в список победителей конкурса Российского Научного Фонда'
-'images:
+description: 'Коллектив учёных ВГУ вошёл в список победителей конкурса Российского Научного Фонда'
+images:
   - src: '/images/pobeditely-v-konkurse-nauchnogo-phonda.jpg'
     alt: 'Коллектив учёных ВГУ вошёл в список победителей конкурса Российского Научного Фонда'
     type: 'image'

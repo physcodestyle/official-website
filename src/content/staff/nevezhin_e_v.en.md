@@ -2,13 +2,12 @@
 language: 'en'
 filename: 'nevezhin_e_v'
 type: 'staff'
-aim: ['me']
+aim: 'me']
 name: 'Nevezhin Evgeniy Vasil'evich'
 degree: 'Candidate of Engineering Sciences'
 title: 'Associate Professor'
-post: ['Associate Professor']
+post: 'Associate Professor']
 speciality: '(05.27.01) Solid-state electronics, radio-electronic components, micro-and nanoelectronics based on quantum effects'
-contacts: []
 avatar:
 src: ''
 title: 'Nevezhin Evgeniy Vasil'evich - Associate Professor of the Physics of semiconductors and microelectronics Department'

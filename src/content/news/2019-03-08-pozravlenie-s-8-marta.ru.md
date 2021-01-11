@@ -5,8 +5,8 @@ filename: 'pozravlenie-s-8-marta'
 type: 'news'
 aim: 'all'
 title: 'С 8 марта!'
-'description: 'С 8 марта!'
-'images:
+description: 'С 8 марта!'
+images:
   - src: '/images/pozravlenie-s-8-marta.jpg'
     alt: 'С 8 марта'
     type: 'image'

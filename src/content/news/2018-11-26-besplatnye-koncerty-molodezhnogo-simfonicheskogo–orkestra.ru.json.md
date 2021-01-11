@@ -5,8 +5,8 @@ filename: 'besplatnye-koncerty-molodezhnogo-simfonicheskogo–orkestra'
 type: 'news'
 aim: 'all'
 title: 'Билеты на концерты молодежного симфонического оркестра'
-'description: 'Объединенный совет обучающихся ВГУ приглашает на концерты...'
-'images:
+description: 'Объединенный совет обучающихся ВГУ приглашает на концерты...'
+images:
   - src: '/images/besplatnye-koncerty-molodezhnogo-simfonicheskogo–orkestra.jpg'
     alt: 'Билеты на концерты молодежного симфонического оркестра'
     type: 'image'

@@ -2,13 +2,12 @@
 language: 'en'
 filename: 'zanin_i_e'
     type: 'staff'
-aim: ['kof']
+aim: 'kof']
 name: 'Zanin Igor Evgen'evich'
 degree: 'Candidate of Physico-Mathematical Sciences'
 title: 'Associate Professor'
-post: ['Associate Professor']
+post: 'Associate Professor']
 speciality: '(02.00.04) Physical chemistry'
-contacts: []
 avatar:
   - src: ''
 title: 'Zanin Igor Evgen'evich - Associate Professor of the General physics Department'

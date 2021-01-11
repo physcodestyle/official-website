@@ -5,8 +5,8 @@ filename: 'putevki-na-zimniy-otdykh'
 type: 'news'
 aim: 'all'
 title: 'Путевки на зимний отдых'
-'description: 'Путевки на зимний отдых'
-'images:
+description: 'Путевки на зимний отдых'
+images:
   - src: '/images/putevki-na-zimniy-otdykh.jpg'
     alt: 'Путевки на зимний отдых'
     type: 'image'

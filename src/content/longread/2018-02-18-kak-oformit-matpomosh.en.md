@@ -5,8 +5,8 @@ filename: 'kak-oformit-matpomosh'
 type: 'longread'
 aim: 'all'
 title: 'How to Apply for Financial Aid?'
-'description: 'Material assistance can be obtained regardless of academic performance and...'
-'images:
+description: 'Material assistance can be obtained regardless of academic performance and...'
+images:
   - src: '/images/kak-oformit-matpomosch.jpg'
     alt: 'How to Apply for Financial Aid?'
     type: 'image'

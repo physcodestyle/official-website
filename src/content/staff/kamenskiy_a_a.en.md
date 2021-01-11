@@ -2,13 +2,12 @@
 language: 'en'
 filename: 'kamenskiy_a_a'
 type: 'staff'
-aim: ['thp']
+aim: 'thp']
 name: 'Kamenskiy Aleksandr Anatol'evich'
 degree: 'Candidate of Physico-Mathematical Sciences'
 title: null
-post: ['assistant']
+post: 'assistant']
 speciality: '(01.04.02) Theoretical physics'
-contacts: []
 avatar:
 src: '/images/kamenskiy_a_a-avatar.jpeg'
 title: 'Kamenskiy Aleksandr Anatol'evich - assistant of the Theoretical physics Department'

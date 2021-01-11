@@ -5,8 +5,8 @@ filename: 'stazhirovka-v-dataart-qa'
 type: 'news'
 aim: 'all'
 title: 'DataArt invites testers for internship'
-'description: 'DataArt invites testers to training'
-'images:
+description: 'DataArt invites testers to training'
+images:
   - src: '/images/stazhirovka-v-dataart-qa.jpg'
     alt: 'Internship at DataArt'
     type: 'image'

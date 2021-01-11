@@ -5,9 +5,9 @@ filename: 'studencheskie-starty'
 type: 'news'
 aim: 'all'
 title: 'Student Starts 2018'
-'description: '27 — 29 August in the main building of Voronezh state University will host Student competitions...'
+description: '27 — 29 August in the main building of Voronezh state University will host Student competitions...'
 'lead: '27 — 29 August in the main building of Voronezh state University will host Student competitions. This is an annual event for students of physical therapy. On it you will be able to get acquainted with classmates, learn more about the future profession and just have fun.'
-'images:
+images:
   - src: '//vk.com/video_ext.php?oid=-69219891&id=456239021&hash=91f3e80851f89ce9&hd=2'
     alt: 'Student Starts 2017 - video'
     type: 'vk'

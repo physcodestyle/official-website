@@ -5,8 +5,8 @@ filename: 'besplatnye-programmy-abonementy'
 type: 'news'
 aim: 'all'
 title: 'The trade Union gives out free passes'
-'description: 'The Union handing out free passes'
-'images:
+description: 'The Union handing out free passes'
+images:
   - src: '/images/besplatnye-programmy-abonementy.jpg'
     alt: 'Free passes from the trade Union of VSU'
     type: 'image'

@@ -5,8 +5,8 @@ filename: 'nikita-buylov-prizer-konkursa-engineer-goda'
 type: 'news'
 aim: 'all'
 title: 'Nikita Builov took II place in the regional annual competition Engineer of the year-2018'
-'description: 'Nikita Builov took II place in the regional annual competition Engineer of the year-2018'
-'images:
+description: 'Nikita Builov took II place in the regional annual competition Engineer of the year-2018'
+images:
   - src: '/images/nikita-buylov-prizer-konkursa-engineer-goda.jpg'
     alt: 'Nikita Builov-graduate student of the physics Department of VSU'
     type: 'image'

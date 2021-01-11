@@ -5,8 +5,8 @@ filename: 'fotootchet-s-turnira-yunykh-fizikov'
 type: 'news'
 aim: 'all'
 title: 'Фотоотчёт с Турнира юных физиков'
-'description: 'Фотоотчёт с Турнира юных физиков Воронежской области.'
-'images:
+description: 'Фотоотчёт с Турнира юных физиков Воронежской области.'
+images:
   - src: '/images/fotootchet-s-turnira-yunykh-fizikov-1.jpg'
     alt: 'Турнир юных физиков Воронежской области - 1'
     type: 'image'

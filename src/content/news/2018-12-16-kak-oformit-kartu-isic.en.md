@@ -5,8 +5,8 @@ filename: 'kak-oformit-kartu-isic'
 type: 'news'
 aim: 'all'
 title: 'Why do I need an international student card?'
-'description: 'Why do I need an international student card?'
-'images:
+description: 'Why do I need an international student card?'
+images:
   - src: '/images/kak-oformit-kartu-isic.jpg'
 'alt:\'Why do I need an international student card\: null
     type: 'image'

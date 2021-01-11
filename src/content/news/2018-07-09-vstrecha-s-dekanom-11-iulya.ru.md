@@ -5,8 +5,8 @@ filename: 'vstrecha-s-dekanom-11-iulya'
 type: 'news'
 aim: 'all'
 title: 'Встреча с деканом'
-'description: 'Встреча абитуриентов с деканом'
-'images:
+description: 'Встреча абитуриентов с деканом'
+images:
   - src: '/images/dean-meeting-01.jpg'
     alt: 'Встреча с деканом'
     type: 'image'

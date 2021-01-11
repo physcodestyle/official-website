@@ -5,8 +5,8 @@ filename: 'den-rozhdeniya-dekana'
 type: 'news'
 aim: 'all'
 title: 'Сегодня празднует 72-летие Анатолий Михайлович Бобрешов'
-'description: 'Сегодня празднует 72-летие Анатолий Михайлович Бобрешов'
-'images:
+description: 'Сегодня празднует 72-летие Анатолий Михайлович Бобрешов'
+images:
   - src: '/images/den-rozhdeniya-dekana.jpg'
     alt: 'Анатолий Михайлович Бобрешов'
     type: 'image'

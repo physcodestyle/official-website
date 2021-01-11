@@ -5,8 +5,8 @@ filename: 'season-tickets-trampoline'
 type: 'news'
 aim: 'all'
 title: 'Issuance of tickets to the trampoline center'
-'description: 'on November 1, Thursday, in the Assembly hall of the main building will be given certificates to visit the trampoline...'
-'images:
+description: 'on November 1, Thursday, in the Assembly hall of the main building will be given certificates to visit the trampoline...'
+images:
   - src: '/images/season-tickets-trampoline.jpg'
     alt: 'Issuance of tickets to the trampoline center'
     type: 'image'

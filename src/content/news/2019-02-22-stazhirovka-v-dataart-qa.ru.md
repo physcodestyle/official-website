@@ -5,8 +5,8 @@ filename: 'stazhirovka-v-dataart-qa'
 type: 'news'
 aim: 'all'
 title: 'DataArt приглашает тестировщиков на стажировку'
-'description: 'DataArt приглашает тестировщиков на стажировку'
-'images:
+description: 'DataArt приглашает тестировщиков на стажировку'
+images:
   - src: '/images/stazhirovka-v-dataart-qa.jpg'
     alt: 'Стажировка в DataArt'
     type: 'image'

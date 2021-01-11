@@ -5,8 +5,8 @@ filename: 'akademicheskiy-plener'
 type: 'news'
 aim: 'all'
 title: 'В главном корпусе ВГУ открылась выставка - Академический пленэр'
-'description: 'В главном корпусе ВГУ открылась выставка - Академический пленэр'
-'images:
+description: 'В главном корпусе ВГУ открылась выставка - Академический пленэр'
+images:
   - src: '/images/akademicheskiy-plener.jpg'
     alt: 'выставка 'Академический пленэр''
     type: 'image'

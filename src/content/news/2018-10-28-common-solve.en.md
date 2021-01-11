@@ -5,8 +5,8 @@ filename: 'common-solve'
 type: 'news'
 aim: 'all'
 title: 'All-Russian physical and mathematical control «Come out to solve!»'
-'description: 'November 17 will be held all-Russian physical and mathematical control «Come out to decide!».'
-'images:
+description: 'November 17 will be held all-Russian physical and mathematical control «Come out to decide!».'
+images:
   - src: '/images/common-solve.jpg'
     alt: null    'Come out to decide!: null
     type: 'image'

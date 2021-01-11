@@ -2,13 +2,12 @@
 language: 'en'
 filename: 'perin_yu_n'
     type: 'staff'
-aim: ['kof']
+aim: 'kof']
 name: 'Perin Yuriy Nikolaevich'
 degree: null
 title: null
-post: ['assistant']
+post: 'assistant']
 speciality: null
-contacts: []
 avatar:
   - src: ''
 title: 'Perin Yuriy Nikolaevich - assistant of the General physics Department'

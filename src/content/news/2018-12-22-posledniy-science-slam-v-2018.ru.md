@@ -5,8 +5,8 @@ filename: 'posledniy-science-slam-v-2018'
 type: 'news'
 aim: 'all'
 title: 'Приходите на последний в этом году Science Slam New Year!'
-'description: 'Приходите на последний в этом году Science Slam New Year!'
-'images:
+description: 'Приходите на последний в этом году Science Slam New Year!'
+images:
   - src: '//vk.com/video_ext.php?oid=-173360600&id=456239020&hash=2f075b347308019a&hd=2'
     alt: 'Видеоприглашение на Science Slam New Year'
     type: 'vk'

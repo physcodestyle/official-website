@@ -5,8 +5,8 @@ filename: 'turnir-po-igre-artifact'
 type: 'news'
 aim: 'all'
 title: 'Клуб EXAMINALITY проводит турнир по Artifact'
-'description: 'Клуб EXAMINALITY проводит турнир по Artifact'
-'images:
+description: 'Клуб EXAMINALITY проводит турнир по Artifact'
+images:
   - src: '/images/turnir-po-igre-artifact.jpg'
     alt: 'Клуб EXAMINALITY проводит турнир по Artifact'
     type: 'image'

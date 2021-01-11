@@ -5,8 +5,8 @@ filename: 'letnyaya-sessiya-zakonchilas'
 type: 'news'
 aim: 'all'
 title: 'Летняя сессия закончилась'
-'description: 'Если у вас остались хвосты или вы хотите...'
-'images:
+description: 'Если у вас остались хвосты или вы хотите...'
+images:
   - src: '/images/tail-lost.jpg'
     alt: 'Летняя сессия закончилась'
     type: 'image'

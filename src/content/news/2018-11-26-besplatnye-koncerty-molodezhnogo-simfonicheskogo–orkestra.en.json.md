@@ -5,8 +5,8 @@ filename: 'besplatnye-koncerty-molodezhnogo-simfonicheskogo–orkestra'
 type: 'news'
 aim: 'all'
 title: 'tickets to concerts of the youth Symphony orchestra'
-'description: 'the joint Council of students of VSU invites to concerts...'
-'images:
+description: 'the joint Council of students of VSU invites to concerts...'
+images:
   - src: '/images/Besplatnie-koncerty-molodezhnogo-simfonicheskogo–orkestra.jpg'
     alt: 'Tickets to concerts of youth Symphony orchestra'
     type: 'image'

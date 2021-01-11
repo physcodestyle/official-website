@@ -5,8 +5,8 @@ filename: 'dota2-csgo-tournaments'
 type: 'news'
 aim: 'all'
 title: 'Qualifying tournaments in the all-Russian eSports student League'
-'description: 'Qualifying tournaments for the all-Russian eSports student League will be held in Voronezh.'
-'images:
+description: 'Qualifying tournaments for the all-Russian eSports student League will be held in Voronezh.'
+images:
   - src: '/images/dota2-csgo-tournaments.jpg'
     alt: 'Qualifying tournaments in the all-Russian eSports student League'
     type: 'image'

@@ -5,8 +5,8 @@ filename: 'stazhirovka-ru'
 type: 'news'
 aim: 'all'
 title: 'Stazhirovka.ru launches a new IT-Generation project within the framework...'
-'description: 'Stazhirovka.ru launches a new IT-Generation project within the framework of RIF-Voronezh 2018 and invites students and graduates to...'
-'images:
+description: 'Stazhirovka.ru launches a new IT-Generation project within the framework of RIF-Voronezh 2018 and invites students and graduates to...'
+images:
   - src: '/images/stazhirovka-ru.jpg'
     alt: 'Stazhirovka.ru launches new project IT-Generation'
     type: 'image'

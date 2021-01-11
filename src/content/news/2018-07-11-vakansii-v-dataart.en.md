@@ -5,8 +5,8 @@ filename: 'vakansii-v-dataart'
 type: 'news'
 aim: 'all'
 title: 'Vacancies in DataArt'
-'description: 'DataArt company has opened two vacancies for trainees'
-'images:
+description: 'DataArt company has opened two vacancies for trainees'
+images:
   - src: '/images/dataart-practice-summer-2018.jpg'
     alt: 'Vacancies in DataArt'
     type: 'image'

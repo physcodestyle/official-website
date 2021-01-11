@@ -5,8 +5,8 @@ filename: 'ushel-iz-zhizni-rl-phogelson'
 type: 'news'
 aim: 'all'
 title: 'Gone from the life of Robert L. Fogelson'
-'description: 'Gone from the life of Robert L. Fogelson'
-'images:
+description: 'Gone from the life of Robert L. Fogelson'
+images:
   - src: '/images/ushel-iz-zhizni-rl-phogelson.jpg'
     alt: 'Gone from the life of Robert L. Fogelson'
     type: 'image'

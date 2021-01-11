@@ -2,13 +2,12 @@
 language: 'ru'
 filename: 'zakharov_v_i'
 type: 'staff'
-aim: ['el']
+aim: 'el']
 name: 'Захаров Владимир Иванович'
 degree: null
 title: null
-post: ['ассистент']
+post: 'ассистент']
 speciality: null
-contacts: []
 avatar:
 src: ''
 title: 'Захаров Владимир Иванович - ассистент кафедры электроники'

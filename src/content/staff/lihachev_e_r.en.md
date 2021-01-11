@@ -2,10 +2,12 @@
 language: 'en'
 filename: 'lihachev_e_r'
 type: 'staff'
-'aim: ['ssp']  'name: 'Likhachev Evgeniy Robertovich'
-'degree: 'Candidate of Physico-Mathematical Sciences'
-'title: null  'post: ['assistant']  'speciality: '(01.04.07) Condensed matter physics'
-'contacts: []  'avatar:
+aim: 'ssp'
+name: 'Likhachev Evgeniy Robertovich'
+degree: 'Candidate of Physico-Mathematical Sciences'
+'title: null  post: 'assistant'
+speciality: '(01.04.07) Condensed matter physics'
+avatar:
   - src: ''
 title: 'Likhachev Evgeniy Robertovich - assistant of the Solid state physics and nanostructures Department'
     type: 'image'

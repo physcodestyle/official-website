@@ -5,8 +5,8 @@ filename: 'science-slam'
 type: 'news'
 aim: 'all'
 title: 'Science Slam'
-'description: 'Science Slam is looking for slamers...'
-'images:
+description: 'Science Slam is looking for slamers...'
+images:
   - src: '/images/science-slam.jpg'
     alt: 'Science Slam'
     type: 'image'

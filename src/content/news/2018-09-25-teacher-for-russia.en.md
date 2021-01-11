@@ -5,8 +5,8 @@ filename: 'teacher-for-russia'
 type: 'news'
 aim: 'all'
 title: 'The project Teacher for Russia is looking for an Ambassador to VSU'
-'description: 'The project Teacher for Russia is looking for an Ambassador to VSU.'
-'images:
+description: 'The project Teacher for Russia is looking for an Ambassador to VSU.'
+images:
   - src: '/images/volunteer.png'
     alt: 'Project Teach for Russia is looking for a Ambassador at VSU'
     type: 'image'

@@ -2,13 +2,12 @@
 language: 'en'
 filename: 'shaposhnikova_zh_v'
     type: 'staff'
-aim: ['el']
+aim: 'el']
 name: 'Shaposhnikova Zhanetta Vyacheslavovna'
 degree: 'Candidate of Physico-Mathematical Sciences'
 title: null
-post: ['assistant']
+post: 'assistant']
 speciality: '(01.04.03) Radiophysics'
-contacts: []
 avatar:
   - src: ''
 title: 'Shaposhnikova Zhanetta Vyacheslavovna - assistant of the Electronics Department'

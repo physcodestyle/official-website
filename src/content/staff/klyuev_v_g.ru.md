@@ -2,13 +2,13 @@
 language: 'ru'
 filename: 'klyuev_v_g'
     type: 'staff'
-aim: ['optics']
+aim: 'optics']
 name: 'Клюев Виктор Григорьевич'
 degree: 'доктор физико-математических наук'
 title: 'профессор'
-post: ['профессор']
+post: 'профессор']
 speciality: '(01.04.10) Физика полупроводников'
-contacts: ['+74732208780', 'vgklyuev@plys.vsu.ru']
+contacts: '+74732208780', 'vgklyuev@plys.vsu.ru']
 avatar:
   - src: '/images/klyuev_v_g-avatar.jpeg'
 title: 'Клюев Виктор Григорьевич - профессор кафедры оптики и спектроскопии'

@@ -5,8 +5,8 @@ filename: 'foto-s-novogodnego-koncerta'
 type: 'news'
 aim: 'all'
 title: 'Фотоотчет с новогоднего концерта ФизФака'
-'description: 'Фотоотчет с новогоднего концерта ФизФака'
-'images:
+description: 'Фотоотчет с новогоднего концерта ФизФака'
+images:
   - src: '/images/foto-s-novogodnego-koncerta.jpg'
     alt: 'Новогодний концерт физического факультета ВГУ'
     type: 'image'

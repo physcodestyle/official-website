@@ -5,8 +5,8 @@ filename: 'academiya-yandexa-shkola-razrabotki-interfeysov'
 type: 'news'
 aim: 'all'
 title: 'Школа разработки интерфейсов'
-'description: 'Академия Яндекса открыла набор в школу разработки интерфейсов. Школа пройдёт...'
-'images:
+description: 'Академия Яндекса открыла набор в школу разработки интерфейсов. Школа пройдёт...'
+images:
   - src: '/images/yandex.jpg'
     alt: 'Школа разработки интерфейсов'
     type: 'image'

@@ -5,8 +5,8 @@ filename: 'otkryta-registraciya-na-turnir-po-shachmatam'
 type: 'news'
 aim: 'all'
 title: 'Registration for the University stage of the ACC chess tournament is open'
-'description: 'Registration for the University stage of the tournament ACC chess is open'
-'images:
+description: 'Registration for the University stage of the tournament ACC chess is open'
+images:
   - src: '/images/otkryta-registraciya-na-turnir-po-shachmatam.jpg'
     alt: 'Registration for the University stage of ACC chess tournament'
     type: 'image'

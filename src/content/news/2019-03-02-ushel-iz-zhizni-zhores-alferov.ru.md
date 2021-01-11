@@ -5,8 +5,8 @@ filename: 'ushel-iz-zhizni-zhores-alferov'
 type: 'news'
 aim: 'all'
 title: 'Скончался Жорес Иванович Алфёров'
-'description: 'Скончался Жорес Иванович Алфёров'
-'images:
+description: 'Скончался Жорес Иванович Алфёров'
+images:
   - src: '/images/ushel-iz-zhizni-zhores-alferov.jpg'
     alt: 'Скончался Жорес Иванович Алфёров'
     type: 'image'

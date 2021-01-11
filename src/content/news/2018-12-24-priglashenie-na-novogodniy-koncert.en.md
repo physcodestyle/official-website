@@ -5,8 +5,8 @@ filename: 'priglashenie-na-novogodniy-koncert'
 type: 'news'
 aim: 'all'
 title: 'New year's concert on December 28'
-'description: 'faculty Asset invites everyone to the New year concert'
-'images:
+description: 'faculty Asset invites everyone to the New year concert'
+images:
   - src: '/images/priglashenie-na-novogodniy-koncert.jpg'
     alt: 'Invitation to the new year's concert of the faculty of physics of VSU'
     type: 'image'

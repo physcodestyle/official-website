@@ -5,8 +5,8 @@ filename: 'season-tickets'
 type: 'news'
 aim: 'all'
 title: 'Выдачи абонементов'
-'description: '31 октября, среда, в актовом зале главного корпуса выдадут абонементы в...'
-'images:
+description: '31 октября, среда, в актовом зале главного корпуса выдадут абонементы в...'
+images:
   - src: '/images/season-tickets.jpg'
     alt: 'Выдачи абонементов на бассейн'
     type: 'image'

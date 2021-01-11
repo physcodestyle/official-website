@@ -2,13 +2,12 @@
 language: 'en'
 filename: 'kretov_p_a'
     type: 'staff'
-aim: ['el']
+aim: 'el']
 name: 'Kretov Pavel Aleksandrovich'
 degree: null
 title: null
-post: ['assistant']
+post: 'assistant']
 speciality: null
-contacts: []
 avatar:
   - src: ''
 title: 'Kretov Pavel Aleksandrovich - assistant of the Electronics Department'

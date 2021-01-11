@@ -2,8 +2,8 @@
 language: 'en'
 filename: 'derevyagina_v_i'
 type: 'staff'
-aim: ['math']name: 'Derevyagina Elena Ivanovna'degree: 'Candidate of Physico-Mathematical Sciences'
-title: 'Associate Professor'post: ['assistant']speciality: '(01.04.06) Acoustics'contacts: []avatar:
+aim: 'math']name: 'Derevyagina Elena Ivanovnadegree: 'Candidate of Physico-Mathematical Sciences'
+title: 'Associate Professorpost: 'assistant']speciality: '(01.04.06) Acousticscontacts: []avatar:
   - src: ''
 title: 'Derevyagina Elena Ivanovna - assistant of the Mathematical physics Department'
     type: 'image'

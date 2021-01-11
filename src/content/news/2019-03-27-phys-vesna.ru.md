@@ -5,8 +5,8 @@ filename: 'phys-vesna'
 type: 'news'
 aim: 'all'
 title: 'Пришла Весна!'
-'description: 'Пришла Весна!'
-'images:
+description: 'Пришла Весна!'
+images:
   - src: '/images/phys-vesna.jpg'
     alt: 'Весна. ФизФак ВГУ'
     type: 'image'

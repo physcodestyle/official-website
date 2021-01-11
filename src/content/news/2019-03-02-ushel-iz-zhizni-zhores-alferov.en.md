@@ -5,8 +5,8 @@ filename: 'ushel-iz-zhizni-zhores-alferov'
 type: 'news'
 aim: 'all'
 title: 'Died Zhores Ivanovich Alferov'
-'description: 'Died Zhores Ivanovich Alferov'
-'images:
+description: 'Died Zhores Ivanovich Alferov'
+images:
   - src: '/images/ushel-iz-zhizni-zhores-alferov.jpg'
     alt: 'Died Zhores Ivanovich Alferov'
     type: 'image'
