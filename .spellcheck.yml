@@ -12,10 +12,10 @@ matrix:
   pipeline:
   - pyspelling.filters.markdown:
   - pyspelling.filters.html:
-    comments: false
-    ignores:
-    - code
-    - pre
+      comments: false
+      ignores:
+      - code
+      - pre
   sources:
   - 'README.md'
   - 'src/content/ru/**/*.md'
@@ -33,10 +33,10 @@ matrix:
   pipeline:
   - pyspelling.filters.markdown:
   - pyspelling.filters.html:
-    comments: false
-    ignores:
-    - code
-    - pre
+      comments: false
+      ignores:
+      - code
+      - pre
   sources:
   - 'src/content/en/**/*.md'
   default_encoding: utf-8
