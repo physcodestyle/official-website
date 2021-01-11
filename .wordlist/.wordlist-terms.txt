@@ -1,0 +1,10 @@
+Eleventy
+Editorconfig
+VSCode
+Nunjucks
+Codespaces
+Dockerfile
+Analytics
+Yandex
+Huawei
+PySpelling
