@@ -1,3 +1,5 @@
+![Spellcheck](https://github.com/physcodestyle/official-website/workflows/Spellcheck/badge.svg)
+
 # Официальный репозиторий сайта Физического факультета
 
 Сайт представляет собой набор файлов с содержимым сайта (тексты в формате [Markdown](https://www.markdownguide.org/basic-syntax/), картинки в высоком разрешении) и шаблоны страниц для сборки статического сайта с помощью генератора [Eleventy](https://www.11ty.dev).
