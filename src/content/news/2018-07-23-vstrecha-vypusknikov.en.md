@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1532304000
+filename: 'vstrecha-vypusknikov'
+type: 'news'
+aim: 'all'
+title: 'On 15 September, the University celebrates a century'
+'description: 'In addition to large-scale celebrations in the city, the main building will be large...'
+'images:
+  - src: '/images/vsu-100-let.jpg'
+    alt: 'On 15 September, the University celebrates a century'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 On 15 September, the University celebrates its centenary.
 
 In addition to large-scale celebrations in the city, the main building will host a large meeting of graduates and a festive concert. Graduates of the physical Faculty will meet with the Dean, entertainment from the asset and the friendly atmosphere of the native faculty.

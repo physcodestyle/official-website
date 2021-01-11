@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1549065600
+filename: 'otkryt-nabor-na-igrosfery'
+type: 'news'
+aim: 'all'
+title: 'Открыт набор на Игросферу'
+description: 'Открыт набор на Игросферу'
+images:
+src: '/images/otkryt-nabor-na-igrosfery.jpg'
+  alt: 'Открыт набор на Игросферу'
+type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Открыт набор на [Игросферу](https://vk.com/vgu.sphera). Это образовательный проект Mail.Ru Group на базе [факультета ПММ](https://vk.com/amm_vsu). Прохождение курса даст вам дополнительную специальность и сертификат Игросферы. Лучшие участники станут стажёрами [Mail.Ru](https://vk.com/away.php?to=http%3A%2F%2FMail.Ru&post=-131429_6021&cc_key=) Group.
 
 Направления обучения: — разработка игр на Unity; — тестирование игровых проектов.

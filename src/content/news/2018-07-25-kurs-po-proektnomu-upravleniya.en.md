@@ -1,3 +1,20 @@
+---
+language: 'en'
+date: 1532476800
+filename: 'kurs-po-proektnomu-upravleniya'
+type: 'news'
+aim: 'all'
+title: 'Project management course in Surf'
+description: 'Surf has opened registration for the project management course. Project management includes...'
+images:
+src: '/images/surf.png'
+  alt: 'Project management course in Surf'
+type: 'image'
+src: '//vk.com/video_ext.php?oid=-130139792&id=456239017&hash=3edbd2a4ba51ca9b&hd=2'
+type: 'vk'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Surf has opened registration for the project management course. Project management includes methods and techniques that help to conduct projects and solve problems.
 
 To receive an invitation from the company, you need to fill out a form, as well: \* Have skills in PHP / JavaScript/Python/Java/Obj-C/Swift; \* Be able to use automated/manual / unit-tests; \* Have an idea about the design of interfaces; — To know the PMI (project management)/Agile.

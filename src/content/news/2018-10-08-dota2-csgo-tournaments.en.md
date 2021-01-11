@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1538956800
+filename: 'dota2-csgo-tournaments'
+type: 'news'
+aim: 'all'
+title: 'Qualifying tournaments in the all-Russian eSports student League'
+'description: 'Qualifying tournaments for the all-Russian eSports student League will be held in Voronezh.'
+'images:
+  - src: '/images/dota2-csgo-tournaments.jpg'
+    alt: 'Qualifying tournaments in the all-Russian eSports student League'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Qualifying tournaments for the all-Russian eSports student League will be held in Voronezh. In the qualifying kiberklub [EXAMINALITY](https://vk.com/examinality) invites to tournaments for Dota 2 and CS:GO.
 
 The first stage of Dota 2 tournament will start on Saturday, October 13, at 18: 00. CS:GO tournament-Saturday, October 20, at 17: 00. Tournament rules are attached to this post.

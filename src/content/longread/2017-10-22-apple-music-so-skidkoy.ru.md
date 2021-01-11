@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1508630400
+filename: 'apple-music-so-skidkoy'
+type: 'longread'
+aim: 'all'
+title: 'Apple Music со скидкой'
+description: 'Использовать льготную подписку можно до конца своего обучения в ВГУ'
+images:
+- src: '/images/apple-music-discounts-for-students.jpg'
+  alt: 'Apple Music со скидкой'
+  type: 'image'
+updatedAt: 1568360578
+materialType: 'longread'
+---
 1.  Скачиваем удобное для вас приложение: iOS (установлено при покупке), Android, ПК или mac. Ниже мы приведем пример настройки для Android, хотя на разных платформах шаги почти одинаковые. Если вы запутались или у вас уже есть оплаченная подписка, прочитайте что делать [на сайте Apple](https://support.apple.com/ru-ru/HT205928).
 2.  Откройте программу Apple Music. Если экран Apple Music не появился, нажмите «Попробовать» внизу;
 3.  Выберите пункт «Для учащихся» и нажмите «Подтвердить статус учащегося»;

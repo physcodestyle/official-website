@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1541635200
+filename: 'travelworks'
+type: 'news'
+aim: 'all'
+title: 'TravelWorks проводит презентацию для студентов ВГУ'
+description: 'TravelWorks проводит презентацию для студентов ВГУ...'
+images:
+src: '/images/travelworks.jpg'
+  alt: 'TravelWorks проводит презентацию для студентов ВГУ'
+type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 [TravelWorks](https://vk.com/travelworks) проводит презентацию для студентов ВГУ.
 
 TravelWorks организует программы международного обмена студентами в 107 странах мира. С их помощью вы сможете получить опыт работы, пройти профессиональные стажировки и изучить иностранные языки.

@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1540425600
+filename: 'tech-leaders-russia'
+type: 'news'
+aim: 'all'
+title: 'Набор в программу Tech Leaders Russia'
+'description: 'Набор в программу Tech Leaders Russia...'
+'images:
+  - src: '/images/tech-leaders-russia.jpg'
+    alt: 'Набор в программу Tech Leaders Russia'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Tech Leaders Russia — этот менторская программа, в которую вы можете попасть в качестве менти. За вами будет закреплен ментор — специалист в сфере IT. Он поделится с вами знаниями и опытом работы с определенной технологией. Работа с наставником может включать теоретические и практические задания.
 
 С наставником нужно будет встречаться раз в одну-две недели в течение двух-трех месяцев.

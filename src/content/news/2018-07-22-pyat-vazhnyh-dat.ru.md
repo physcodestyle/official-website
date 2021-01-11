@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1532217600
+filename: 'pyat-vazhnyh-dat'
+type: 'news'
+aim: 'all'
+title: '5 важных дат'
+description: 'Эти даты должен знать каждый абитуриент, чтобы ничего не пропустить'
+images:
+src: '/images/calendar-for-entrants.jpg'
+  alt: '5 важных дат'
+type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 26 июля — последний день приема заявление и исправлений в них.
 
 1 августа — последний день приема оригиналов для 1-ой волны.

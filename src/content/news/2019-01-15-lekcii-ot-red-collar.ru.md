@@ -1,3 +1,17 @@
+---
+language: 'ru'date: 1547510400
+filename: 'lekcii-ot-red-collar'
+type: 'news'
+aim: 'all'
+title: 'Red Collar проведёт серию лекций в ВГУ'
+description: 'Red Collar проведёт серию лекций в ВГУ'
+images:
+  - src: '/images/lekcii-ot-red-collar.jpg'
+    alt: 'Red Collar проведёт серию лекций в ВГУ'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Digital-агентство [Red Collar](https://vk.com/redcollar) проведёт серию лекций в ВГУ. На мероприятии расскажут: - про путь к посту арт-директора; - о влиянии анимации на опыт пользователя; - чему дизайнер может научиться у писателя; - о 3D графике на службе у дизайнера.
 
 Лекции пройдут 19 января с 13:00 до 18:00 в актовой зале главного корпуса. Чтобы принять участие, [зарегистрируйтесь](https://vk.cc/8V9LTg).

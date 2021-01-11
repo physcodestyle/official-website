@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1518912000
+filename: 'kak-oformit-matpomosh'
+type: 'longread'
+aim: 'all'
+title: 'How to Apply for Financial Aid?'
+'description: 'Material assistance can be obtained regardless of academic performance and...'
+'images:
+  - src: '/images/kak-oformit-matpomosch.jpg'
+    alt: 'How to Apply for Financial Aid?'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'longread'
+---
 A student who has a difficult financial situation, can receive financial assistance, no more than 1 time per semester. Material assistance can be obtained regardless of academic performance and the availability of tails. To get financial assistance, you need
 
 ### Step 1

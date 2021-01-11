@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1545091200
+filename: 'besplatnye-kursy-business-analitikov-ot-dataart'
+type: 'news'
+aim: 'all'
+title: 'DataArt приглашает на бесплатные курсы для бизнес-аналитиков'
+'description: 'DataArt приглашает на бесплатные курсы для бизнес-аналитиков'
+'images:
+  - src: '/images/besplatnye-kursy-business-analitikov-ot-dataart.jpg'
+    alt: 'Курсы для бизнес-аналитиков в DataArt'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 [DataArt](https://vk.com/dataart) приглашает на бесплатные курсы для бизнес-аналитиков. В программе 24 часа занятий с преподавателями и 40 часов самостоятельной работы.
 
 На курсах расскажут: — как создается программное обеспечение; — как сформировать точные требования для разработки продукта; — как общаться с заказчиками, и многое другое.

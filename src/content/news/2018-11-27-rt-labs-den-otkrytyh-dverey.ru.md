@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1543276800
+filename: 'rt-labs-den-otkrytyh-dverey'
+    type: 'news'
+aim: 'all'
+title: 'РТЛабс. День открытых дверей'
+description: 'Компания РТЛабс приглашает на день открытых дверей.'
+images:
+  - src: '/images/rt-labs-den-otkrytyh-dverey.jpg'
+    alt: 'РТЛабс. День открытых дверей'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Компания РТЛабс приглашает на день открытых дверей. Мероприятие состоится **28 ноября в 16:00**.
 
 Вы узнаете:

@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1547683200
+filename: 'putevki-na-zimniy-otdykh'
+type: 'news'
+aim: 'all'
+title: 'Tours for winter holidays'
+description: 'Trips for the winter holidays'
+images:
+src: '/images/putevki-na-zimniy-otdykh.jpg'
+  alt: 'Winter vacation packages'
+type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Scholarship Committee of the faculty distributed vouchers for winter holidays. Lists got a ticket available at [link](https://vk.com/doc24974484_488877003?hash=7e06b9acce63922039&dl=d9e7b0c24f00530452).
 
 You can buy a ticket from 22 to 29 January in the Department of social work, AUD. 337a. This can be done from 10:00 to 15:30, a break from 12:00 to 13:00. You need to have a passport and a student card. The cost of tours 5000.

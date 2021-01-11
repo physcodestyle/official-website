@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1538524800
+filename: 'it-breakthrough'
+type: 'news'
+aim: 'all'
+title: 'IT Breakthrough'
+description: 'JSC Roselectronics and Softline hold a competition IT Breakthrough.'
+images:
+src: '/images/it-breakthrough.jpg'
+  alt: 'IT Breakthrough'
+type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 [JSC Ruselectronics](http://www.ruselectronics.ru) [Softline](https://vk.com/softlinecompany) conduct a competition “IT breakthrough”. To participate, you need to make a project that solves any problem in the field of information technology.
 
 The application can be submitted in six categories: \* It in electronics and robotics \* it-security \* It in medicine \* IT in education \* IT is in the energy sector \* Best mobile app

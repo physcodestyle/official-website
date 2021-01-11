@@ -1,3 +1,17 @@
+---
+language: 'ru'date: 1538524800
+filename: 'it-breakthrough'
+type: 'news'
+aim: 'all'
+title: 'IT прорыв'
+description: 'АО «Росэлектроника» и Softline проводят конкурс «IT прорыв».'
+images:
+  - src: '/images/it-breakthrough.jpg'
+    alt: 'IT прорыв'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 [АО «Росэлектроника»](http://www.ruselectronics.ru) и [Softline](https://vk.com/softlinecompany) проводят конкурс «IT прорыв». Для участия нужно составить проект, который решает какую-либо проблему в сфере информационных технологий.
 
 Заявку можно подать в шести номинациях: \* IT в радиоэлектронике и робототехнике \* IT-безопасность \* IT в медицине \* IT в образовании \* IT в энергетике \* Лучшее мобильное приложение

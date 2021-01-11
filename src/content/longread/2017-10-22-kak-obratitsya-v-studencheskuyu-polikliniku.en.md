@@ -1,3 +1,17 @@
+---
+language: 'en'date: 1508630400
+filename: 'kak-obratitsya-v-studencheskuyu-polikliniku'
+type: 'longread'
+aim: 'all'
+title: 'How to Apply to the Student Clinic'
+description: 'We tell you how to pass fluorography without any hassle, do vaccinations and spend a minimum of time visiting hospitals'
+images:
+- src: '/images/student-hospital.jpg'
+  alt: 'How to Apply to the Student Clinic'
+  type: 'image'
+updatedAt: 1568360578
+materialType: 'longread'
+---
 All students ever need help or a doctor’s advice. We tell you how to pass fluorography without any hassle, do vaccinations and spend a minimum of time visiting hospitals.
 
 Registration: All students and post-graduate students of the full-time Department over 18 years can apply to the clinic. Including foreigners. To be assigned to the student clinic you need to register. To gain a foothold need to get a card and go to a doctor. You need to come to the reception with a passport, a policy of compulsory health insurance (CHI), SNILS and a student ticket. Report the transition to the old clinic is not necessary. Foreign citizens in the absence of the CHI policy can only use the office of paid services.

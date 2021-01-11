@@ -1,3 +1,19 @@
+---
+language: 'en'
+date: 1295395200
+filename: 'me-department-overview'
+type: 'longread'
+aim: 'me'
+title: 'Semiconductor and microelectronics physics Department today'
+description: 'The Department was organized in 1959, its first head became...'
+lead: 'Semiconductor and microelectronics physics Department, organized in 1959 From this moment on 1961 head was Katasonov Nikolai Vasilyevich, associate Professor, Department of physics, faculty of physics, Voronezh state University.'
+images:
+- src: '/images/el_phys_about_01.jpg'
+  alt: 'История кафедры электроники - 1'
+  type: 'image'
+updatedAt: 1568360578
+materialType: 'longread'
+---
 The origins of the Department
 -----------------------------
 
@@ -11,21 +27,21 @@ Current research areas
 ----------------------
 
 *   fundamental and applied problems of surface physics and microelectronics
-    
+
 *   theoretical and applied research in the field of power electronics
-    
+
 *   physical processes in low-temperature gas-discharge plasma
-    
+
 *   fundamental and applied research in the field of functional electronics
-    
+
 *   development of materials, technologies, elements and devices of nanoelectronics
-    
+
 *   physical basis of nanoelectronics and nanotechnology
-    
+
 *   self-organization processes in nanotechnology
-    
+
 *   spintronics materials and devices
-    
+
 *   development of circuit design methods of functional blocks for systems on a chip with submicron topological norms
-    
+
 *   application of parallel information processing structures to create high-performance electronic devices

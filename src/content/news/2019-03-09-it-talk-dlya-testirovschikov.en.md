@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1552089600
+filename: 'it-talk-dlya-testirovschikov'
+type: 'news'
+aim: 'all'
+title: 'DataArt conducts IT talk for testers'
+description: 'DataArt conducts IT talk for testers'
+images:
+src: '/images/it-talk-dlya-testirovschikov.jpg'
+  alt: 'DataArt conducts IT talk for testers'
+type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 [DataArt](https://vk.com/dataart) conducts IT talk for testers. IT talk is a lecture where experts in a particular field share their knowledge and experience.
 
 This time they will talk about testing: - Dmitry Voevudsky-Senior QA Automation Engineer. Dmitry will talk about automation of processes in a large project; - Yuri Balan-QA Expert / Project Manager. Yuri will talk about the best testing practices in the company and their application in standard and non-standard situations.

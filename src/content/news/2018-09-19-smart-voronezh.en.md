@@ -1,3 +1,17 @@
+---
+language: 'en'date: 1537315200
+filename: 'smart-voronezh'
+type: 'news'
+aim: 'all'
+title: 'The project Smart Voronezh is looking for a leading childrens science show'
+description: 'Smart Voronezh Project is looking for a leading childrens science show.'
+images:
+  - src: '/images/volunteer.jpg'
+    alt: 'Smart Voronezh project is looking for a leading children science show'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Project [Smart Voronezh](https://vk.com/smartvoronezh) looking for a children’s science show host.
 
 The project popularizes science and shows children that physics and chemistry are interesting. The project has four laboratories, in each of which children conduct experiments. In 20 minutes the child learns the theory and conducts an experiment.

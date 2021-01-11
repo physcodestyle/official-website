@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1542931200
+filename: 'blagotvooritelnaya-akciya-bezumnoye-chaepitie'
+    type: 'news'
+aim: 'all'
+title: 'Благотворительная акиця \'Безумное чаепитие\''
+description: '27 ноября (вторник) состоится благотворительная акция «Безумное чаепитие».'
+images:
+  - src: '/images/blagotvooritelnaya-akciya-bezumnoye-chaepitie.jpg'
+    alt: 'Благотворительная акиця 'Безумное чаепитие''
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 27 ноября (вторник) состоится благотворительная акция «Безумное чаепитие». Ее организуют [Волонтеры ФКН](https://vk.com/volunteers_csf) в честь дня рождения Благотворительного фонда «Подари жизнь».
 
 Участники акции за любое пожертвование в фонд смогут приобрести кондитерское изделие и выпить чай или кофе.

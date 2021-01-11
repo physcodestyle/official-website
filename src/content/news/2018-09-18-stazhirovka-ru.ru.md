@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1537228800
+filename: 'stazhirovka-ru'
+type: 'news'
+aim: 'all'
+title: 'Стажировка.ру запускает новый проект IT-Generation в рамках...'
+'description: 'Стажировка.ру запускает новый проект IT-Generation в рамках РИФ-Воронеж 2018 и приглашает студентов и выпускников к...'
+'images:
+  - src: '/images/stazhirovka-ru.jpg'
+    alt: 'Стажировка.ру запускает новый проект IT-Generation'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Стажировка.ру запускает новый проект IT-Generation в рамках РИФ-Воронеж 2018 и приглашает студентов и выпускников к участию в IT-чемпионате.
 
 IT-Generation — чемпионат по решению кейсов в области digital-технологий и онлайн-коммуникаций.

@@ -1,3 +1,17 @@
+---
+language: 'en'date: 1541721600
+filename: 'vtb-vacancies'
+type: 'news'
+aim: 'all'
+title: 'Leading specialist of information technology Department'
+description: 'VTB Bank requires a leading specialist of information technology Department...'
+images:
+  - src: '/images/vtb-vacations.jpg'
+    alt: 'VTB Bank requires a leading specialist of information technology Department'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 VTB Bank requires a leading specialist of the information technology Department.
 
 Charge: \* administration of Cisco network equipment, application SOFTWARE (Symantec Backup EXE, Symantec Endpoint Protection, PowerShell, HP Web JetAdmin); \* work with equipment technical condition monitoring systems; \* Avaya PBX administration;

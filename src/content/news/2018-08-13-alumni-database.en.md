@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1534118400
+filename: 'alumni-database'
+    type: 'news'
+aim: 'all'
+title: 'Alumni database'
+description: 'We remind you about the base of graduates of the faculty of Physics....'
+images:
+  - src: '/images/vruchenie-diplomov-magistram-2018.jpg'
+    alt: 'IT talk по дизайну'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 We remind you about the base of graduates of the faculty of Physics. Bachelors and masters of this year, you are now also graduates and can fill up the database with your contacts.
 
 After filling out the form, you will receive invitations to meetings and learn about the life of the faculty.

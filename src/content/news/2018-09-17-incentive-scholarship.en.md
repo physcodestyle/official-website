@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1537142400
+filename: 'incentive-scholarship'
+type: 'news'
+aim: 'all'
+title: 'Acceptance of applications for incentive scholarships is opened'
+description: 'Applications for incentive scholarships are now open. It can be received by students who have closed the previous two sessions well and perfectly.'
+images:
+src: '/images/kak-oformit-matpomosch.jpg'
+  alt: 'open acceptance of applications for incentive scholarship'
+type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Applications for incentive scholarships are now open. It can be received by students who have closed the previous two sessions well and perfectly.
 
 Importantly:

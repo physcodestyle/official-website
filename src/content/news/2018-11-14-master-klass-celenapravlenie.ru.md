@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1542153600
+filename: 'master-klass-celenapravlenie'
+type: 'news'
+aim: 'all'
+title: 'Мастер-класс по теме \'Целенаправление\''
+'description: 'ЦРК ВГУ приглашает на мастер-класс по теме «Целенаправление».'
+'images:
+  - src: '/images/master-klass-celenapravlenie.jpg'
+    alt: 'Мастер-класс по теме 'Целенаправление''
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 [Центр развития карьеры ВГУ](https://vk.com/vsu_career) приглашает студентов на мастер-класс по теме «Целенаправление».
 
 Вам расскажут что такое цель, о принципах построения и как преодолеть барьеры на пути к задач.

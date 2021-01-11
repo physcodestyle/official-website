@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1543449600
+filename: 'business-analysis-school'
+    type: 'news'
+aim: 'all'
+title: 'DataArt принимает заявки в Business Analysis School'
+description: 'В школе расскажут о профессии бизнес-аналитика...'
+images:
+  - src: '/images/business-analysis-school.jpg'
+    alt: 'DataArt принимает заявки в Business Analysis School'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 [DataArt](https://vk.com/dataart) принимает заявки в Business Analysis School. В школе расскажут о профессии бизнес-аналитика: как создается ПО, как ставить задачи разработчикам и о работе с заказчиком.
 
 Курс начинается **16 января**. Он включает в себя два занятия в неделю по полтора часа, которые будут проходить в среду и субботу. Лучших участников пригласят на практикантскую программу по специальности «Бизнес-анализ».

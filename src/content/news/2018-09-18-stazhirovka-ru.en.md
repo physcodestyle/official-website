@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1537228800
+filename: 'stazhirovka-ru'
+type: 'news'
+aim: 'all'
+title: 'Stazhirovka.ru launches a new IT-Generation project within the framework...'
+'description: 'Stazhirovka.ru launches a new IT-Generation project within the framework of RIF-Voronezh 2018 and invites students and graduates to...'
+'images:
+  - src: '/images/stazhirovka-ru.jpg'
+    alt: 'Stazhirovka.ru launches new project IT-Generation'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Stazhirovka.ru launches a new IT-Generation project within RIF-Voronezh 2018 and invites students and graduates to participate in the IT-championship.
 
 IT-Generation is a championship in solving cases in the field of digital technologies and online communications.

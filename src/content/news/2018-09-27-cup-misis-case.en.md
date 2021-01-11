@@ -1,3 +1,17 @@
+---
+language: 'en'date: 1538006400
+filename: 'cup-misis-case'
+type: 'news'
+aim: 'all'
+title: 'All-Russian case-cup CUP MISIS CASE'
+description: 'All-Russian case-cup CUP MISIS CASE. Tasks are based on IoT, AI, Big Data, Machine Learning.'
+images:
+  - src: '/images/idea.png'
+    alt: 'All-Russian case championship CUP MISIS CASE'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Registration is open for \[“CUP MISIS CASE”\] (https://vk.com/nust\_misis). This is an all-Russian case-championship, where participants offer solutions to engineering problems. Tasks are based on IoT, AI, Big Data, Machine Learning.
 
 Participation gives: \* experience in solving real production problems \* additional item in summary \* familiarity with employers.

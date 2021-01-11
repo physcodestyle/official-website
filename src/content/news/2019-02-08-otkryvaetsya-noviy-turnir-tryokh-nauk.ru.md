@@ -1,3 +1,17 @@
+---
+language: 'ru'date: 1549584000
+filename: 'otkryvaetsya-noviy-turnir-tryokh-nauk'
+type: 'news'
+aim: 'all'
+title: 'Открывается новый сезон Турнира Трёх Наук'
+description: 'Открывается новый сезон Турнира Трёх Наук'
+images:
+  - src: '/images/otkryvaetsya-noviy-turnir-tryokh-nauk.jpg'
+    alt: 'Открывается новый сезон Турнира Трёх Наук'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Открывается новый сезон Турнира Трёх Наук.
 
 На конкурсе участники представляют решение задач по биологии, химии и физике. Оппоненты ищут ошибки и неточности, а рецензенты решают исход научной битвы.

@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1541116800
+filename: 'career-day'
+    type: 'news'
+aim: 'all'
+title: 'Сareer Day at VSU'
+description: 'November 10 (Saturday) at VSU Career Day will be held...'
+images:
+  - src: '/images/career-day.jpg'
+    alt: 'Career Day at VSU'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 November 10 (Saturday) at VSU held \[«Сareer Day»\] (https://vk.com/vsu\_career). At the event you will learn about the state of the labor market. You will be told where and by whom graduates work.
 
 The meeting will be held in the Assembly hall of VSU.

@@ -1,3 +1,17 @@
+---
+language: 'en'date: 1550102400
+filename: 'presentaciya-dataart'
+type: 'news'
+aim: 'all'
+title: 'DataArt will hold a presentation about project management'
+description: 'DataArt will hold a presentation about project management'
+images:
+  - src: '/images/presentaciya-dataart.jpg'
+    alt: 'DataArt will hold a presentation on project management'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 [DataArt](https://vk.com/dataart) will hold a presentation on project management for those wishing to develop in the field of IT. The event will reveal the non-technical side of the work, which is not always known to novice programmers.
 
 The report “what actually customers pay the services of a registered design” will make Catherine Shalamanova, Manager on implementation of DataArt.

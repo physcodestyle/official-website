@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1541116800
+filename: 'career-day'
+type: 'news'
+aim: 'all'
+title: 'День карьеры в ВГУ'
+'description: '10 ноября (суббота) в ВГУ состоится День карьеры...'
+'images:
+  - src: '/images/career-day.jpg'
+    alt: 'День карьеры в ВГУ'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 10 ноября (суббота) в ВГУ состоится [«День карьеры»](https://vk.com/vsu_career). На мероприятии вы узнаете о состоянии рынка труда. Вам расскажут где и кем работают выпускники.
 
 Встреча пройдет в актовом зале ВГУ.

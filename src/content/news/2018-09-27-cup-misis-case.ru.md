@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1538006400
+filename: 'cup-misis-case'
+type: 'news'
+aim: 'all'
+title: 'Всероссийский кейс-чемпионат CUP MISIS CASE'
+'description: 'Всероссийский кейс-чемпионат CUP MISIS CASE. Задания составлены на основе IoT, AI, Big Data, Machine Learning'
+'images:
+  - src: '/images/idea.png'
+    alt: 'Всероссийский кейс-чемпионат CUP MISIS CASE'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Открыта регистрация на [«CUP MISIS CASE»](https://vk.com/nust_misis). Это Всероссийский кейс-чемпионат, где участники предлагают решения инженерных задач. Задания составлены на основе IoT, AI, Big Data, Machine Learning.
 
 Участие даёт: \* опыт решения реальных производственных задач \* дополнительный пункт в резюме \* знакомство с работодателями.

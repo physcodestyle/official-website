@@ -1,3 +1,17 @@
+---
+language: 'EN'date: 1552348800
+filename: 'konferenciya-po-svch'
+type: 'news'
+aim: 'all'
+title: 'Conference \'Microwave electronics and microelectronics»'
+description: 'Conference \'Microwave electronics and microelectronics»'
+images:
+  - src: '/images/konferenciya-po-svch.jpg'
+    alt: 'Conference Microwave Electronics and Microelectronics'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 From 3 to 6 June at the St. Petersburg state electrotechnical University will be held a conference “ electronics and microelectronics microwave»,
 
 At the event, participants will present plenary and sectional reports, original presentations and poster presentations.

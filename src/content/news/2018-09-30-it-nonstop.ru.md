@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1538265600
+filename: 'it-nonstop'
+type: 'news'
+aim: 'all'
+title: 'IT NonStop в Воронеже'
+'description: 'DataArt приглашает на международную конференцию IT NonStop в Воронеже.'
+'images:
+  - src: '/images/dataart-logo.png'
+    alt: 'IT NonStop в Воронеже'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 DataArt приглашает на международную конференцию IT NonStop в Воронеже.
 
 Конференция посвящена разработке и тестированию веб-приложений. Вы узнаете о новинках в JavaScript, российские и зарубежные докладчики поделятся опытом работы.

@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1545523200
+filename: 'specialnost-perevodchik'
+type: 'news'
+aim: 'all'
+title: 'Second degree-translator in the field of professional communication'
+'description: 'Second education in the specialty-translator in the field of professional communication'
+'images:
+  - src: '/images/specialnost-perevodchik.jpg'
+    alt: 'Translator in professional communication'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 The Department of translation theory and intercultural communication offers a second education in the specialty — “translator in the field of professional communication”.
 
 Graduates will receive a state diploma. The new specialty will complement your profession and will allow you to teach English in schools and universities.

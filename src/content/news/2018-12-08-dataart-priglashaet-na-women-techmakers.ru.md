@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1544227200
+filename: 'dataart-priglashaet-na-women-techmakers'
+type: 'news'
+aim: 'all'
+title: 'DataArt приглашает всех желающих на Women Techmakers'
+'description: 'DataArt приглашает всех желающих на Women Techmakers.'
+'images:
+  - src: '/images/dataart-priglashaet-na-women-techmakers.jpg'
+    alt: 'DataArt. Women Techmakers'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 [DataArt](https://vk.com/dataart) приглашает всех желающих на Women Techmakers.
 
 Women Techmakers — международная программа обмена опытом для женщин в области IT. Цель движения — помочь девушкам найти себя сфере IT, дать необходимые ресурсы и знания.

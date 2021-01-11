@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1549584000
+filename: 'otkryvaetsya-noviy-turnir-tryokh-nauk'
+    type: 'news'
+aim: 'all'
+title: 'The new season Of the tournament of Three Sciences Opens'
+description: 'The new season Of the tournament of Three Sciences Opens'
+images:
+  - src: '/images/otkryvaetsya-noviy-turnir-tryokh-nauk.jpg'
+    alt: 'The new season of the three Sciences Tournament Opens'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 The new season Of the tournament of Three Sciences opens.
 
 At the competition, participants present solutions to problems in biology, chemistry and physics. Opponents look for mistakes and inaccuracies, and reviewers decide the outcome of the scientific battle.

@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1547510400
+filename: 'lekcii-ot-red-collar'
+    type: 'news'
+aim: 'all'
+title: 'Red Collar will hold a series of lectures at VSU'
+description: 'Red Collar will hold a series of lectures at VSU'
+images:
+  - src: '/images/lekcii-ot-red-collar.jpg'
+    alt: 'Red Collar will hold a series of lectures at VSU'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Digital-Agency [Red Collar](https://vk.com/redcollar) will hold a series of lectures at VSU. The event will tell: - about the way to the post of art Director; - the effect of animation on the user experience; - what a designer can learn from a writer; - about 3D graphics in the service of the designer.
 
 Lectures will be held on January 19 from 13: 00 to 18: 00 in the Assembly hall of the main building. To participate, [sign up](https://vk.cc/8V9LTg).

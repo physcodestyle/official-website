@@ -1,6 +1,21 @@
-Technopark “Kvantorium” looking for teachers in the areas of “Energikontor”, “Euroquantum”, “VR\\AR-kvantum”.
+---
+language: 'en'
+date: 1537228800
+filename: 'vacances-of-teachers'
+type: 'news'
+aim: 'all'
+title: 'Technopark Kvantorium looking for teachers...'
+description: 'Technopark Kvantorium looking for teachers in the areas of Energikontor, Euroquantum...'
+images:
+src: '/images/volunteer.jpg'
+  alt: 'set of volunteers in Buddy club VSU'
+type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
+Technopark “Kvantorium” looking for teachers in the areas of “Energikontor”, “Euroquantum”, “VR\AR-kvantum”.
 
-Directions description: \* Energikontor – physics, alternative energy, electronics, mechanics, fluid dynamics, Assembly and soldering of electrical circuits. \* Euroquantum – aerodynamics, construction and Assembly of drones, flying UAVs (including FPV flight “first person”). \* VR\\AR quantum-programming (C#, Java languages), network technologies and OOP, game technologies and engines, 3D-modeling.
+Directions description: \* Energikontor – physics, alternative energy, electronics, mechanics, fluid dynamics, Assembly and soldering of electrical circuits. \* Euroquantum – aerodynamics, construction and Assembly of drones, flying UAVs (including FPV flight “first person”). \* VR\AR quantum-programming (C#, Java languages), network technologies and OOP, game technologies and engines, 3D-modeling.
 
 Requirements: \* higher pedagogical, technical or physical-mathematical education. \* desire and aspiration to work and develop in the pedagogical sphere of activity. \* ability to work with children of different levels of training. \* competent speech, initiative, openness. \* experience is not required, but welcome. \* high level of knowledge of the subject.
 

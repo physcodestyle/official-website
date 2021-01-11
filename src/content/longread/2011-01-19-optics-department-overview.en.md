@@ -1,3 +1,19 @@
+---
+language: 'en'
+date: 1295395200
+filename: 'optics-department-overview'
+type: 'longread'
+aim: 'optics'
+title: 'Optics and spectroscopy Department today'
+description: 'The Optics and spectroscopy Department was established in 1961 by associate Professor Elizaveta Nikolaevna Ivanova'
+lead: 'The Optics and spectroscopy Department was established in 1961 by associate Professor Elizaveta Nikolaevna Ivanova and a small group of teachers. Up to this point, they all worked at the Department of electromagnetic oscillations under the guidance of the world-famous prof.M. Levitskaya, where scientific research and specialists in optical spectroscopy of atoms, molecules and solids were produced. By the time of creation of the Department methods of optical spectroscopy have already found wide application in many fields of science and technology.'
+images:
+- src: '/images/el_phys_about_01.jpg'
+  alt: 'История кафедры электроники - 1'
+  type: 'image'
+updatedAt: 1568360578
+materialType: 'longread'
+---
 The origins of the Department
 -----------------------------
 
@@ -47,15 +63,15 @@ The Department conducts active research on optics and spectra of ion-covalent cr
 Research staff and graduate students of the Department are concentrated in the field of optics and Photonics of heterogeneous systems and constitute a fundamental basis for progress in the creation of new technologies of optoelectronics, Photonics, optical memory systems and optical computers, photocatalysis, biology, medicine, etc. The most actively developed areas:
 
 *   Luminescence of crystals with nanostructured surface.
-    
+
 *   Development of principles for the construction of low-power limiters and optical radiation converters based on nanostructured materials.
-    
+
 *   Photophysical processes in quantum dots coupled with molecules and dye aggregates.
-    
+
 *   Optics and spectroscopy of localized States in crystals, quantum dots and hybrid nanostructures.
-    
+
 *   Formation and decay of plasmon-polariton excitations in condensed media.
-    
+
 
 Scientific work
 ---------------
@@ -65,60 +81,60 @@ The Department of optics and spectroscopy has developed a scientific and pedagog
 #### Areas of scientific activity:
 
 *   Optics and spectroscopy of crystals with nanostructured surface
-    
+
 *   Atomic photo-stimulated Assembly of clusters and nanostructures on the solid surface
-    
+
 *   Low-threshold two-quantum excitation processes of anti-Stokes luminescence in ion-covalent crystals with nanostructured surface
-    
+
 *   Nonradiative processes in a solid
-    
+
 *   Plasmon-polariton excitations in condensed media
-    
+
 
 #### Applied research:
 
 *   Development of materials for optical memory and new ways of recording and reading optical information
-    
+
 *   Development of low-threshold power limiters
-    
+
 *   Digital processing of optical images
-    
+
 
 Cooperation
 -----------
 
 *   The Department is closely connected with the production and academic institutions, which are working together of fundamental and applied nature:
-    
+
 *   Institute of plasma physics. Max Planck, Germany
-    
+
 *   Federal Institute of physics and technology (Physikalisch-Technische Bundesanstalt), Braunschweig, Germany
-    
+
 *   Moscow state University named after M. V. Lomonosov (Moscow state University), Moscow
-    
+
 *   Physics Institute imeni P. N. Lebedev of the Russian Academy of Sciences (LPI RAS), Moscow
-    
+
 *   Moscow state University of fine chemical technologies named. M. V. Lomonosov (mifct), Moscow
-    
+
 *   Moscow state University of printing arts (MGUP), Moscow
-    
+
 *   Institute of problems of chemical physics RAS (IPH RAS), Chernogolovka, Moscow region
-    
+
 *   Saint-Petersburg state University of information technologies, mechanics and optics (ITMO), St. Petersburg
-    
+
 *   Institute of physical chemistry. L. V. Pisarzhevsky NAS of Ukraine, Kyiv
-    
+
 *   Institute of metal physics. G. V. kurdyumova NAS of Ukraine, Kyiv
-    
+
 *   St. Petersburg state University of film and Television (Spbgukit), St. Petersburg
-    
+
 *   Saint-Petersburg state electrotechnical University “ LETI “(SPbGETU), Saint-Petersburg
-    
+
 *   Tambov state University. G. R. Derzhavina, Tambov
-    
+
 *   Kemerovo state University (KemSU), Kemerovo
-    
+
 *   Kursk state University (KSU), Kursk
-    
+
 *   Belarusian state University (BSU), Minsk, Belarus
-    
+
 *   Odessa national University (ONU), Odessa, Ukraine

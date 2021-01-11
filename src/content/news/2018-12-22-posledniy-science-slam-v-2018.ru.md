@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1545436800
+filename: 'posledniy-science-slam-v-2018'
+type: 'news'
+aim: 'all'
+title: 'Приходите на последний в этом году Science Slam New Year!'
+'description: 'Приходите на последний в этом году Science Slam New Year!'
+'images:
+  - src: '//vk.com/video_ext.php?oid=-173360600&id=456239020&hash=2f075b347308019a&hd=2'
+    alt: 'Видеоприглашение на Science Slam New Year'
+    type: 'vk'
+updatedAt: 1568360578
+materialType: 'news'
+---
 27 декабря, в четверг, пройдёт последний в этом году Science Slam New Year.
 
 Science Slam — формат научно-популярного шоу, в котором участники неформально рассказывают о своих научных достижениях. В этом раз организаторы решили объединить взрослых и детей, они выступят в парах.

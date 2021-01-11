@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1537660800
+filename: 'supply-chain-cup'
+type: 'news'
+aim: 'all'
+title: 'Supply Chain Cup'
+'description: 'СИБУР вместе с компаниями-партнерами запускает чемпионат Supply Chain Cup.'
+'images:
+  - src: '/images/supply-chain-cup.png'
+    alt: 'Supply Chain Cup'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 СИБУР вместе с компаниями-партнерами запускает чемпионат Supply Chain Cup. Это турнир по решению бизнес задач, их также называют кейсами.
 
 Кейсы написаны так, что решить можно без особой подготовки. Необходимые знания можно получить из учебников, которые дадут на старте чемпионата, а в процессе чемпионата пройдет вебинары с экспертами.

@@ -1,3 +1,18 @@
+---
+language: 'ru'
+date: 1521244800
+filename: 'kak-poluchit-windows'
+type: 'longread'
+aim: 'all'
+title: 'Как получить Windows?'
+description: 'Рассказываем, как получить лицензионную Windows 10'
+images:
+src: '/images/microsoft-office-license-for-students.jpg'
+  alt: 'Как получить Windows?'
+type: 'image'
+updatedAt: 1568360578
+materialType: 'longread'
+---
 Студент ФизФака может получить Windows 10. Для этого понадобится студенческий билет, продлённая зачётка и флешка минимум на 4 Гб.
 
 Windows получают в аудитории 346 (отдел компьютерного обеспечения РЦНИТ). Возможно такое, что с первого раза вы не найдёте нужного вам человека. Это нормально. Советуем заходить 1 - 2 раза в неделю во время большого перерыва.

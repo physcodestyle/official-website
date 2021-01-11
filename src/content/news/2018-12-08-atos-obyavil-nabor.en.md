@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1544227200
+filename: 'atos-obyavil-nabor'
+type: 'news'
+aim: 'all'
+title: 'Atos Training center announces recruitment of senior students'
+description: 'Atos Training center announces the recruitment of senior students in SAP programs and enterprise Economics.'
+images:
+src: '/images/atos-obyavil-nabor.jpg'
+  alt: ''
+type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Training center [Atos](https://vk.com/atos_rus) announces enrollment of senior students in SAP programs and enterprise Economics. SAP-SOFTWARE that helps to manage internal Affairs in the enterprise and stores data.
 
 The courses provide an opportunity to get a free additional education, get an official job and get a state diploma.

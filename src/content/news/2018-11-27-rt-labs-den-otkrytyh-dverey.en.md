@@ -1,3 +1,19 @@
+---
+language: 'en'
+date: 1543276800
+filename: 'rt-labs-den-otkrytyh-dverey'
+type: 'news'
+aim: 'all'
+title: 'RTLabs. Open day'
+description: 'the company RTLabs invites you to an open day.'
+images:
+src: '/images/rt-labs-den-otkrytyh-dverey.jpg'
+  alt: null
+ RTLabs. Open day: null
+type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 Rtlabs company invites you to an open day. The event will take place **November 28 at 16:00**.
 
 You will learn:

@@ -1,3 +1,17 @@
+---
+language: 'EN'date: 1545436800
+filename: 'posledniy-science-slam-v-2018'
+type: 'news'
+aim: 'all'
+title: 'Welcome to this year's latest Science Slam New Year!'
+description: 'welcome to the last in this year's Science Slam New Year!'
+images:
+  - src: '//vk.com/video_ext.php?oid=-173360600&id=456239020&hash=2f075b347308019a&hd=2'
+    alt: 'Video invitation to Science Slam New Year'
+    type: 'vk'
+updatedAt: 1568360578
+materialType: 'news'
+---
 December 27, Thursday, will be the last this year’s Science Slam New Year.
 
 Science Slam is a popular science show format in which participants informally talk about their scientific achievements. This time the organizers decided to unite adults and children, they will perform in pairs.

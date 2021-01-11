@@ -1,3 +1,17 @@
+---
+language: 'en'date: 1545609600
+filename: 'akciya-moy-geroy'
+type: 'news'
+aim: 'all'
+title: 'My hero in the ranks of the Immortal regiment'
+description: 'My hero in the ranks of the Immortal regiment. The Council of veterans of the Central district organizes the action'
+images:
+  - src: '/images/akciya-moy-geroy.jpg'
+    alt: 'Akitsa 'My hero in the ranks of the Immortal regiment''
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 The Council of veterans of the Central district organizes the action “My hero in the ranks of the Immortal regiment”.
 
 The event will be held in three stages: On 25 January to the day of liberation of Voronezh; - February 23 to the defender of the Fatherland day; - May 9 to the Victory Day in the great Patriotic war.

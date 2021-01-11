@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1545091200
+filename: 'besplatnie-kursy-business-analitikov-ot-dataart'
+type: 'news'
+aim: 'all'
+title: 'DataArt invites you to free courses for business analysts'
+description: 'DataArt invites you to free courses for business analysts'
+images:
+src: '/images/besplatnie-kursy-business-analitikov-ot-dataart.jpg'
+  alt: 'Courses for business analysts in DataArt'
+type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 [DataArt](https://vk.com/dataart) invites you to free courses for business analysts. The program includes 24 hours of classes with teachers and 40 hours of independent work.
 
 The courses will tell: - how software is created; — how to create accurate requirements for the product development; - how to communicate with customers, and more.

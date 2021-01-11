@@ -1,3 +1,17 @@
+---
+language: 'en'date: 1521244800
+filename: 'kak-poluchit-windows'
+type: 'longread'
+aim: 'all'
+title: 'How to Get Windows?'
+description: 'We tell you how to get licensed Windows 10'
+images:
+  - src: '/images/microsoft-office-license-for-students.jpg'
+    alt: 'How to Get Windows?'
+    type: 'image'
+updatedAt: 1568360578
+materialType: 'longread'
+---
 A physics Student can get Windows 10. To do this, you will need a student card, an extended record card and a flash drive for at least 4 GB.
 
 Windows is obtained in room 346 (pcnt Department of computer software). It is possible that the first time you do not find the right person. That’s OK. We advise you to go 1-2 times a week during a long break.

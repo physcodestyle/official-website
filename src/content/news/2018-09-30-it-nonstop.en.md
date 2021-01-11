@@ -1,3 +1,18 @@
+---
+language: 'en'
+date: 1538265600
+filename: 'it-nonstop'
+type: 'news'
+aim: 'all'
+title: 'IT NonStop in Voronezh'
+description: 'DataArt invites you to the international conference IT NonStop in Voronezh.'
+images:
+src: '/images/dataart-logo.png'
+  alt: 'IT NonStop in Voronezh'
+type: 'image'
+updatedAt: 1568360578
+materialType: 'news'
+---
 DataArt invites you to an international conference IT Non Stop in Voronezh.
 
 The conference is devoted to the development and testing of web applications. You will learn about new products in JavaScript, Russian and foreign speakers will share their experience.
