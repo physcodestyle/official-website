@@ -151,8 +151,6 @@ Elfimov
 Elizaveta
 Endovitsky
 Energikontor
-Engel’s
-Engel’s
 EP
 epitaxial
 Escap
@@ -429,8 +427,7 @@ Nosov
 Novikov
 Nunjucks
 nust
-O’mama
-O’mama
+O'mama
 oBiCjz
 OESS
 Okhotnikov
@@ -538,8 +535,7 @@ Sapozhnikova
 Savostyuk
 Sberbank
 Schottky
-Schottky’s
-Schottky’s
+Schottky's
 scienceslamvrn
 Scopus
 Semenov
@@ -627,8 +623,7 @@ travelworks
 TravelWorks
 Tretyakov
 Trifonov
-Trifonov’s
-Trifonov’s
+Trifonov's
 Trofimova
 TRP
 Tryphonov
@@ -686,8 +681,7 @@ vrn
 vrPgn
 VSCode
 vSphere
-VSU’s
-VSU’s
+VSU's
 vtb
 wdqkm
 Weizsaecker

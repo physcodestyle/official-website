@@ -13,7 +13,7 @@ In December 2006, on the initiative of Professor E. p. Domashevskaya order of th
 
 The birth of solid state physics at the Voronezh state University is connected with the name of Maria Afanasievna, A colleague of the famous academician A. F. Ioffe, the first female Professor of the VSU, who was invited in 1935 to head the Department of theoretical physics, and then the Department of electromagnetic oscillations. In 1961, the latter became known as the Department of solid state physics, after it separated from several other departments, originated in its depths, including the Department of optics and nuclear physics. Why did the basic Department become known as the Department of solid state physics? Because, in the 20 – th years of the löwitzian solid state physics, They studied the electro – mechanical and deformation properties of the classical solids-monocrystals of rock salt and quartz by x-ray methods, which they mastered in Germany at the time of the great V. K. Roentgen. Thus, at the Department of solid state physics from its very Foundation established and developed as the main methods of research of solids and materials is x - ray methods-x-ray and x-ray spectral, allowing to obtain data on the atomic structure and the electron energy spectrum of matter, respectively. X-ray diffraction studies of metals and alloys, and then semiconductors engaged associate professors N. Ignatiev, R. L., Vogelson. A. Vodopyanova, K. Aleynikova. X-ray methods of investigation of semiconductor compounds, since the late 50-ies of the last century, used in his research, associate Professor V. S. Kavetsky, assistant I. Kaplunov and graduate student M. A. Levitskaya E. P. Domashevskaya.
 
-The impetus for the growth of the Voronezh school of solid state electronic structure research was the rapid development of semiconductor physics. Since the middle of the last century, due to Schottky’s discoveries of the rectifying properties of metal-semiconductor heterocontact, there has been a real boom in the synthesis of new semiconductor compounds and materials suitable for use in various fields of technology, primarily in electronics and optoelectronics. This boom has not escaped the Akademik Ioffe, the head of several decades physico-technical Institute, USSR Academy of Sciences in Leningrad.
+The impetus for the growth of the Voronezh school of solid state electronic structure research was the rapid development of semiconductor physics. Since the middle of the last century, due to Schottky's discoveries of the rectifying properties of metal-semiconductor heterocontact, there has been a real boom in the synthesis of new semiconductor compounds and materials suitable for use in various fields of technology, primarily in electronics and optoelectronics. This boom has not escaped the Akademik Ioffe, the head of several decades physico-technical Institute, USSR Academy of Sciences in Leningrad.
 
 In PTI were synthesized and studied single crystals of semiconductor compounds numerous different types of III-V semiconductors, AIIBVI, AIIBIVCVII and others. Much of the credit for these studies belongs to Nina Goryunova, who infected with his enthusiasm the young associate Professor of VSU Ya. a. Ugai, who organized the work in Voronezh on the synthesis and research of a new class of semiconductor compounds AIIB, formed as a result of chemical interaction of the group II (zinc, cadmium) and nonmetals of the Voy group (phosphorus, arsenic, antimony). In Voronezh, for the first time x-ray diffraction patterns of zinc-phosphorus, cadmium-phosphorus, zinc-antimony, zinc-arsenic, cadmium-antimony, cadmium-arsenic were studied, structures of numerous compounds were determined, and the previously unknown compound Cd6P7 (A. V. Arsenov, K. B. Aleynikova, A. N. Aleynikov) was discovered. Lukin).
 
@@ -23,35 +23,35 @@ Current research areas
 ----------------------
 
 *   Electronic and atomic structure of condensed matter, nanocomposites and nanostructures, including quantum wells, quantum filaments and quantum dots.
-    
+
 *   Synchrotron studies of electron energy spectra of nanostructures.
-    
+
 *   Modeling of zone structure, density of States, x-ray, photoelectron and optical spectra of nanoscale structures.
-    
+
 *   Research of optical, electrophysical and magnetic properties of semiconductor heterostructures with quantum dots and superlattices.
-    
+
 *   Sensory properties of nanolayers of wide-band semiconductor oxides.
-    
+
 *   Influence of ultrashort pulses of electromagnetic radiation on devices, integrated circuits and electronic devices.-
-    
+
 
 Scientific and educational relations
 ------------------------------------
 
 *   FTI im. Joint scientific research, publications, training of post-graduate students
-    
+
 *   MSU them. M. V. Lomonosov: joint research, postgraduate training, participation in educational and methodical Association (UMO).
-    
+
 *   Nizhny Novgorod state University: joint research, publications.
-    
+
 *   Novosibirsk state University: joint research, publications.
-    
+
 *   St. Petersburg technical University (LETI): participation in the educational and methodical Association (UMO).
-    
+
 *   Belarusian state University: joint research.
-    
+
 *   Kyiv state University: joint research.
-    
+
 *   Synchrotron center BESSY II, Berlin, Germany: joint research, publications, training of graduate students.
-    
+
 *   Synchrotron radiation center SRC of the University of Wisconsin - Madison, Stoughton, USA: joint research, publications, training of graduate students.
