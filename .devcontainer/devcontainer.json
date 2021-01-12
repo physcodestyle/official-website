@@ -3,6 +3,8 @@
   "service": "narisoft",
   "workspaceFolder": "/app",
   "extensions": [
+    // Supporting scripts for API
+    "felixfbecker.php-intellisense",
     // Supporting of formats for 11ty engine
     "yzhang.markdown-all-in-one",
     "eseom.nunjucks-template",
