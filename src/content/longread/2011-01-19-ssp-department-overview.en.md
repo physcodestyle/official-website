@@ -38,36 +38,36 @@ Also, for the first time a graduate student E. p. Domashevskaya received experim
 Current research areas
 ----------------------
 
-*   Electronic and atomic structure of condensed matter, nanocomposites and nanostructures, including quantum wells, quantum filaments and quantum dots.
+- Electronic and atomic structure of condensed matter, nanocomposites and nanostructures, including quantum wells, quantum filaments and quantum dots.
 
-*   Synchrotron studies of electron energy spectra of nanostructures.
+- Synchrotron studies of electron energy spectra of nanostructures.
 
-*   Modeling of zone structure, density of States, x-ray, photoelectron and optical spectra of nanoscale structures.
+- Modeling of zone structure, density of States, x-ray, photoelectron and optical spectra of nanoscale structures.
 
-*   Research of optical, electrophysical and magnetic properties of semiconductor heterostructures with quantum dots and superlattices.
+- Research of optical, electrophysical and magnetic properties of semiconductor heterostructures with quantum dots and superlattices.
 
-*   Sensory properties of nanolayers of wide-band semiconductor oxides.
+- Sensory properties of nanolayers of wide-band semiconductor oxides.
 
-*   Influence of ultrashort pulses of electromagnetic radiation on devices, integrated circuits and electronic devices.-
+- Influence of ultrashort pulses of electromagnetic radiation on devices, integrated circuits and electronic devices.-
 
 
 Scientific and educational relations
 ------------------------------------
 
-*   FTI im. Joint scientific research, publications, training of post-graduate students
+- FTI im. Joint scientific research, publications, training of post-graduate students
 
-*   MSU them. M. V. Lomonosov: joint research, postgraduate training, participation in educational and methodical Association (UMO).
+- MSU them. M. V. Lomonosov: joint research, postgraduate training, participation in educational and methodical Association (UMO).
 
-*   Nizhny Novgorod state University: joint research, publications.
+- Nizhny Novgorod state University: joint research, publications.
 
-*   Novosibirsk state University: joint research, publications.
+- Novosibirsk state University: joint research, publications.
 
-*   St. Petersburg technical University (LETI): participation in the educational and methodical Association (UMO).
+- St. Petersburg technical University (LETI): participation in the educational and methodical Association (UMO).
 
-*   Belarusian state University: joint research.
+- Belarusian state University: joint research.
 
-*   Kyiv state University: joint research.
+- Kyiv state University: joint research.
 
-*   Synchrotron center BESSY II, Berlin, Germany: joint research, publications, training of graduate students.
+- Synchrotron center BESSY II, Berlin, Germany: joint research, publications, training of graduate students.
 
-*   Synchrotron radiation center SRC of the University of Wisconsin - Madison, Stoughton, USA: joint research, publications, training of graduate students.
+- Synchrotron radiation center SRC of the University of Wisconsin - Madison, Stoughton, USA: joint research, publications, training of graduate students.

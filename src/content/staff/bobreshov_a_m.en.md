@@ -27,26 +27,26 @@ materialType: 'staff'
 ---
 ## Qualification
 
-* 1985-defense of the candidate's dissertation
-* 2000-defense of doctoral dissertation
-* 2006-Management in Education
-* 2015 - Anti-corruption
+- 1985-defense of the candidate's dissertation
+- 2000-defense of doctoral dissertation
+- 2006-Management in Education
+- 2015 - Anti-corruption
 
 ## Biography
 
-* 1947-year of birth
-* 1971-graduated from the Faculty of Physics of Voronezh State University
-* 1985-defended his PhD thesis
-* 2000-defense of the doctoral dissertation
+- 1947-year of birth
+- 1971-graduated from the Faculty of Physics of Voronezh State University
+- 1985-defended his PhD thesis
+- 2000-defense of the doctoral dissertation
 
 ## Scientific activity
 
 Main research interests:
 
-* electromagnetic compatibility of radio-electronic devices
-* solid-state microwave devices
-* chaotic systems
-* ultrashort pulses in electronics and radar
+- electromagnetic compatibility of radio-electronic devices
+- solid-state microwave devices
+- chaotic systems
+- ultrashort pulses in electronics and radar
 
 
 ## Public activities

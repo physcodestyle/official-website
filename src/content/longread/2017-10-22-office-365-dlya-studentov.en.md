@@ -17,15 +17,15 @@ We tell how a student can get Office 365 for free. With it you can work with onl
 
 How to connect:
 
-1.  Go to [information portal of VSU](https://info.vsu.ru/).
+1. Go to [information portal of VSU](https://info.vsu.ru/).
 
-2.  Enter your username and password. They match the ones you use to access wi-Fi at the University. Style suggest to select “Pronto”.
+2. Enter your username and password. They match the ones you use to access wi-Fi at the University. Style suggest to select “Pronto”.
 
-3.  Send email with “Send credentials from Office 365” to: [helpdesk@vsu.ru](mailto:helpdesk@vsu.ru). The response letter will have to wait.
+3. Send email with “Send credentials from Office 365” to: [helpdesk@vsu.ru](mailto:helpdesk@vsu.ru). The response letter will have to wait.
 
-4.  The letter will contain a temporary password, enter it on the page: [portal.office.com](http://portal.office.com).
+4. The letter will contain a temporary password, enter it on the page: [portal.office.com](http://portal.office.com).
 
-5.  The first time you log in, the system will ask you to set a new password, instead of a temporary one. Change and enter the system:
+5. The first time you log in, the system will ask you to set a new password, instead of a temporary one. Change and enter the system:
 
 
 That’s all. Now you can use the Office 365 package, but you can only use it until the end of your studies at the University.

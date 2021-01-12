@@ -28,13 +28,13 @@ Current research areas
 
 The main direction of these scientific researches under the name “Fundamental problems of interaction of strong electromagnetic fields with atoms and molecules” was transformed into new scientific directions:
 
-*   Theory of atoms and molecules in strong electromagnetic fields and nonlinear optical processes in gases.
+- Theory of atoms and molecules in strong electromagnetic fields and nonlinear optical processes in gases.
 
-*   Relativistic theory of atoms and multicharged ions.
+- Relativistic theory of atoms and multicharged ions.
 
-*   Conversion of laser frequencies and stability problems of quantum systems in superstrong electromagnetic fields.
+- Conversion of laser frequencies and stability problems of quantum systems in superstrong electromagnetic fields.
 
-*   Use of dissipative-induced polarization dichroism for nonlinear laser spectroscopy of atoms and ions.
+- Use of dissipative-induced polarization dichroism for nonlinear laser spectroscopy of atoms and ions.
 
 
 Research in these areas is stimulated by the sustained interest of the world scientific community in the processes of interaction of laser radiation with matter. It is enough to point to the range of application of modern lasers, which has recently been achieved in science and technology, including household appliances — from the creation of ultra-precise devices for welding metals to miniaturization of modern computer facilities, from cable television and fiber-optic communication systems to modern means of space navigation and information transmission. Significant hopes in the development of new sources of energy physics associated with laser-controlled thermonuclear reaction.

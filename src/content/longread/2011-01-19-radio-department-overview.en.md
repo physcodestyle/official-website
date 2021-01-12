@@ -25,11 +25,11 @@ In 1959 the Department of physics of semiconductors and microelectronics was sep
 
 At the Department of Radiophysics at the time the research was conducted:
 
-*   ultra-long television reception, radio wave propagation in different conditions,
-*   phenomena in semiconductors at ultrahigh frequencies, • how to transform the electromagnetic field for the purpose of radiovideniya, circuits with distributed constant parameters,
-*   methods of space-time signal processing
-*   statistical methods of synthesis and analysis of information systems and devices;
-*   methods, equipment and analysis of electromagnetic fields of the microwave range.
+- ultra-long television reception, radio wave propagation in different conditions,
+- phenomena in semiconductors at ultrahigh frequencies, • how to transform the electromagnetic field for the purpose of radiovideniya, circuits with distributed constant parameters,
+- methods of space-time signal processing
+- statistical methods of synthesis and analysis of information systems and devices;
+- methods, equipment and analysis of electromagnetic fields of the microwave range.
 
 ### Background to the organization of the Department of Radiophysics at VSU
 

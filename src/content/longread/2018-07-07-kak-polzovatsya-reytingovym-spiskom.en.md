@@ -17,10 +17,10 @@ materialType: 'longread'
 How to use the rating list?
 ---------------------------
 
-1.  Go to [site](https://abitur.vsu.ru).
-2.  Under the title” information about the contest “ find the column Rating list.
-3.  Enter the required information on the lines. See the GIF above for an example.
-4.  Put a tick in the box “Do not show passing on a higher priority.” It is necessary that in the list there were only those who pass on your direction.
+1. Go to [site](https://abitur.vsu.ru).
+2. Under the title” information about the contest “ find the column Rating list.
+3. Enter the required information on the lines. See the GIF above for an example.
+4. Put a tick in the box “Do not show passing on a higher priority.” It is necessary that in the list there were only those who pass on your direction.
 
 Key dates in the admissions process
 -----------------------------------

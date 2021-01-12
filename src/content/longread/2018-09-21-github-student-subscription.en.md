@@ -31,9 +31,9 @@ Then go to [link](https://education.github.com/pack). This page provides detaile
 
 Next, the registration page opens. Here you need to enter your name, confirm that you are a student, specify the school, year of graduation, and what you will use the products for. There are several ways to confirm that you are a student:
 
-*   Use the e-mail address of the educational institution;
-*   Upload a document that confirms that you are a student (student card).
-*   Use ISIC (how to make it, we tell [here](https://phys.vsu.ru/longread/ru/2017-10-22-isic.html)).
+- Use the e-mail address of the educational institution;
+- Upload a document that confirms that you are a student (student card).
+- Use ISIC (how to make it, we tell [here](https://phys.vsu.ru/longread/ru/2017-10-22-isic.html)).
 
 We will use the University e-mail.
 

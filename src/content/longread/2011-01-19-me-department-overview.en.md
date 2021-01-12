@@ -26,22 +26,22 @@ Since 2003. and currently is head of the Department of Bormontov Evgeny Nikolaev
 Current research areas
 ----------------------
 
-*   fundamental and applied problems of surface physics and microelectronics
+- fundamental and applied problems of surface physics and microelectronics
 
-*   theoretical and applied research in the field of power electronics
+- theoretical and applied research in the field of power electronics
 
-*   physical processes in low-temperature gas-discharge plasma
+- physical processes in low-temperature gas-discharge plasma
 
-*   fundamental and applied research in the field of functional electronics
+- fundamental and applied research in the field of functional electronics
 
-*   development of materials, technologies, elements and devices of nanoelectronics
+- development of materials, technologies, elements and devices of nanoelectronics
 
-*   physical basis of nanoelectronics and nanotechnology
+- physical basis of nanoelectronics and nanotechnology
 
-*   self-organization processes in nanotechnology
+- self-organization processes in nanotechnology
 
-*   spintronics materials and devices
+- spintronics materials and devices
 
-*   development of circuit design methods of functional blocks for systems on a chip with submicron topological norms
+- development of circuit design methods of functional blocks for systems on a chip with submicron topological norms
 
-*   application of parallel information processing structures to create high-performance electronic devices
+- application of parallel information processing structures to create high-performance electronic devices
