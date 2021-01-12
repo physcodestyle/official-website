@@ -28,9 +28,19 @@
   ],
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
+    "@mavrin/remark-typograf": "^2.1.6",
     "eslint": "^7.17.0",
     "eslint-config-google": "^0.14.0",
     "html-minifier": "^4.0.0",
-    "markdownlint": "^0.22.0"
+    "markdownlint": "^0.22.0",
+    "remark-cli": "^9.0.0",
+    "remark-frontmatter": "^3.0.0",
+    "remark-lint": "^8.0.0",
+    "remark-lint-code-block-style": "^2.0.1",
+    "remark-lint-emphasis-marker": "^2.0.1",
+    "remark-lint-ordered-list-marker-value": "^2.0.1",
+    "remark-lint-strong-marker": "^2.0.1",
+    "remark-lint-unordered-list-marker-style": "^2.0.1",
+    "typograf": "^6.11.3"
   }
 }
