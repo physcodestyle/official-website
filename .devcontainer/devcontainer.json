@@ -3,8 +3,9 @@
   "service": "narisoft",
   "workspaceFolder": "/app",
   "extensions": [
-    // Supporting scripts for API
+    // Supporting scripts for API & Tools
     "felixfbecker.php-intellisense",
+    "tushortz.python-extended-snippets",
     // Supporting of formats for 11ty engine
     "yzhang.markdown-all-in-one",
     "eseom.nunjucks-template",
@@ -12,6 +13,7 @@
     "editorconfig.editorconfig",
     // Supporting of formats for container configuration
     "ms-azuretools.vscode-docker",
-    "irongeek.vscode-env"
+    "codezombiech.gitignore",
+    "mikestead.dotenv"
   ]
 }
