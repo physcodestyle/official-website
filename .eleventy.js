@@ -2,6 +2,7 @@ const htmlmin = require('html-minifier');
 const markdown = require('markdown-it')({ html: true });
 
 module.exports = (config) => {
+  config.addPassthroughCopy('src/api');
   config.addPassthroughCopy('src/assets');
   config.addPassthroughCopy('src/fonts');
   config.addPassthroughCopy('src/images');
