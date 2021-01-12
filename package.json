@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "editorconfig": "editorconfig-checker",
-    "markdown": "remark 'src/articles/**/*.md' --quiet"
+    "markdown": "remark 'src/content/**/*.md' --quiet"
   },
   "repository": {
     "type": "git",
