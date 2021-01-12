@@ -4,6 +4,7 @@
   "description": "The official site of the Physics Faculty of Voronezh State University",
   "main": "index.js",
   "scripts": {
+    "editorconfig": "editorconfig-checker",
     "markdown": "remark 'src/articles/**/*.md' --quiet"
   },
   "repository": {
