@@ -12,10 +12,14 @@ module.exports = (config) => {
   config.addPassthroughCopy('src/scripts');
   config.addPassthroughCopy('src/styles');
 
-  config.addNunjucksShortcode('menuChapter', (language) => {
+  config.addNunjucksShortcode('menuChapter', (language, mode) => {
     let menu = `<div class="menu">`;
     for(chapter of menuJson[language]) {
-      menu += `<ul class="menu__list"><h3 class="menu__title">${chapter['title']}</h3>`;
+      if (mode === 'nav') {
+        menu += `<ul class="menu__list"><h3 class="menu__title">${chapter['title']}</h3>`;
+      } else {
+        menu += `<ul class="menu__list"><p class="menu__title">${chapter['title']}</p>`;
+      }
       for (item of chapter['menu']) {
         menu += `<li class="menu__item"><a href="${item['url']}">${item['title']}</a></li>`;
       }
