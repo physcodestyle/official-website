@@ -23,9 +23,11 @@
   <link rel="stylesheet" href="/styles/print.css" media="print">
 </head>
 <body class="page__body}">
+  {% include 'header.njk' %}
   <div class="page__content">
       {{ content | safe }}
   </div>
+  {% include 'footer.njk' %}
   <script src="/scripts/scripts.js"></script>
 </body>
 </html>
