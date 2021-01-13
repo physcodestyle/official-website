@@ -6,7 +6,7 @@ description: 'On the 100th anniversary of VSU prepares a meeting'
 button: 'Read'
 link: 'https://alumni.vsu.ru/alltogether2018'
 images:
-- src: '/images/news-card/graduates-meeting-2018.jpg'
-  alt: 'Big Meeting'
+  - src: '/images/news-card/graduates-meeting-2018.jpg'
+    alt: 'Big Meeting'
 updatedAt: 1568360578
 ---

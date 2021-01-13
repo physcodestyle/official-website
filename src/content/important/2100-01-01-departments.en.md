@@ -2,11 +2,11 @@
 permalink: 'en/important/departments/index.html'
 aim: 'all'
 title: 'Departments'
-description: 'List of the faculty's departments'
+description: 'List of the faculty departments'
 button: 'See'
 link: '/department/all'
 images:
-- src: '/images/news-card/office-modern.jpg'
-  alt: 'List of the faculty's departments'
+  - src: '/images/news-card/office-modern.jpg'
+    alt: 'List of the faculty departments'
 updatedAt: 1568360578
 ---
