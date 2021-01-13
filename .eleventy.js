@@ -1,5 +1,4 @@
 const htmlmin = require('html-minifier');
-const markdown = require('markdown-it')({ html: true });
 
 module.exports = (config) => {
   config.addPassthroughCopy('src/api');
