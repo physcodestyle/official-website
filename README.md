@@ -113,14 +113,16 @@ $ export PHYS_USER_SIGNATURE=$(cat ~/.ssh/<ключ для доступа на G
 
 Настройки сборки закреплены в специальном разделе `browserslist` конфигурационного файла [package.json](https://github.com/physcodestyle/official-website/blob/main/package.json). Это позволяет при сборки стилей и JavaScript вносить поддержку необходимых полифилов автоматически.
 
-#### Проверка орфографии
+#### Проверка текстов
 
-Сайт поддерживает материалы на русском и английском языке. Для проверки синтаксиса используется модуль [PySpelling](https://facelessuser.github.io/pyspelling/), который настроен на использование библиотеки [Hunspell](https://hunspell.github.io/). Проверка синтаксиса выполняется для каджого пуша и пул реквеста в репозиторий во всех ветках. Для рассмотрения изменений необходимо в первую очередь пройти проверку орфографии. Реализуется проверка орфографии с помощью GitHub Actions. Для этого предусмотрена [конфигурация](https://github.com/physcodestyle/official-website/blob/main/.spellcheck.yml). Добавочные слова, которые расширяют стандартные словари, содержится в списках для:
+Сайт поддерживает материалы на русском и английском языке. Для проверки орфографии используется модуль [PySpelling](https://facelessuser.github.io/pyspelling/), который настроен на использование библиотеки [Hunspell](https://hunspell.github.io/). Проверка орфографии выполняется для каджого пуша и пул реквеста в репозиторий во всех ветках. Для рассмотрения изменений необходимо в первую очередь пройти проверку орфографии. Реализуется проверка орфографии с помощью GitHub Actions. Для этого предусмотрена [конфигурация](https://github.com/physcodestyle/official-website/blob/main/.spellcheck.yml). Добавочные слова, которые расширяют стандартные словари, содержится в списках для:
 
 1. [русского языка](https://github.com/physcodestyle/official-website/blob/main/.wordlist/.wordlist-en.txt);
 2. [английского языка](https://github.com/physcodestyle/official-website/blob/main/.wordlist/.wordlist-ru.txt);
 3. [терминов](https://github.com/physcodestyle/official-website/blob/main/.wordlist/.wordlist-terms.txt);
 4. [сокращений](https://github.com/physcodestyle/official-website/blob/main/.wordlist/.wordlist-abbr.txt).
+
+На сайте поддерживается автоматический типограф на основе пакета [remark](https://www.npmjs.com/package/remark). Набор действий и общая конфигурация для типографа содержится в файле [.remarkrc.js](https://github.com/physcodestyle/official-website/blob/main/.remarkrc.js).
 
 ## Контакты
 
