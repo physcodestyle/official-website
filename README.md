@@ -18,8 +18,6 @@
 
 Для работы с шаблонами страниц в репозитории активно применяется технология контейниризации [Docker](https://docs.docker.com). В случае работы с репозиторием с помощью редактора [VSCode](https://code.visualstudio.com), предусмотрена работа с [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers). Также в репозитории присутсвует файл настройки для редакторов на основе конфигурации [Editorconfig](https://editorconfig.org).
 
-Шаблоны страниц сайта реализованы с помощью формата описания шаблонов [Nunjucks `*.njk`](https://mozilla.github.io/nunjucks/) и находятся в папке `/src/layouts`.
-
 Для работы с репозиторием необходимо соблюдать ряд правил для форматирования содержимого файлов репозитория:
 
 1. [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html);
@@ -87,6 +85,25 @@ $ export PHYS_USER_SIGNATURE=$(cat ~/.ssh/<ключ для доступа на G
     ```
 
     Запустить контейнер в соответствии с [инструкцией](https://code.visualstudio.com/docs/remote/containers)
+
+### Процесс разработки
+
+Для сборки сайта используется команда:
+
+```bash
+$ npm run build
+```
+
+С помощью инструмента Browsersync поддерживается автоматическое обновление сборки на лету после внесение изменений. Для запуска этого режима необходимо выполнить команду:
+
+```bash
+$ npm run start
+```
+
+Пути сгенерированных страниц сайта обязательно прописываются в каждом markdown в метаописании с помощью ключа `permalink`. Контент страниц содержится в файлах формата [Markdown](https://www.markdownguide.org) в папке `src/content`. При пуше и пул реквесте в репозитории автоматически выполняются GitHub Actions для проверки на соответствия оформления и содержимого (проверка орфографии, типограф).
+
+Шаблоны страниц сайта реализованы с помощью формата описания шаблонов [Nunjucks `*.njk`](https://mozilla.github.io/nunjucks/) и находятся в папке `/src/layouts`.
+
 
 ### Технологии, применяемые на сайте
 
