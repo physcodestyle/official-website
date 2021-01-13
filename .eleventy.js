@@ -15,7 +15,7 @@ module.exports = (config) => {
   config.addNunjucksShortcode('menuChapter', (language) => {
     let menu = `<div class="menu">`;
     for(chapter of menuJson[language]) {
-      menu += `<ul class="menu__list"><span class="menu__title">${chapter['title']}</span>`;
+      menu += `<ul class="menu__list"><h3 class="menu__title">${chapter['title']}</h3>`;
       for (item of chapter['menu']) {
         menu += `<li class="menu__item"><a href="${item['url']}">${item['title']}</a></li>`;
       }
