@@ -1,5 +1,6 @@
 ---
 permalink: 'ru/longread/me-department-overview/index.html'
+layout: 'page.njk'
 aim: 'me'
 title: 'Кафедра физики полупроводников и микроэлектроники сегодня'
 description: 'Кафедра была организована в 1959 г. Первым ее заведующим стал...'

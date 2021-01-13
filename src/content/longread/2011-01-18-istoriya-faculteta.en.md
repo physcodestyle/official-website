@@ -1,5 +1,6 @@
 ---
 permalink: 'en/longread/istoriya-faculteta/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'The History of the Faculty'
 description: 'The faculty of physics has been around for 100 years...'

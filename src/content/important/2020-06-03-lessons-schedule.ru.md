@@ -1,5 +1,6 @@
 ---
 permalink: 'ru/important/lessons-schedule/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'Расписание'
 description: 'Занятия студентов в текущем семестре'

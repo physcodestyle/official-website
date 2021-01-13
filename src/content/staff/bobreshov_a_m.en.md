@@ -1,5 +1,6 @@
 ---
 permalink: 'en/staff/bobreshov_a_m/index.html'
+layout: 'page.njk'
 name: 'Bobreshov Anatolii Mikhailovich'
 degree: 'PhD'
 title: 'professor'

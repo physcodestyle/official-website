@@ -1,5 +1,6 @@
 ---
 permalink: 'ru/staff/bobreshov_a_m/index.html'
+layout: 'page.njk'
 name: 'Бобрешов Анатолий Михайлович'
 degree: 'доктор физико-математических наук'
 title: 'профессор'

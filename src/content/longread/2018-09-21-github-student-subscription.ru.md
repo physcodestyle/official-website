@@ -1,5 +1,6 @@
 ---
 permalink: 'ru/longread/github-student-subscription/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'Студенческая подписка на GitHub'
 description: 'Сегодня рассказываем как получить студенческую подписку на GitHub, которая даёт доступ к...'

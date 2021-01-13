@@ -1,5 +1,6 @@
 ---
 permalink: 'ru/longread/kak-obratitsya-v-studencheskuyu-polikliniku/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'Как обратиться в студенческую поликлинику'
 description: 'Рассказываем, как без лишних хлопот проходить флюорографию, делать прививки и тратить минимум времени на посещение больниц'

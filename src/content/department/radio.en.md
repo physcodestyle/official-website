@@ -1,5 +1,6 @@
 ---
 permalink: 'en/department/radio/index.html'
+layout: 'page.njk'
 title: 'Department of radiophysics'
 site: 'https://phys.vsu.ru/radio/'
 description: 'The Department of Radiophysics was founded in 1953. The organizer of the Department and its first head was candidate of technical Sciences, associate Professor Pavel Mikhailovich Trifonov (1909-1992). During its existence, the Department conducted research of ultra-long television reception, radio wave propagation in different conditions, methods of electromagnetic field transformation for the purposes of radio vision, methods of spatio-temporal signal processing, statistical methods of synthesis and analysis of information systems and devices, etc.'

@@ -1,5 +1,6 @@
 ---
 permalink: 'ru/longread/electronics-department-overview/index.html'
+layout: 'page.njk'
 aim: 'el'
 title: 'Кафедра электроники сегодня'
 description: 'Кафедра электроники была основана в 1962 году. Возглавил кафедру...'

@@ -1,5 +1,6 @@
 ---
 permalink: 'en/important/bolshaya-vstrecha/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'Big Meeting'
 description: 'On the 100th anniversary of VSU prepares a meeting'

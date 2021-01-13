@@ -1,5 +1,6 @@
 ---
 permalink: 'en/longread/kak-polzovatsya-reytingovym-spiskom/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'How to Use the Rating List?'
 description: 'You need a rating to show your chances of getting in. In the first rating...'

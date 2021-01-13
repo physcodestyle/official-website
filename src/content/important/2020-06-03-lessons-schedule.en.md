@@ -1,5 +1,6 @@
 ---
 permalink: 'en/important/lessons-schedule/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'Schedule'
 description: 'Students - classes of current semestr'

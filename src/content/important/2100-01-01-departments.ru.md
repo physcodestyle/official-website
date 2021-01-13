@@ -1,5 +1,6 @@
 ---
 permalink: 'ru/important/departments/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'Кафедры'
 description: 'Список кафедр факультета'

@@ -1,5 +1,6 @@
 ---
 permalink: 'en/longread/github-student-subscription/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'github Student subscription'
 description: 'Today we tell you how to get a student subscription to GitHub, which gives access to...'lead: 'Today we will tell you how to get a student subscription to GitHub, which gives access to the text editor Atom, AWS Educate-a resource from Amazon for learning in the field of cloud technologies, as well as access to products from JetBrains, etc.'

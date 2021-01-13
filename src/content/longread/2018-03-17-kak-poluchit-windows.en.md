@@ -1,5 +1,6 @@
 ---
 permalink: 'en/longread/kak-poluchit-windows/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'How to Get Windows?'
 description: 'We tell you how to get licensed Windows 10'

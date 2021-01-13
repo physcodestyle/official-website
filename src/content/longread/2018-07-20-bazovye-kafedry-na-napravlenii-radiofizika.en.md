@@ -1,5 +1,6 @@
 ---
 permalink: 'en/longread/bazovye-kafedry-na-napravlenii-radiofizika/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'Basic departments in the direction of «Radiophysics»'
 description: 'With us working tens of companies to conduct lectures, training, practice, taking the best...'

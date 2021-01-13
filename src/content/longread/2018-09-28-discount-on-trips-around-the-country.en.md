@@ -1,5 +1,6 @@
 ---
 permalink: 'en/longread/discount-on-trips-around-the-country/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'Discount on Travel Around the Country'
 description: 'Russian Railways gives 25% discount to students for trips around the country'

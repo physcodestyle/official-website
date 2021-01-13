@@ -1,5 +1,6 @@
 ---
 permalink: 'en/important/exams-schedule/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'Exams / mulligans'
 description: 'Students exams and mulligans'

@@ -1,5 +1,6 @@
 ---
 permalink: 'en/longread/kof-department-overview/index.html'
+layout: 'page.njk'
 aim: 'kof'
 title: 'General physics Department today'
 description: 'Department of General physics existed from the date of formation of VSU. The head of the Department was...'

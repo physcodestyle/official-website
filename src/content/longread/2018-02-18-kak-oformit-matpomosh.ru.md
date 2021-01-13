@@ -1,5 +1,6 @@
 ---
 permalink: 'ru/longread/kak-oformit-matpomosh/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'Как оформить матпомощь?'
 description: 'Материальную помощь можно получать вне зависимости от успеваемости и...'

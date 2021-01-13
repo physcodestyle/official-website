@@ -1,5 +1,6 @@
 ---
 permalink: 'ru/important/exams-schedule/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'Сессия / Пересдачи'
 description: 'Расписание текущей сессии и пересдач'

@@ -1,5 +1,6 @@
 ---
 permalink: 'ru/longread/discount-on-trips-around-the-country/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'Как студенту ФизФака получить скидку 25% на поездки по стране'
 description: 'Студенческая программа действует на поездки в вагонах типа купейных (те, что принадлежат...'

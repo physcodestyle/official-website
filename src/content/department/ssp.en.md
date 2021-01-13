@@ -1,5 +1,6 @@
 ---
 permalink: 'en/department/ssp/index.html'
+layout: 'page.njk'
 title: 'Department of solid state physics and nanostructures'
 site: 'https://phys.vsu.ru/ssp/'
 description: 'The history of the Department begins with the opening of the Department of electromagnetic oscillations in 1936. Its founder is Maria Afanasievna Levitskaya (1883 - 1963) - one of the first Russian women scientists who discovered submillimeter waves in the scale of electromagnetic oscillations. And in 1961 the Department became known as the Department of solid state physics after separation of the departments of optics and nuclear physics.'

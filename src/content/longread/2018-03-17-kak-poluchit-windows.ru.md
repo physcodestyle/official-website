@@ -1,5 +1,6 @@
 ---
 permalink: 'ru/longread/kak-poluchit-windows/index.html'
+layout: 'page.njk'
 aim: 'all'
 title: 'Как получить Windows?'
 description: 'Рассказываем, как получить лицензионную Windows 10'
