@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1530921600
-filename: 'kak-polzovatsya-reytingovym-spiskom'
-type: 'longread'
+permalink: 'en/longread/kak-polzovatsya-reytingovym-spiskom/index.html'
 aim: 'all'
 title: 'How to Use the Rating List?'
 description: 'You need a rating to show your chances of getting in. In the first rating...'
@@ -12,7 +9,6 @@ images:
   alt: 'How to Use the Rating List?'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 How to use the rating list?
 ---------------------------

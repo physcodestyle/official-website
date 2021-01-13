@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1295395200
-filename: 'optics-department-overview'
-type: 'longread'
+permalink: 'ru/longread/optics-department-overview/index.html'
 aim: 'optics'
 title: 'Кафедра оптики и спектроскопии сегодня'
 description: 'Кафедра оптики и спектроскопии создана в 1961 году доцентом Елизаветой Николаевной Ивановой'
@@ -12,7 +9,6 @@ images:
   alt: 'История кафедры электроники - 1'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Истоки кафедры
 --------------

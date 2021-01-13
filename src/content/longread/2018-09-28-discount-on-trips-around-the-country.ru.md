@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1538092800
-filename: 'discount-on-trips-around-the-country'
-type: 'longread'
+permalink: 'ru/longread/discount-on-trips-around-the-country/index.html'
 aim: 'all'
 title: 'Как студенту ФизФака получить скидку 25% на поездки по стране'
 description: 'Студенческая программа действует на поездки в вагонах типа купейных (те, что принадлежат...'
@@ -12,7 +9,6 @@ images:
   alt: 'Скидка на проезд по стране'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Для участия в программе зарегистрируйтесь на [сайте](https://rzd-bonus.ru/registration.html) и отправьте справку, что вы учитесь в вузе через личный кабинет (справку можно получить в Деканате ауд. 238 с 13:00 до 15:00).
 

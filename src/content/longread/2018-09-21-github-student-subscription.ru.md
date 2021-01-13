@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1537488000
-filename: 'github-student-subscription'
-type: 'longread'
+permalink: 'ru/longread/github-student-subscription/index.html'
 aim: 'all'
 title: 'Студенческая подписка на GitHub'
 description: 'Сегодня рассказываем как получить студенческую подписку на GitHub, которая даёт доступ к...'
@@ -21,7 +18,6 @@ images:
   alt: 'Студенческая подписка на GitHub - 4'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Оформление подписки
 -------------------

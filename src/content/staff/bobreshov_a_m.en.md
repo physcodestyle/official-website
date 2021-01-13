@@ -1,9 +1,7 @@
 ---
-language: 'en'
-filename: 'bobreshov_a_m'
-type: 'staff'
+permalink: 'en/staff/bobreshov_a_m/index.html'
 name: 'Bobreshov Anatolii Mikhailovich'
-degree: 'Full Professor'
+degree: 'PhD'
 title: 'professor'
 post:
 - 'Lead of department'
@@ -23,7 +21,6 @@ images:
   alt: 'Bobreshov Anatolii Mikhailovich - Lead of electronics department - Alumni Meeting'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'staff'
 ---
 ## Qualification
 

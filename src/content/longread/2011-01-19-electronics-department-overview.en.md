@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1295395200
-filename: 'electronics-department-overview'
-type: 'longread'
+permalink: 'en/longread/electronics-department-overview/index.html'
 aim: 'el'
 title: 'Department of electronics today'
 description: 'The Department of Electronics was founded in 1962. Headed the Department...'
@@ -42,7 +39,6 @@ images:
   alt: 'History of Electronics department - 11'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 The origins of the Department
 -----------------------------

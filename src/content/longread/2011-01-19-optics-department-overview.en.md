@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1295395200
-filename: 'optics-department-overview'
-type: 'longread'
+permalink: 'en/longread/optics-department-overview/index.html'
 aim: 'optics'
 title: 'Optics and spectroscopy Department today'
 description: 'The Optics and spectroscopy Department was established in 1961 by associate Professor Elizaveta Nikolaevna Ivanova'
@@ -12,7 +9,6 @@ images:
   alt: 'История кафедры электроники - 1'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 The origins of the Department
 -----------------------------

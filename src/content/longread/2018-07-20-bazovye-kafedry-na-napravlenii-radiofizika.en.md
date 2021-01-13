@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1532044800
-filename: 'bazovye-kafedry-na-napravlenii-radiofizika'
-type: 'longread'
+permalink: 'en/longread/bazovye-kafedry-na-napravlenii-radiofizika/index.html'
 aim: 'all'
 title: 'Basic departments in the direction of «Radiophysics»'
 description: 'With us working tens of companies to conduct lectures, training, practice, taking the best...'
@@ -31,7 +28,6 @@ images:
   alt: 'Computer class at the basic Department of Concern Sozvezdie'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 What is the basic Department?
 -----------------------------

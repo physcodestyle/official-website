@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1532044800
-filename: 'bazovye-kafedry-na-napravlenii-radiofizika'
-type: 'longread'
+permalink: 'ru/longread/bazovye-kafedry-na-napravlenii-radiofizika/index.html'
 aim: 'all'
 title: 'Базовые кафедры на направлении «Радиофизика»'
 description: 'С нами сотрудничает несколько десятков компаний — проводят лекции, стажировки, практики, забирают лучших...'
@@ -30,7 +27,6 @@ images:
   alt: 'Компьютерный класс на базовой кафедре Концерна Созвездия'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Что такое базовая кафедра?
 --------------------------

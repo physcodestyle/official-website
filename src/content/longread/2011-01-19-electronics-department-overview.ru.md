@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1295395200
-filename: 'electronics-department-overview'
-type: 'longread'
+permalink: 'ru/longread/electronics-department-overview/index.html'
 aim: 'el'
 title: 'Кафедра электроники сегодня'
 description: 'Кафедра электроники была основана в 1962 году. Возглавил кафедру...'
@@ -42,7 +39,6 @@ images:
   alt: 'История кафедры электроники - 11'
   type: 'image'
 updatedAt: 1568360578  '
-materialType: 'longread'
 ---
 Истоки кафедры
 --------------

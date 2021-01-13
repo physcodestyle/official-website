@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1591142400
-filename: 'lessons-schedule'
-type: 'important'
+permalink: 'en/important/lessons-schedule/index.html'
 aim: 'all'
 title: 'Schedule'
 description: 'Students - classes of current semestr'
@@ -12,5 +9,4 @@ images:
 - src: '/images/news-card/wall-clocks.jpg'
   alt: 'Students - classes of current semestr'
 updatedAt: 1591142400
-materialType: 'important'
 ---

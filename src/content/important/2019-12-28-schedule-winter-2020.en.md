@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1567296000
-filename: 'schedule-autumn-2019'
-type: 'important'
+permalink: 'ru/important/schedule-autumn-2019/index.html'
 aim: 'all'
 title: 'Session'
 description: 'Winter session's schedule 2020'
@@ -12,5 +9,4 @@ images:
 - src: '/images/news-card/wall-clocks.jpg'
   alt: 'Winter session schedule 2020'
 updatedAt: 1568360578
-materialType: 'important'
 ---

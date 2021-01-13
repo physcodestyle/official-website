@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1582276485
-filename: '2020-02-21-schedule-february-2020'
-type: 'important'
+permalink: 'ru/important/2020-02-21-schedule-february-2020/index.html'
 aim: 'all'
 title: 'Schedule'
 description: 'Schedule of mulligans'
@@ -12,5 +9,4 @@ images:
 - src: '/images/news-card/mulligans.jpg'
   alt: 'Schedule of mulligans9'
 updatedAt: 1573923604
-materialType: 'important'
 ---

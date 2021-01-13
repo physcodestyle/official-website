@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1522108800
-filename: 'intervu-so-specialistami-dataart-kotorye-zakonchili-fizfak'
-type: 'longread'
+permalink: 'ru/longread/intervu-so-specialistami-dataart-kotorye-zakonchili-fizfak/index.html'
 aim: 'all'
 title: 'Интервью со специалистами DataArt, которые закончили ФизФак'
 description: 'Как ФизФак помог вам попасть в IT-компанию, и что вы думаете о мифе, что после его окончания работать негде?'
@@ -11,7 +8,6 @@ images:
   alt: 'Интервью со специалистами DataArt, которые закончили ФизФак'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Михаил Федоров, руководитель DataArt в Воронеже
 -----------------------------------------------

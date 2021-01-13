@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1521244800
-filename: 'kak-poluchit-windows'
-type: 'longread'
+permalink: 'ru/longread/kak-poluchit-windows/index.html'
 aim: 'all'
 title: 'Как получить Windows?'
 description: 'Рассказываем, как получить лицензионную Windows 10'
@@ -11,7 +8,6 @@ images:
   alt: 'Как получить Windows?'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Студент ФизФака может получить Windows 10. Для этого понадобится студенческий билет, продлённая зачётка и флешка минимум на 4 Гб.
 

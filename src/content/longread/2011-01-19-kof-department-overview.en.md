@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1295395200
-filename: 'kof-department-overview'
-type: 'longread'
+permalink: 'en/longread/kof-department-overview/index.html'
 aim: 'kof'
 title: 'General physics Department today'
 description: 'Department of General physics existed from the date of formation of VSU. The head of the Department was...'
@@ -12,7 +9,6 @@ images:
   alt: 'История кафедры электроники - 1'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 The origins of the Department
 -----------------------------

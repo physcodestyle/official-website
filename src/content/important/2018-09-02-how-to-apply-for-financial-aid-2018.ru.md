@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1535846400
-filename: 'how-to-apply-for-financial-aid-2018'
-type: 'important'
+permalink: 'ru/important/how-to-apply-for-financial-aid-2018/index.html'
 aim: 'all'
 title: 'Мат. помощь'
 description: 'Как оформить материальную помощь?'
@@ -12,5 +9,4 @@ images:
 - src: '/images/news-card/financial-aid.jpg'
   alt: 'Мат. помощь'
 updatedAt: 1568360578
-materialType: 'important'
 ---

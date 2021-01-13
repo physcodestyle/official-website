@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1513987200
-filename: 'studsovet-itogi-goda'
-type: 'longread'
+permalink: 'ru/longread/studsovet-itogi-goda/index.html'
 aim: 'all'
 title: 'Студсовет – итоги 2017 года'
 description: 'Рассказывают координаторы направлений'
@@ -11,7 +8,6 @@ images:
   alt: 'Студсовет – итоги 2017 года'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Привет! Это год был мега насыщенным, а следующий будет ещё круче. 2018 минус 1918 будет 100, а значит у ФизФака юбилей. Такой год не может пройти обычно. Но, пока до этого далеко. Давайте вспомним, чем запомнился 2017.
 

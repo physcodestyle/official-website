@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1535846400
-filename: 'how-to-apply-for-financial-aid-2018'
-type: 'important'
+permalink: 'en/important/how-to-apply-for-financial-aid-2018/index.html'
 aim: 'all'
 title: 'Financial aid'
 description: 'How to apply for financial aid'
@@ -12,5 +9,4 @@ images:
 - src: '/images/news-card/financial-aid.jpg'
   alt: 'Financial aid'
 updatedAt: 1568360578
-materialType: 'important'
 ---

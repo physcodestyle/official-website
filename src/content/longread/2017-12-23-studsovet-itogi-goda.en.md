@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1513987200
-filename: 'studsovet-itogi-goda'
-type: 'longread'
+permalink: 'en/longread/studsovet-itogi-goda/index.html'
 aim: 'all'
 title: 'Student Council – Year-End 2017'
 description: 'Tell the coordinators of the directions'
@@ -11,7 +8,6 @@ images:
   alt: 'Student Council – Year-End 2017'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Hi! This year was mega intense, and the next will be even cooler. 2018 will be 100 minus 1918, and then at the physics Department of the anniversary. It can’t be a year like this. But, until this far. Let us remember what is most memorable to 2017.
 

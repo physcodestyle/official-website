@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 4102444800
-filename: 'departments'
-type: 'important'
+permalink: 'en/important/departments/index.html'
 aim: 'all'
 title: 'Departments'
 description: 'List of the faculty's departments'
@@ -12,5 +9,4 @@ images:
 - src: '/images/news-card/office-modern.jpg'
   alt: 'List of the faculty's departments'
 updatedAt: 1568360578
-materialType: 'important'
 ---

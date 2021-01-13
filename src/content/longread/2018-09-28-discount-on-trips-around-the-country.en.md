@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1538092800
-filename: 'discount-on-trips-around-the-country'
-type: 'longread'
+permalink: 'ru/longread/discount-on-trips-around-the-country/index.html'
 aim: 'all'
 title: 'Discount on Travel Around the Country'
 description: 'Russian Railways gives 25% discount to students for trips around the country'
@@ -14,7 +11,6 @@ images:
   alt: 'Discount on Travel Around the Country'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 To participate in the program, please register at [the site](https://rzd-bonus.ru/registration.html) and send a certificate that you are studying at the University through your personal account (a certificate can be obtained in the Dean’s office of the AUD. 238 from 13:00 to 15:00).
 

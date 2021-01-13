@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1591142400
-filename: 'lessons-schedule'
-type: 'important'
+permalink: 'ru/important/lessons-schedule/index.html'
 aim: 'all'
 title: 'Расписание'
 description: 'Занятия студентов в текущем семестре'
@@ -12,5 +9,4 @@ images:
 - src: '/images/news-card/wall-clocks.jpg'
   alt: 'Занятия студентов в текущем семестре'
 updatedAt: 1591142400
-materialType: 'important'
 ---

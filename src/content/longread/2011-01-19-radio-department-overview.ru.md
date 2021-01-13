@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1295395200
-filename: 'radio-department-overview'
-type: 'longread'
+permalink: 'ru/longread/radio-department-overview/index.html'
 aim: 'radio'
 title: 'Кафедра радиофизики сегодня'
 description: 'Кафедра радиофизики образована в 1953 году. Организатором кафедры и ее первым...'
@@ -12,7 +9,6 @@ images:
   alt: 'История кафедры радиофизики - 1'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Истоки кафедры
 --------------

@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1577542214
-filename: 'schedule-autumn-2019'
-type: 'important'
+permalink: 'ru/important/schedule-autumn-2019/index.html'
 aim: 'all'
 title: 'Экзамены'
 description: 'Зимняя сессия 2020 года'
@@ -12,5 +9,4 @@ images:
 - src: '/images/news-card/wall-clocks.jpg'
   alt: 'Зимняя сессия 2020 года'
 updatedAt: 1568360578
-materialType: 'important'
 ---

@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1508630400
-filename: 'apple-music-so-skidkoy'
-type: 'longread'
+permalink: 'en/longread/apple-music-so-skidkoy/index.html'
 aim: 'all'
 title: 'Apple Music at a Discount'
 description: 'You can use a preferential subscription until the end of your studies at the VSU'
@@ -11,7 +8,6 @@ images:
   alt: 'Apple Music at a Discount'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 1. Download the application convenient for you: iOS (installed at purchase), Android, PC or mac. Below we will give an example of setting for Android, although the steps are almost the same on different platforms. If you’re confused or already have a paid subscription, read what [Apple’s website](https://support.apple.com/ru-ru/HT205928).
 2. Open the Apple Music app. If you don’t see the Apple Music screen, tap Try at the bottom;

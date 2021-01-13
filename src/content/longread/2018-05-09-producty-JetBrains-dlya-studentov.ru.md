@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1525824000
-filename: 'producty-JetBrains-dlya-studentov'
-type: 'longread'
+permalink: 'ru/longread/producty-JetBrains-dlya-studentov/index.html'
 aim: 'all'
 title: 'Продукты JetBrains для студентов'
 description: 'Рассказываем как получить редакторы кода от JetBrains для таких языков как C, Java, Python и др.'
@@ -11,7 +8,6 @@ images:
   alt: 'Продукты JetBrains для студентов'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Рассказываем как получить редакторы кода от JetBrains для таких языков как C, Java, Python и др. Также для студентов будут доступны анализаторы кода для разных языков программирования.
 

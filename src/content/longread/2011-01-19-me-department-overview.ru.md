@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1295395200
-filename: 'me-department-overview'
-type: 'longread'
+permalink: 'ru/longread/me-department-overview/index.html'
 aim: 'me'
 title: 'Кафедра физики полупроводников и микроэлектроники сегодня'
 description: 'Кафедра была организована в 1959 г. Первым ее заведующим стал...'
@@ -12,7 +9,6 @@ images:
   alt: 'История кафедры электроники - 1'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Истоки кафедры
 --------------

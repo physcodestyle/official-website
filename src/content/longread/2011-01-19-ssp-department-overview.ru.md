@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1295395200
-filename: 'ssp-department-overview'
-type: 'longread'
+permalink: 'ru/longread/ssp-department-overview/index.html'
 aim: 'ssp'
 title: 'Кафедра физики твердого тела и наноструктур сегодня'
 description: 'Кафедра была основана в 1936г. профессором М.А. Левитской...'
@@ -12,7 +9,6 @@ images:
   alt: 'История кафедры электроники - 1'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Истоки кафедры
 --------------

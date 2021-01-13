@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1580409711
-filename: 'schedule-spring-2020'
-type: 'important'
+permalink: 'ru/important/schedule-spring-2020/index.html'
 aim: 'all'
 title: 'Schedule'
 description: 'Spring schedule 2020'
@@ -12,5 +9,4 @@ images:
 - src: '/images/news-card/wall-clocks.jpg'
   alt: 'Winter session schedule 2020'
 updatedAt: 1580409711
-materialType: 'important'
 ---

@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1591142400
-filename: 'exams-schedule'
-type: 'important'
+permalink: 'ru/important/exams-schedule/index.html'
 aim: 'all'
 title: 'Сессия / Пересдачи'
 description: 'Расписание текущей сессии и пересдач'
@@ -12,5 +9,4 @@ images:
 - src: '/images/news-card/mulligans.jpg'
   alt: 'Расписание текущей сессии и пересдач'
 updatedAt: 1591142400
-materialType: 'important'
 ---

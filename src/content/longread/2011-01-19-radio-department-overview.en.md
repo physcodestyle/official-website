@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1295395200
-filename: 'radio-department-overview'
-type: 'longread'
+permalink: 'en/longread/radio-department-overview/index.html'
 aim: 'radio'
 title: 'Department of radiophysics today'
 description: 'The Department of Radiophysics was founded in 1953. The organizer of the Department and its first...'
@@ -12,7 +9,6 @@ images:
   alt: 'История кафедры радиофизики - 1'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 The origins of the Department
 -----------------------------

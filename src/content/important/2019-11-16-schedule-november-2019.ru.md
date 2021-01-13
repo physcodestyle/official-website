@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1573923604
-filename: '2019-11-16-schedule-november-2019'
-type: 'important'
+permalink: 'ru/important/2019-11-16-schedule-november-2019/index.html'
 aim: 'all'
 title: 'Расписание'
 description: 'Расписание пересдач'
@@ -12,5 +9,4 @@ images:
 - src: '/images/news-card/mulligans.jpg'
   alt: 'Расписание пересдач'
 updatedAt: 1573923604
-materialType: 'important'
 ---

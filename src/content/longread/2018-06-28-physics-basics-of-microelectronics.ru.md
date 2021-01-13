@@ -1,8 +1,7 @@
 ---
-language: 'ru'
-date: 1530144000
-filename: 'physics-basics-of-microelectronics'
+permalink: 'ru/
 type: 'course'
+filename: 'physics-basics-of-microelectronics/index.html'
 aim: 'all'
 title: 'Физические основы твердотельной электроники'
 description: 'В курсе рассмотрены физические основы работы твердотельных полупроводниковых приборов...'
@@ -14,7 +13,6 @@ images:
   alt: 'Физические основы твердотельной электроники'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'course'
 ---
 В курсе рассмотрены физические основы работы твердотельных полупроводниковых приборов, использующих как явление инжекции носителей через p-n переходы, так и явления, связанные с эффектом поля.
 

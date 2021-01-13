@@ -1,7 +1,5 @@
 ---
-language: 'en'
-filename: 'me'
-type: 'department'
+permalink: 'en/department/me/index.html'
 title: 'Department of semiconductor and microelectronics physics'
 site: 'https://phys.vsu.ru/me/'
 description: 'The Department of semiconductor and microelectronics physics was established in 1959 in connection with the formation and development of the domestic electronic industry and the organization of a large scientific and production Association “electronics”in the Voronezh region. Since its Foundation and until 1961, the head of the Department was Katasonov Nikolai, associate Professor of the Department of Radiophysics of the physics faculty of VSU.'
@@ -84,6 +82,5 @@ socialNetworks:
   type: 'vk'
   link: 'https://vk.com/physvsu'
 updatedAt: 1568360578
-materialType: 'department'
 ---
 The Department of semiconductor and microelectronics physics was established in 1959 in connection with the formation and development of the domestic electronic industry and the organization of a large scientific and production Association “electronics”in the Voronezh region. Since its Foundation and until 1961, the head of the Department was Katasonov Nikolai, associate Professor of the Department of Radiophysics of the physics faculty of VSU.

@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1295308800,
-filename: 'istoriya-faculteta'
-type: 'longread'
+permalink: 'en/longread/istoriya-faculteta/index.html',
 aim: 'all'
 title: 'The History of the Faculty'
 description: 'The faculty of physics has been around for 100 years...'
@@ -12,7 +9,6 @@ images:
   alt: 'The History of the Faculty'
   type: 'image'
 updatedAt: 1568360578,
-materialType: 'longread'
 ---
 In the early 1930s, the Department of Geophysics was restored as part of the physical Department. The traditions of geophysical research at the Voronezh University were founded by the famous scientist Professor B. I. Sreznevsky. But to work in Voronezh, he was destined only to the hungry 1920, Then geophysical studies for many years was headed by Professor A. V. Shipchenski.
 

@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1295395200
-filename: 'kof-department-overview'
-type: 'longread'
+permalink: 'ru/longread/kof-department-overview/index.html'
 aim: 'kof'
 title: 'Кафедра общей физики сегодня'
 description: 'Кафедра общей физики существовала со дня образования ВГУ. Возглавлял кафедру...'
@@ -12,7 +9,6 @@ images:
   alt: 'История кафедры электроники - 1'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Истоки кафедры
 --------------

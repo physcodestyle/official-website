@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1295395200
-filename: 'ssp-department-overview'
-type: 'longread'
+permalink: 'en/longread/ssp-department-overview/index.html'
 aim: 'ssp'
 title: 'Solid state physics and nanostructures Department today'
 description: 'The Department was founded in 1936 by Professor M. Levitskaya...'
@@ -12,7 +9,6 @@ images:
   alt: 'История кафедры электроники - 1'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 The origins of the Department
 -----------------------------

@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1295395200
-filename: 'thp-department-overview'
-type: 'longread'
+permalink: 'ru/longread/thp-department-overview/index.html'
 aim: 'thp'
 title: 'Кафедра теоретической физики сегодня'
 description: null
@@ -12,7 +9,6 @@ images:
   alt: 'История кафедры электроники - 1'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Истоки кафедры
 --------------

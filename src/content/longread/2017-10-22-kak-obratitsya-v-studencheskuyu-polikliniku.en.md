@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1508630400
-filename: 'kak-obratitsya-v-studencheskuyu-polikliniku'
-type: 'longread'
+permalink: 'en/longread/kak-obratitsya-v-studencheskuyu-polikliniku/index.html'
 aim: 'all'
 title: 'How to Apply to the Student Clinic'
 description: 'We tell you how to pass fluorography without any hassle, do vaccinations and spend a minimum of time visiting hospitals'
@@ -11,7 +8,6 @@ images:
   alt: 'How to Apply to the Student Clinic'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 All students ever need help or a doctor’s advice. We tell you how to pass fluorography without any hassle, do vaccinations and spend a minimum of time visiting hospitals.
 

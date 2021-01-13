@@ -1,7 +1,5 @@
 ---
-language: 'ru'
-filename: 'bobreshov_a_m'
-type: 'staff'
+permalink: 'ru/staff/bobreshov_a_m/index.html'
 name: 'Бобрешов Анатолий Михайлович'
 degree: 'доктор физико-математических наук'
 title: 'профессор'
@@ -25,7 +23,6 @@ images:
   alt: 'Бобрешов Анатолий Михайлович - заведующий кафедрой электроники - Встреча выпускников'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'staff'
 ---
 ## Квалификация
 

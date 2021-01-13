@@ -1,8 +1,7 @@
 ---
-language: 'en'
-date: 1530144000
-filename: 'physics-basics-of-microelectronics'
+permalink: 'en/
 type: 'course'
+filename: 'physics-basics-of-microelectronics/index.html'
 aim: 'all'
 title: 'Physical fundamentals of solid-state electronics'
 description: 'The course describes the physical basis of solid-state semiconductor devices...'
@@ -14,7 +13,6 @@ images:
   alt: 'Physical fundamentals of solid-state electronics'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'course'
 ---
 The course discusses the physical basis of solid-state semiconductor devices using both the phenomenon of injection of carriers through p-n transitions, and the phenomena associated with the field effect.
 

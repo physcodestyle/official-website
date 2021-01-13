@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1530835200
-filename: 'vruchenie-diplomov-bakalavram'
-type: 'news'
+permalink: 'ru/news/vruchenie-diplomov-bakalavram/index.html'
 aim: 'all'
 title: 'Вручение дипломов бакалаврам'
 description: 'Вручение дипломов бакалаврам пройдет 10 июля (вторник)...'
@@ -11,7 +8,6 @@ images:
   alt: 'Вручение дипломов бакалаврам'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'news'
 ---
 Вручение дипломов бакалаврам пройдет 10 июля (вторник) в актовом зале ВГУ в 13:00.
 

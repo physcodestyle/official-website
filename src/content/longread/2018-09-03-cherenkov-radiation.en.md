@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1535932800
-filename: 'cherenkov-radiation'
-type: 'longread'
+permalink: 'en/longread/cherenkov-radiation/index.html'
 aim: 'all'
 title: 'Cherenkov radiation'
 description: 'In 1934, Pavel Cherenkov, performing in the laboratory of S. I. Vavilov studies of luminescence of liquids under...'lead: 'In 1934, Pavel Cherenkov, performing in the laboratory Of S. I. Vavilov studies of luminescence of liquids under the influence of gamma radiation, found a weak blue radiation of unknown nature. Later it was found that this glow is caused by electrons moving at speeds greater than the phase velocity of light in the medium. Fast electrons are knocked out of the electron shells of the atoms of the medium by gamma radiation.'
@@ -14,7 +11,6 @@ images:
   alt: 'Cherenkov radiation'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Already the first experiments Cherenkov radiation, undertaken at the initiative of S. I. Vavilov, revealed a number of unexplained features of the radiation: the glow is observed in all transparent liquids, and brightness is little affected by their chemical composition and chemical nature, the radiation is polarized with a preferential direction of the electric vector along the direction of propagation of the particles, while in contrast to the luminescence observed in either temperature or impurity quenching. On the basis of these data, Vavilov made a fundamental statement that the detected phenomenon is not luminescence, and light is emitted by fast electrons moving in the liquid.
 

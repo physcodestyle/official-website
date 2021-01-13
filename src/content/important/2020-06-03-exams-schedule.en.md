@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1591142400
-filename: 'exams-schedule'
-type: 'important'
+permalink: 'en/important/exams-schedule/index.html'
 aim: 'all'
 title: 'Exams / mulligans'
 description: 'Students exams and mulligans'
@@ -12,5 +9,4 @@ images:
 - src: '/images/news-card/mulligans.jpg'
   alt: 'Students exams and mulligans'
 updatedAt: 1591142400
-materialType: 'important'
 ---

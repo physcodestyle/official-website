@@ -1,8 +1,5 @@
 ---
-language: 'ru'
-date: 1508630400
-filename: 'kak-obratitsya-v-studencheskuyu-polikliniku'
-type: 'longread'
+permalink: 'ru/longread/kak-obratitsya-v-studencheskuyu-polikliniku/index.html'
 aim: 'all'
 title: 'Как обратиться в студенческую поликлинику'
 description: 'Рассказываем, как без лишних хлопот проходить флюорографию, делать прививки и тратить минимум времени на посещение больниц'
@@ -11,7 +8,6 @@ images:
   alt: 'Как обратиться в студенческую поликлинику'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 Всем студентам когда-нибудь нужна помощь или консультация врача. Рассказываем, как без лишних хлопот проходить флюорографию, делать прививки и тратить минимум времени на посещение больниц.
 

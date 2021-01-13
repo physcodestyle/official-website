@@ -1,8 +1,5 @@
 ---
-language: 'en'
-date: 1508630400
-filename: 'office-365-dlya-studentov'
-type: 'longread'
+permalink: 'en/longread/office-365-dlya-studentov/index.html'
 aim: 'all'
 title: 'Office 365 for Students'
 description: 'How does a student get Office 365 for free?'
@@ -11,7 +8,6 @@ images:
   alt: 'Office 365 for Students'
   type: 'image'
 updatedAt: 1568360578
-materialType: 'longread'
 ---
 We tell how a student can get Office 365 for free. With it you can work with online versions of Word, Excel, PowerPoint and OneNote. Together with the programs you will get 1000 GB in the cloud. The service is valid until the end of your training at the VSU.
 
