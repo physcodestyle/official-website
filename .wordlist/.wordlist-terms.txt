@@ -82,6 +82,7 @@ bormontov
 Bormontov
 Braunschweig
 Breev
+Browsersync
 Bruevich
 BSU
 Bugrov
@@ -338,6 +339,7 @@ jpeg
 jpg
 jq
 jQuery
+js
 JS
 jsc
 JSC
@@ -604,6 +606,7 @@ Rapoport
 RAS
 Rasheyev
 reitingoviy
+remarkrc
 reproducibility
 reytingovym
 Rezhepp
