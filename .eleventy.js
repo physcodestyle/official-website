@@ -16,9 +16,9 @@ module.exports = (config) => {
     let menu = `<div class="menu">`;
     for(chapter of menuJson[language]) {
       if (mode === 'nav') {
-        menu += `<ul class="menu__list"><h3 class="menu__title">${chapter['title']}</h3>`;
+        menu += `<h3 class="menu__title">${chapter['title']}</h3><ul class="menu__list">`;
       } else {
-        menu += `<ul class="menu__list"><p class="menu__title">${chapter['title']}</p>`;
+        menu += `<p class="menu__title">${chapter['title']}</p><ul class="menu__list">`;
       }
       for (item of chapter['menu']) {
         menu += `<li class="menu__item"><a href="${item['url']}">${item['title']}</a></li>`;
