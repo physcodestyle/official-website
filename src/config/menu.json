@@ -1,0 +1,322 @@
+{
+  "ru": [
+    {
+      "title": "Абитуриентам",
+      "menu": [
+        {
+          "title": "О факультете",
+          "url": "/long-read/ru/2011-01-18-istoriya-faculteta.html"
+        },
+        {
+          "title": "Экзамены",
+          "url": "http://www.abitur.vsu.ru/sites/default/files/admission2018/4_pvi.pdf"
+        },
+        {
+          "title": "Профессия",
+          "url": "https://vk.com/physabitur?w=page-69219891_50133773"
+        },
+        {
+          "title": "Практика",
+          "url": "http://www.abitur.vsu.ru/sites/default/files/admission2016/attention_new_student_info.pdf"
+        },
+        {
+          "title": "ЗФШ",
+          "url": "https://phys.vsu.ru/school/"
+        },
+        {
+          "title": "Презентация",
+          "url": "https://phys.vsu.ru/res/docs/all/Prezentatsia_2018-2019.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Студентам",
+      "menu": [
+        {
+          "title": "Сессия",
+          "url": "https://docs.google.com/spreadsheets/d/1XcY9uyjseJHvoXXuwuJPvKGVDGu0g-bVQkF6Ukr-blw"
+        },
+        {
+          "title": "Расписание",
+          "url": "https://docs.google.com/spreadsheets/d/1gKWonWCwTRq6_NX8XnyEpeRQer8gl51CRfuTe1Rr7yc"
+        },
+        {
+          "title": "Студ. совет",
+          "url": "https://vk.com/physvsu?w=page-131429_52299346"
+        },
+        {
+          "title": "Работа",
+          "url": "https://vk.com/physvsu?w=app5748831_-131429%2523280188"
+        },
+        {
+          "title": "РУБИКОН",
+          "url": "https://vk.com/rubicon_vsu"
+        },
+        {
+          "title": "Спорт",
+          "url": "https://vk.com/sport_ff_2015"
+        }
+      ]
+    },
+    {
+      "title": "Аспирантам",
+      "menu": [
+        {
+          "title": "Новости",
+          "url": "http://aspirant.vsu.ru"
+        },
+        {
+          "title": "Аттестация",
+          "url": "http://aspirant.vsu.ru/?p=4"
+        },
+        {
+          "title": "Обучение",
+          "url": "http://aspirant.vsu.ru/?p=3"
+        },
+        {
+          "title": "Нормативка",
+          "url": "http://aspirant.vsu.ru/?p=1"
+        },
+        {
+          "title": "Шаблоны",
+          "url": "http://aspirant.vsu.ru/?p=2"
+        }
+      ]
+    },
+    {
+      "title": "Выпускникам",
+      "menu": [
+        {
+          "title": "Встречи",
+          "url": "http://www.alumni.vsu.ru/alltogether2018"
+        },
+        {
+          "title": "Разные судьбы",
+          "url": "http://www.alumni.vsu.ru/differentfates"
+        },
+        {
+          "title": "Воспоминания",
+          "url": "http://www.alumni.vsu.ru/memories"
+        },
+        {
+          "title": "Интервью",
+          "url": "http://www.alumni.vsu.ru/inteview"
+        }
+      ]
+    },
+    {
+      "title": "Преподавателям",
+      "menu": [
+        {
+          "title": "Web of science",
+          "url": "http://apps.webofknowledge.com/"
+        },
+        {
+          "title": "Scopus",
+          "url": "https://www.scopus.com/"
+        },
+        {
+          "title": "РИНЦ",
+          "url": "http://elibrary.ru/"
+        },
+        {
+          "title": "ЭБС ВГУ",
+          "url": "http://www.edu.vsu.ru/mod/page/view.php?id=35625"
+        },
+        {
+          "title": "Приказы",
+          "url": "http://www.tqm.vsu.ru/rasp-prikaz"
+        },
+        {
+          "title": "Документы",
+          "url": "http://www.edu.vsu.ru/course/view.php?id=2941#section-2"
+        },
+        {
+          "title": "Командировка",
+          "url": "https://www.infosys.vsu.ru/index_is.phtml?f=./documents/mission_declaration_copy/mission_declaration.php&id_for=504&log=as_all"
+        }
+      ]
+    },
+    {
+      "title": "Контакты",
+      "menu": [
+        {
+          "title": "ВГУ",
+          "url": "https://vsu.ru/"
+        },
+        {
+          "title": "Декан",
+          "url": "mailto:ovchinnikov@phys.vsu.ru"
+        },
+        {
+          "title": "Радиофизики",
+          "url": "mailto:stepkin.vladislav@yandex.ru"
+        },
+        {
+          "title": "Физики",
+          "url": "mailto:dima_physicist@mail.ru"
+        }
+      ]
+    }
+  ],
+  "en": [
+    {
+      "title": "Entrants",
+      "menu": [
+        {
+          "title": "About the faculty",
+          "url": "/long-read/ru/2011-01-18-istoriya-faculteta.html"
+        },
+        {
+          "title": "Exams",
+          "url": "http://www.abitur.vsu.ru/sites/default/files/admission2018/4_pvi.pdf"
+        },
+        {
+          "title": "Profession",
+          "url": "https://vk.com/physabitur?w=page-69219891_50133773"
+        },
+        {
+          "title": "Practice",
+          "url": "http://www.abitur.vsu.ru/sites/default/files/admission2016/attention_new_student_info.pdf"
+        },
+        {
+          "title": "ZFS",
+          "url": "https://phys.vsu.ru/school/"
+        },
+        {
+          "title": "Presentation",
+          "url": "https://phys.vsu.ru/res/docs/all/Prezentatsia_2018-2019.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Students",
+      "menu": [
+        {
+          "title": "Session",
+          "url": "https://drive.google.com/file/d/1UNi-FuHz3g8Wsz4tZNz68MBQWERGc1oK/view?usp=sharing"
+        },
+        {
+          "title": "Schedule",
+          "url": "https://docs.google.com/spreadsheets/d/1gKWonWCwTRq6_NX8XnyEpeRQer8gl51CRfuTe1Rr7yc"
+        },
+        {
+          "title": "Student Council",
+          "url": "https://vk.com/physvsu?w=page-131429_52299346"
+        },
+        {
+          "title": "Vacancies",
+          "url": "https://vk.com/physvsu?w=app5748831_-131429%2523280188"
+        },
+        {
+          "title": "RUBICON",
+          "url": "https://vk.com/rubicon_vsu"
+        },
+        {
+          "title": "Sport",
+          "url": "https://vk.com/sport_ff_2015"
+        }
+      ]
+    },
+    {
+      "title": "Postgraduates",
+      "menu": [
+        {
+          "title": "News",
+          "url": "http://aspirant.vsu.ru"
+        },
+        {
+          "title": "Certification",
+          "url": "http://aspirant.vsu.ru/?p=4"
+        },
+        {
+          "title": "Training",
+          "url": "http://aspirant.vsu.ru/?p=3"
+        },
+        {
+          "title": "Production",
+          "url": "http://aspirant.vsu.ru/?p=1"
+        },
+        {
+          "title": "Templates",
+          "url": "http://aspirant.vsu.ru/?p=2"
+        }
+      ]
+    },
+    {
+      "title": "Graduates",
+      "menu": [
+        {
+          "title": "Meetings",
+          "url": "http://www.alumni.vsu.ru/alltogether2018"
+        },
+        {
+          "title": "Different fate",
+          "url": "http://www.alumni.vsu.ru/differentfates"
+        },
+        {
+          "title": "Memories",
+          "url": "http://www.alumni.vsu.ru/memories"
+        },
+        {
+          "title": "Interview",
+          "url": "http://www.alumni.vsu.ru/inteview"
+        }
+      ]
+    },
+    {
+      "title": "Teachers",
+      "menu": [
+        {
+          "title": "Web of science",
+          "url": "http://apps.webofknowledge.com/"
+        },
+        {
+          "title": "Scopus",
+          "url": "https://www.scopus.com/"
+        },
+        {
+          "title": "RISC",
+          "url": "http://elibrary.ru/"
+        },
+        {
+          "title": "ELS VSU",
+          "url": "http://www.edu.vsu.ru/mod/page/view.php?id=35625"
+        },
+        {
+          "title": "Orders",
+          "url": "http://www.tqm.vsu.ru/rasp-prikaz"
+        },
+        {
+          "title": "Documents",
+          "url": "http://www.edu.vsu.ru/course/view.php?id=2941#section-2"
+        },
+        {
+          "title": "Mission",
+          "url": "https://www.infosys.vsu.ru/index_is.phtml?f=./documents/mission_declaration_copy/mission_declaration.php&id_for=504&log=as_all"
+        }
+      ]
+    },
+    {
+      "title": "Contacts",
+      "menu": [
+        {
+          "title": "VSU",
+          "url": "https://vsu.ru/"
+        },
+        {
+          "title": "Dean",
+          "url": "mailto:ovchinnikov@phys.vsu.ru"
+        },
+        {
+          "title": "Radiophysics",
+          "url": "mailto:stepkin.vladislav@yandex.ru"
+        },
+        {
+          "title": "Common Physics",
+          "url": "mailto:dima_physicist@mail.ru"
+        }
+      ]
+    }
+  ]
+}
