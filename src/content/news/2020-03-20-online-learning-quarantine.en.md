@@ -4,9 +4,9 @@ aim: 'all'
 title: 'Distance learning in the conditions of the quarantine'
 description: 'From March 17 in order to prevent the spread of coronavirus infection...'
 images:
-- src: '/images/learn.jpg'
-  alt: 'Distance learning in the conditions of the quarantine'
-  type: 'image'
+  - src: '/images/learn.jpg'
+    alt: 'Distance learning in the conditions of the quarantine'
+    type: 'image'
 updatedAt: 1584662400
 ---
 From March 17 in order to prevent the spread of coronavirus infection in the academic buildings of the university, as well as in accordance with the orders of the Ministry of Education and Science of the Russian Federation from 14.03.2020 No. 397 and from 14.03.2020 No. 398, Voronezh State University switched to the educational process with the use of distance learning technologies, namely, online training using the electronic portal "Electronic University of VSU": edu.vsu.ru. Participation in this process is mandatory for all students. Since all work will be organized through the student's personal account, it is necessary to register on the portal. Instructions on how to do this can be found in our article: https://vk.com/@physvsu-eduvsuru
