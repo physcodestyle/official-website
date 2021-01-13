@@ -4,9 +4,9 @@ aim: 'all'
 title: 'Как получить Windows?'
 description: 'Рассказываем, как получить лицензионную Windows 10'
 images:
-- src: '/images/microsoft-office-license-for-students.jpg'
-  alt: 'Как получить Windows?'
-  type: 'image'
+  - src: '/images/microsoft-office-license-for-students.jpg'
+    alt: 'Как получить Windows?'
+    type: 'image'
 updatedAt: 1568360578
 ---
 Студент ФизФака может получить Windows 10. Для этого понадобится студенческий билет, продлённая зачётка и флешка минимум на 4 Гб.

@@ -4,9 +4,9 @@ aim: 'all'
 title: 'How to Get Windows?'
 description: 'We tell you how to get licensed Windows 10'
 images:
-- src: '/images/microsoft-office-license-for-students.jpg'
-  alt: 'How to Get Windows?'
-  type: 'image'
+  - src: '/images/microsoft-office-license-for-students.jpg'
+    alt: 'How to Get Windows?'
+    type: 'image'
 updatedAt: 1568360578
 ---
 A physics Student can get Windows 10. To do this, you will need a student card, an extended record card and a flash drive for at least 4 GB.

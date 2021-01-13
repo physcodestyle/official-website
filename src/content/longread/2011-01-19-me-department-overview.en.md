@@ -5,9 +5,9 @@ title: 'Semiconductor and microelectronics physics Department today'
 description: 'The Department was organized in 1959, its first head became...'
 lead: 'Semiconductor and microelectronics physics Department, organized in 1959 From this moment on 1961 head was Katasonov Nikolai Vasilyevich, associate Professor, Department of physics, faculty of physics, Voronezh state University.'
 images:
-- src: '/images/el_phys_about_01.jpg'
-  alt: 'История кафедры электроники - 1'
-  type: 'image'
+  - src: '/images/el_phys_about_01.jpg'
+    alt: 'История кафедры электроники - 1'
+    type: 'image'
 updatedAt: 1568360578
 ---
 The origins of the Department

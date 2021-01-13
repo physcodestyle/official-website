@@ -4,9 +4,9 @@ aim: 'all'
 title: 'Office 365 для студентов'
 description: 'Как студенту бесплатно получить Office 365?'
 images:
-- src: '/images/microsoft-office-license-for-students.jpg'
-  alt: 'Office 365 для студентов'
-  type: 'image'
+  - src: '/images/microsoft-office-license-for-students.jpg'
+    alt: 'Office 365 для студентов'
+    type: 'image'
 updatedAt: 1568360578
 ---
 Рассказываем, как студенту бесплатно получить Office 365. С его помощью вы cможете работать с онлайн версиями Word, Excel, PowerPoint и OneNote. Вместе с программами вы получите 1000 Гб в облаке. Услуга действует до конца вашего обучения в ВГУ.

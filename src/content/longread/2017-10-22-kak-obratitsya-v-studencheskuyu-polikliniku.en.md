@@ -4,9 +4,9 @@ aim: 'all'
 title: 'How to Apply to the Student Clinic'
 description: 'We tell you how to pass fluorography without any hassle, do vaccinations and spend a minimum of time visiting hospitals'
 images:
-- src: '/images/student-hospital.jpg'
-  alt: 'How to Apply to the Student Clinic'
-  type: 'image'
+  - src: '/images/student-hospital.jpg'
+    alt: 'How to Apply to the Student Clinic'
+    type: 'image'
 updatedAt: 1568360578
 ---
 All students ever need help or a doctor’s advice. We tell you how to pass fluorography without any hassle, do vaccinations and spend a minimum of time visiting hospitals.

@@ -5,9 +5,9 @@ title: 'Department of radiophysics today'
 description: 'The Department of Radiophysics was founded in 1953. The organizer of the Department and its first...'
 lead: 'The Department of Radiophysics was founded in 1953. The organizer of the Department and its first head was candidate of technical Sciences, associate Professor Pavel Mikhailovich Trifonov (1909-1992).'
 images:
-- src: '/images/radio_phys_about_01.jpg'
-  alt: 'История кафедры радиофизики - 1'
-  type: 'image'
+  - src: '/images/radio_phys_about_01.jpg'
+    alt: 'История кафедры радиофизики - 1'
+    type: 'image'
 updatedAt: 1568360578
 ---
 The origins of the Department

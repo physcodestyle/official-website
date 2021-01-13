@@ -2,12 +2,10 @@
 permalink: 'ru/longread/thp-department-overview/index.html'
 aim: 'thp'
 title: 'Кафедра теоретической физики сегодня'
-description: null
-lead: null
 images:
-- src: '/images/el_phys_about_01.jpg'
-  alt: 'История кафедры электроники - 1'
-  type: 'image'
+  - src: '/images/el_phys_about_01.jpg'
+    alt: 'История кафедры электроники - 1'
+    type: 'image'
 updatedAt: 1568360578
 ---
 Истоки кафедры

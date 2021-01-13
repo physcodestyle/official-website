@@ -2,12 +2,10 @@
 permalink: 'en/longread/thp-department-overview/index.html'
 aim: 'thp'
 title: 'Theoretical physics Department today'
-description: null
-lead: null
 images:
-- src: '/images/el_phys_about_01.jpg'
-  alt: 'История кафедры электроники - 1'
-  type: 'image'
+  - src: '/images/el_phys_about_01.jpg'
+    alt: 'История кафедры электроники - 1'
+    type: 'image'
 updatedAt: 1568360578
 ---
 The origins of the Department

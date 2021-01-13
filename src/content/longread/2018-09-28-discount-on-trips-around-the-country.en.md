@@ -3,13 +3,11 @@ permalink: 'ru/longread/discount-on-trips-around-the-country/index.html'
 aim: 'all'
 title: 'Discount on Travel Around the Country'
 description: 'Russian Railways gives 25% discount to students for trips around the country'
-lead: 'The student program is valid for travel in wagons of the type of compartment (those that belong to JSC \'FPC\'). And also \'Sapsan\'
-and \'Allegro\'
-and other trains of the series 701-750.'
+lead: 'The student program is valid for travel in wagons of the type of compartment (those that belong to JSC \'FPC\'). And also \'Sapsan\' and \'Allegro\' and other trains of the series 701-750.'
 images:
-- src: '/images/trail-discounts-for-students.jpg'
-  alt: 'Discount on Travel Around the Country'
-  type: 'image'
+  - src: '/images/trail-discounts-for-students.jpg'
+    alt: 'Discount on Travel Around the Country'
+    type: 'image'
 updatedAt: 1568360578
 ---
 To participate in the program, please register at [the site](https://rzd-bonus.ru/registration.html) and send a certificate that you are studying at the University through your personal account (a certificate can be obtained in the Dean’s office of the AUD. 238 from 13:00 to 15:00).

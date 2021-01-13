@@ -5,9 +5,9 @@ title: 'How to Use the Rating List?'
 description: 'You need a rating to show your chances of getting in. In the first rating...'
 lead: 'You need a rating to show your chances of getting in. In the first rating are absolutely all applicants who have applied to the faculty of physics. In the rating list of originals are only students who have provided the original certificate. It is this list that reflects the minimum score.'
 images:
-- src: '/images/reitingoviy-spisok.jpg'
-  alt: 'How to Use the Rating List?'
-  type: 'image'
+  - src: '/images/reitingoviy-spisok.jpg'
+    alt: 'How to Use the Rating List?'
+    type: 'image'
 updatedAt: 1568360578
 ---
 How to use the rating list?
