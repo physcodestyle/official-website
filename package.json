@@ -4,6 +4,8 @@
   "description": "The official site of the Physics Faculty of Voronezh State University",
   "main": "index.js",
   "scripts": {
+    "start": "eleventy --serve --quiet",
+    "build": "eleventy",
     "editorconfig": "editorconfig-checker",
     "markdown": "remark 'src/content/**/*.md' --quiet"
   },
