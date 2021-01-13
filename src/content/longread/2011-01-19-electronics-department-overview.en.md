@@ -1,6 +1,6 @@
 ---
 permalink: 'en/longread/electronics-department-overview/index.html'
-layout: 'page.njk'
+layout: 'page.en.njk'
 aim: 'el'
 title: 'Department of electronics today'
 description: 'The Department of Electronics was founded in 1962. Headed the Department...'

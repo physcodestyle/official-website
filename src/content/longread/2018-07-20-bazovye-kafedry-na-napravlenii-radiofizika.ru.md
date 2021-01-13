@@ -1,6 +1,6 @@
 ---
 permalink: 'ru/longread/bazovye-kafedry-na-napravlenii-radiofizika/index.html'
-layout: 'page.njk'
+layout: 'page.ru.njk'
 aim: 'all'
 title: 'Базовые кафедры на направлении «Радиофизика»'
 description: 'С нами сотрудничает несколько десятков компаний — проводят лекции, стажировки, практики, забирают лучших...'

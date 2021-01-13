@@ -1,6 +1,6 @@
 ---
 permalink: 'ru/longread/cherenkov-radiation/index.html'
-layout: 'page.njk'
+layout: 'page.ru.njk'
 aim: 'all'
 title: 'Эффект Вавилова – Черенкова'
 description: 'В 1934 году Павел Черенков, выполняя в лаборатории С. И. Вавилова исследования люминесценции жидкостей под...'

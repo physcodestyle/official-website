@@ -1,6 +1,6 @@
 ---
 permalink: 'en/longread/thp-department-overview/index.html'
-layout: 'page.njk'
+layout: 'page.en.njk'
 aim: 'thp'
 title: 'Theoretical physics Department today'
 images:

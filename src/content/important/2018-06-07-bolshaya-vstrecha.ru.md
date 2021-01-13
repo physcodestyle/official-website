@@ -1,6 +1,6 @@
 ---
 permalink: 'ru/important/bolshaya-vstrecha/index.html'
-layout: 'page.njk'
+layout: 'page.ru.njk'
 aim: 'all'
 title: 'Большая встреча'
 description: 'В День 100-летия ВГУ готовит встречу выпускников'

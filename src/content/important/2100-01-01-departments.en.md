@@ -1,6 +1,6 @@
 ---
 permalink: 'en/important/departments/index.html'
-layout: 'page.njk'
+layout: 'page.en.njk'
 aim: 'all'
 title: 'Departments'
 description: 'List of the faculty departments'

@@ -1,6 +1,6 @@
 ---
 permalink: 'en/longread/radio-department-overview/index.html'
-layout: 'page.njk'
+layout: 'page.en.njk'
 aim: 'radio'
 title: 'Department of radiophysics today'
 description: 'The Department of Radiophysics was founded in 1953. The organizer of the Department and its first...'

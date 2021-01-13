@@ -1,6 +1,6 @@
 ---
 permalink: 'ru/news/online-learning-quarantine/index.html'
-layout: 'page.njk'
+layout: 'page.ru.njk'
 aim: 'all'
 title: 'Дистанционное обучение в условиях карантина'
 description: 'С 17 марта в целях недопущения распространения коронавирусной инфекции...'

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html class="page" lang="ru">
+<head>
+  {% if page.url == '/' %}
+      {% set isIndex = true %}
+  {% else %}
+      {% set titleSuffix = ' — Физический факультет ВГУ' %}
+      {% set isIndex = false %}
+  {% endif %}
+
+  <title>
+    {{ renderData.title or title }}{{ titleSuffix }}
+  </title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  {% include 'open-graph.njk' %}
+  {% include 'icons.njk' %}
+
+  <link rel="manifest" href="assets/manifest.webmanifest">
+  <link rel="stylesheet" href="/styles/styles.css">
+  <link rel="stylesheet" href="/styles/print.css" media="print">
+</head>
+<body class="page__body}">
+  {% include 'header.en.njk' %}
+  <div class="page__content">
+    {{ content | safe }}
+  </div>
+  {% include 'footer.en.njk' %}
+  <script src="/scripts/scripts.js"></script>
+</body>
+</html>

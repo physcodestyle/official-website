@@ -1,6 +1,6 @@
 ---
 permalink: 'en/department/el/index.html'
-layout: 'page.njk'
+layout: 'page.en.njk'
 title: 'Department of electronics'
 site: 'https://phys.vsu.ru/el/'
 description: 'The Department of Electronics was founded in 1962. The structure of the courses studied at the Department corresponds to its specialization. First of all, students study the basic structures of solid-state electronics and their nonlinear properties, parameters and characteristics underlying the functioning of solid-state devices, including elements of integrated circuits. Much attention is paid to the study of digital and microprocessor systems that form the basis of modern electronics in information processing systems for various purposes.'

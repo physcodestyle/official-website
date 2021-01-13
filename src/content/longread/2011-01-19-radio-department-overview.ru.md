@@ -1,6 +1,6 @@
 ---
 permalink: 'ru/longread/radio-department-overview/index.html'
-layout: 'page.njk'
+layout: 'page.ru.njk'
 aim: 'radio'
 title: 'Кафедра радиофизики сегодня'
 description: 'Кафедра радиофизики образована в 1953 году. Организатором кафедры и ее первым...'

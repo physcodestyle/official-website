@@ -1,6 +1,6 @@
 ---
 permalink: 'en/news/online-learning-quarantine/index.html'
-layout: 'page.njk'
+layout: 'page.en.njk'
 aim: 'all'
 title: 'Distance learning in the conditions of the quarantine'
 description: 'From March 17 in order to prevent the spread of coronavirus infection...'

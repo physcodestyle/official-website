@@ -1,6 +1,6 @@
 ---
 permalink: 'en/longread/producty-JetBrains-dlya-studentov/index.html'
-layout: 'page.njk'
+layout: 'page.en.njk'
 aim: 'all'
 title: 'JetBrains Products for Students'
 description: 'We tell you how to get code editors from JetBrains for languages such as C, Java, Python, etc'
