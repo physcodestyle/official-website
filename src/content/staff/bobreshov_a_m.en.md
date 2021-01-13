@@ -4,22 +4,22 @@ name: 'Bobreshov Anatolii Mikhailovich'
 degree: 'PhD'
 title: 'professor'
 post:
-- 'Lead of department'
+  - 'Lead of department'
 speciality: '(01.04.03) Radiophysics'
 contacts:
-- '+74732208284'
-- 'bobreshov@phys.vsu.ru'
+  - '+74732208284'
+  - 'bobreshov@phys.vsu.ru'
 avatar:
-- src: '/images/bobreshov_a_m-avatar.jpeg'
-  title: 'Bobreshov Anatolii Mikhailovich - Lead of electronics department'
-  type: 'image'
+  - src: '/images/bobreshov_a_m-avatar.jpeg'
+    title: 'Bobreshov Anatolii Mikhailovich - Lead of electronics department'
+    type: 'image'
 images:
-- src: '/images/student-starts-2018-0.jpg'
-  alt: 'Bobreshov Anatolii Mikhailovich - Lead of electronics department - Students starts'
-  type: 'image'
-- src: '/images/vsu_100_anniversary_00005.jpg'
-  alt: 'Bobreshov Anatolii Mikhailovich - Lead of electronics department - Alumni Meeting'
-  type: 'image'
+  - src: '/images/student-starts-2018-0.jpg'
+    alt: 'Bobreshov Anatolii Mikhailovich - Lead of electronics department - Students starts'
+    type: 'image'
+  - src: '/images/vsu_100_anniversary_00005.jpg'
+    alt: 'Bobreshov Anatolii Mikhailovich - Lead of electronics department - Alumni Meeting'
+    type: 'image'
 updatedAt: 1568360578
 ---
 ## Qualification
