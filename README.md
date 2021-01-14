@@ -133,7 +133,34 @@ $ npm run start
 
 #### Поддержка шрифтов
 
-В репозитории на этапе сборки сайта осуществляется поддержка используемых на сайте шрифтов [Fira Sans](https://fonts.google.com/specimen/Fira+Sans) и [Open Sans](https://fonts.google.com/specimen/Open+Sans). Указанные шрифты обновляются с использованием сервиса Google Fonts по мере необходимости (предварительно проводится предварительное тестирование очередной версии). Подгрузка браузером осуществляется с хостинга, на котором размещен весь сайт, что позволяет получить максимальный прирост производительности. После скачивания новой версии шрифта по содержимому сгенерированных страниц оценивается и формируется набор необходимых для загрузки глифов для всех используемых начертаний с помощью утилиты [glyphhanger](https://github.com/filamentgroup/glyphhanger). С помощью этой же утилиты производится конвертация файлов шрифтов в форматы, список которых оценивается на основе списка поддерживаемых браузеров. На данный момент это один формат - [woff2](https://caniuse.com/woff2).
+В репозитории на этапе сборки сайта осуществляется поддержка используемых на сайте шрифтов [Fira Sans](https://fonts.google.com/specimen/Fira+Sans) и [Open Sans](https://fonts.google.com/specimen/Open+Sans). Указанные шрифты обновляются с использованием сервиса Google Fonts по мере необходимости (предварительно проводится предварительное тестирование очередной версии). Подгрузка браузером осуществляется с хостинга, на котором размещен весь сайт, что позволяет получить максимальный прирост производительности. После скачивания новой версии шрифта по содержимому страниц оценивается и формируется набор необходимых глифов для всех используемых начертаний с помощью утилиты [glyphhanger](https://github.com/filamentgroup/glyphhanger). Генерация наборов гифов производится вручную. Для работы с `glyphhanger` без установки `node` можно использовать готовый [контейнер Docker](https://github.com/Worie/docker-glyphhanger) следующим образом (после скачивания работа идет с папками шрифтов `Fira_Sans` и `Open_Sans`):
+
+```bash
+# Латиница (Latin)
+$ glyphy --whitelist=U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD --subset Open_Sans/OpenSans-Bold.ttf --formats=ttf && mv Open_Sans/OpenSans-Bold-subset.ttf OpenSans-Bold-Latin.ttf
+
+# Расширенная латиница (LatinExtended)
+$ glyphy --whitelist=U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF --subset Open_Sans/OpenSans-Bold.ttf --formats=ttf && mv Open_Sans/OpenSans-Bold-subset.ttf OpenSans-Bold-LatinExtended.ttf
+
+# Кириллица (Cyrillic)
+$ glyphy --whitelist=U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116 --subset Open_Sans/OpenSans-Bold.ttf --formats=ttf && mv Open_Sans/OpenSans-Bold-subset.ttf OpenSans-Bold-Cyrillic.ttf
+```
+
+Названия начертаний шрифтов, которые используются на сайте:
+
+1. FiraSans-Bold
+2. FiraSans-Light
+3. OpenSans-Regular
+4. OpenSans-Italic
+5. OpenSans-Bold
+
+С помощью этой же утилиты производится конвертация файлов шрифтов в форматы, список которых оценивается на основе списка поддерживаемых браузеров. На данный момент это один формат - [woff2](https://caniuse.com/woff2).
+Набор символов, который определен в текущей редакции сайта указан ниже:
+
+
+
+
+
 
 #### Проверка текстов
 
