@@ -8,7 +8,8 @@
     "build": "node .fonts.js && gulp build && eleventy",
     "editorconfig": "editorconfig-checker",
     "markdown": "remark 'src/pages/**/*.md' --quiet",
-    "html": "node-w3c-validator -i ./dist/**/*.html -f lint -evH"
+    "html": "node-w3c-validator -i ./dist/**/*.html -f lint -evH",
+    "css": "stylelint \"src/styles/**/*.css\""
   },
   "repository": {
     "type": "git",
@@ -207,7 +208,7 @@
         }
       ],
       "comment-whitespace-inside": "always",
-      "indentation": 4,
+      "indentation": 2,
       "max-empty-lines": 2,
       "no-eol-whitespace": true,
       "no-missing-end-of-source-newline": true
