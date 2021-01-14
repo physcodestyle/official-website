@@ -13,7 +13,7 @@ module.exports = (config) => {
   config.addPassthroughCopy('src/styles');
 
   config.addNunjucksShortcode('menuChapter', (language, mode) => {
-    let menu = (mode === 'nav' ? `` : `<div class="menu">`);
+    let menu = (mode === 'nav' ? `<li class="menu">` : `<div class="menu">`);
     for(chapter of menuJson[language]) {
       if (mode === 'nav') {
         menu += `<h3 class="menu__title">${chapter['title']}</h3><ul class="menu__list">`;
@@ -25,7 +25,7 @@ module.exports = (config) => {
       }
       menu += `</ul>`;
     }
-    menu += `</div>`;
+    menu += (mode === 'nav' ? `</li>` : `</div>`);
     return menu;
   });
 
