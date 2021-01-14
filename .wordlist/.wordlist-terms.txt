@@ -711,6 +711,7 @@ studentov
 studsovet
 studzacheta
 Studzionka
+stylelint
 SU
 sublight
 submicron
