@@ -60,7 +60,7 @@
     "typograf": "^6.11.3"
   },
   "stylelint": {
-    "extends": "./stylelint.config.rational-order.js",
+    "extends": "./stylelint.config.js",
     "plugins": [
       "stylelint-order"
     ],
