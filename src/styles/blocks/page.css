@@ -1,0 +1,12 @@
+/* Page */
+
+.page,
+.page__body {
+    height: 100%;
+}
+
+.page {
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+}

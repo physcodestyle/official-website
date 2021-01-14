@@ -1,0 +1,166 @@
+/* Open Sans Regular (Latin) */
+
+@font-face {
+  font-weight: normal;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/opensans-regular-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Open Sans Regular (Latin Extended) */
+
+@font-face {
+  font-weight: normal;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/opensans-regular-latin-extended.woff2') format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* Open Sans Regular (Cyrillic) */
+
+@font-face {
+  font-weight: normal;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/opensans-regular-cyrillic.woff2') format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* Open Sans Bold (Latin) */
+
+@font-face {
+  font-weight: bold;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/opensans-bold-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Open Sans Bold (Latin Extended) */
+
+@font-face {
+  font-weight: bold;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/opensans-bold-latin-extended.woff2') format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* Open Sans Bold (Cyrillic) */
+
+@font-face {
+  font-weight: bold;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/opensans-bold-cyrillic.woff2') format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* Open Sans Italic (Latin) */
+
+@font-face {
+  font-weight: normal;
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-display: swap;
+  src: url('/fonts/opensans-italic-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Open Sans Italic (Latin Extended) */
+
+@font-face {
+  font-weight: normal;
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-display: swap;
+  src: url('/fonts/opensans-italic-latin-extended.woff2') format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* Open Sans Italic (Cyrillic) */
+
+@font-face {
+  font-weight: normal;
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-display: swap;
+  src: url('/fonts/opensans-italic-cyrillic.woff2') format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* Fira Sans Bold (Latin) */
+
+@font-face {
+  font-weight: bold;
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/firasans-bold-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Fira Sans Bold (Latin Extended) */
+
+@font-face {
+  font-weight: bold;
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/firasans-bold-latin-extended.woff2') format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* Fira Sans Bold (Cyrillic) */
+
+@font-face {
+  font-weight: bold;
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/firasans-bold-cyrillic.woff2') format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* Fira Sans Light (Latin) */
+
+@font-face {
+  font-weight: lighter;
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/firasans-light-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Fira Sans Light (Latin Extended) */
+
+@font-face {
+  font-weight: lighter;
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/firasans-light-latin-extended.woff2') format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* Fira Sans Light (Cyrillic) */
+
+@font-face {
+  font-weight: lighter;
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/firasans-light-cyrillic.woff2') format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
