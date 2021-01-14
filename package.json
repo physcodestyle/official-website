@@ -7,7 +7,7 @@
     "start": "eleventy --serve --quiet",
     "build": "eleventy",
     "editorconfig": "editorconfig-checker",
-    "markdown": "remark 'src/content/**/*.md' --quiet",
+    "markdown": "remark 'src/pages/**/*.md' --quiet",
     "html": "node-w3c-validator -i ./dist/**/*.html -f lint -evH"
   },
   "repository": {

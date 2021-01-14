@@ -18,7 +18,7 @@ matrix:
       - pre
   sources:
   - 'README.md'
-  - 'src/content/**/*.ru.md'
+  - 'src/pages/**/*.ru.md'
   default_encoding: utf-8
 - name: EN_Markdown
   group: en_spelling
@@ -38,5 +38,5 @@ matrix:
       - code
       - pre
   sources:
-  - 'src/content/**/*.en.md'
+  - 'src/pages/**/*.en.md'
   default_encoding: utf-8
