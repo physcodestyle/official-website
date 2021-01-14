@@ -205,12 +205,16 @@ Fedor
 Fedorov
 Fedorova
 Fedotovich
+FEFF
 Feinstein
 Feoktistova
+FFFD
 FGU
 fi
 Fi
 FINA
+Fira
+FiraSans
 fizfac
 fizfak
 fluorographic
@@ -246,6 +250,8 @@ GivingTuesday
 GKclf
 GKcpL
 gl
+glyphhanger
+glyphy
 gmail
 GNIIT
 goda
@@ -401,6 +407,7 @@ Labinskom
 LabView
 LabVIEW
 lasertag
+LatinExtended
 Latyshev
 Latysheva
 LCA
@@ -467,6 +474,7 @@ MSU
 multicharged
 multicomponent
 Muzer
+mv
 na
 nano
 nanoclusters
@@ -515,6 +523,7 @@ OneNote
 ONU
 OOO
 OOP
+OpenSans
 OpenShift
 optoelectronic
 optoelectronics
@@ -742,6 +751,7 @@ TRP
 Tryphonov
 TSU
 Tsyplakov
+ttf
 TTN
 tvoystart
 Tymoshenko
@@ -811,6 +821,7 @@ wi
 Wi
 wideband
 Wien
+woff
 WTC
 wTGDF
 Wurzburg
