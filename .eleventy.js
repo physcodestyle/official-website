@@ -9,7 +9,6 @@ module.exports = (config) => {
   config.addPassthroughCopy('src/assets');
   config.addPassthroughCopy('src/images');
   config.addPassthroughCopy('src/scripts');
-  config.addPassthroughCopy('src/styles');
 
   config.addNunjucksShortcode('menuChapter', (language, mode) => {
     let menu = (mode === 'nav' ? `<li class="menu">` : `<div class="menu">`);
