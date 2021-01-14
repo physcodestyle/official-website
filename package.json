@@ -36,6 +36,7 @@
     "editorconfig-checker": "^3.3.0",
     "eslint": "^7.17.0",
     "eslint-config-google": "^0.14.0",
+    "gulp": "^4.0.2",
     "html-minifier": "^4.0.0",
     "markdownlint": "^0.22.0",
     "node-w3c-validator": "^2.0.1",
