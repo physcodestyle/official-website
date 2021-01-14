@@ -32,7 +32,9 @@ for (font of fontNames) {
   for (style of fontSet[font]) {
     for (glyph of glyphSet) {
       const file = fs.readFileSync(`./src/fonts/${font}/${font.replace('_', '')}-${style}-${glyph}.ttf`);
-      fs.writeFileSync(`./dist/fonts/${font.replace('_', '')}-${style}-${glyph}.woff2`, ttf2woff2(file));
+      fs.writeFileSync(
+        `./dist/fonts/${font.replace('_', '').toLowerCase()}-${style.toLowerCase()}-${glyph.toLowerCase()}.woff2`,
+        ttf2woff2(file));
     }
   }
 }
