@@ -7,6 +7,7 @@ module.exports = (config) => {
   config.addPassthroughCopy('src/favicon.ico');
   config.addPassthroughCopy('src/api');
   config.addPassthroughCopy('src/assets');
+  config.addPassthroughCopy('src/fonts');
   config.addPassthroughCopy('src/images');
   config.addPassthroughCopy('src/scripts');
   config.addPassthroughCopy('src/styles');
