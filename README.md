@@ -2,6 +2,7 @@
 ![Spellcheck](https://github.com/physcodestyle/official-website/workflows/Spellcheck/badge.svg)
 ![Markdown](https://github.com/physcodestyle/official-website/workflows/Markdown/badge.svg)
 ![HTML](https://github.com/physcodestyle/official-website/workflows/HTML/badge.svg)
+![CSS](https://github.com/physcodestyle/official-website/workflows/CSS/badge.svg)
 
 # Сайт Физического факультета ВГУ
 
