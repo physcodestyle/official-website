@@ -54,6 +54,8 @@
     "remark-lint-ordered-list-marker-value": "^2.0.1",
     "remark-lint-strong-marker": "^2.0.1",
     "remark-lint-unordered-list-marker-style": "^2.0.1",
+    "stylelint": "^13.8.0",
+    "stylelint-order": "^4.1.0",
     "ttf2woff2": "^4.0.1",
     "typograf": "^6.11.3"
   }
