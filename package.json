@@ -4,8 +4,8 @@
   "description": "The official site of the Physics Faculty of Voronezh State University",
   "main": "index.js",
   "scripts": {
-    "start": "eleventy --serve --quiet",
-    "build": "eleventy",
+    "start": "node .fonts.js && eleventy --serve --quiet",
+    "build": "node .fonts.js && eleventy",
     "editorconfig": "editorconfig-checker",
     "markdown": "remark 'src/pages/**/*.md' --quiet",
     "html": "node-w3c-validator -i ./dist/**/*.html -f lint -evH"
@@ -47,6 +47,7 @@
     "remark-lint-ordered-list-marker-value": "^2.0.1",
     "remark-lint-strong-marker": "^2.0.1",
     "remark-lint-unordered-list-marker-style": "^2.0.1",
+    "ttf2woff2": "^4.0.1",
     "typograf": "^6.11.3"
   }
 }
