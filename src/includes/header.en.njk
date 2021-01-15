@@ -1,10 +1,13 @@
 <header class="header">
-  <nav class="header__navigation"><h2>Menu</h2><ul class="header__navigation-container">{% menuChapter 'en', 'nav' %}</ul></nav>
-  <section class="header__branding">
-    <a class="header__logo-link" href="/">
-      <img class="header__logo" src="/assets/Logo/logo.svg" width="32" height="32" alt="Logo of Physics Faculty" />
-    </a>
-    <a class="header__sitename" href="/">Physics Faculty</a>
+  <section class="header__menu">
+    <button class="header__menu-button button">
+      <img class="header__menu-icon" src="/assets/Logo/logo.svg" width="32" height="32" alt="Logo of Physics Faculty" />
+      <span class="header__menu-title button__title">Menu</span>
+    </button>
   </section>
-  <section class="header__lang">{% languages %}</section>
+  <nav class="header__navigation">
+    <h2 class="header__navigation-title">Physics</h2>
+    <ul class="header__navigation-list">{% menuChapter 'en', 'nav' %}</ul>
+  </nav>
+  <section class="header__language">{% languages 'en' %}</section>
 </header>

@@ -1,0 +1,26 @@
+/* Navigation */
+
+.navigation {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(7, min-content);
+  list-style: none;
+}
+
+h3.navigation__title {
+  font-size: var(--text-size-button);
+  font-weight: lighter;
+  margin: 0;
+}
+
+.navigation__item {
+  list-style: none;
+}
+
+.navigation__list {
+  padding: 0;
+}
+
+.navigation__list--hidden {
+  display: none;
+}

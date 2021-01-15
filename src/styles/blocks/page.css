@@ -3,10 +3,18 @@
 .page,
 .page__body {
   height: 100%;
+  margin: 0;
 }
 
 .page {
-  color: black;
+  color: var(--color-text, black);
   font-family: 'Open Sans', sans-serif;
-  background-color: white;
+  font-weight: normal;
+  background-color: var(--color-background, white);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-text, black);
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: bold;
 }

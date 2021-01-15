@@ -1,0 +1,23 @@
+.button {
+  align-items: center;
+  appearance: none;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  justify-content: flex-start;
+  margin: 0;
+  padding: var(--padding-button, 1em);
+}
+
+.button__title {
+  color: var(--color-text, black);
+  font-size: var(--text-size-button, 1em);
+  font-weight: lighter;
+  line-height: 1;
+  margin-left: .5em;
+  text-transform: uppercase;
+}
+
+.button--accent {
+  background-color: var(--color-accent, yellow);
+}

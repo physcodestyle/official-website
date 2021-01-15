@@ -1,10 +1,13 @@
 <header class="header">
-  <nav class="header__navigation"><h2>Меню</h2><ul class="header__navigation-container">{% menuChapter 'ru', 'nav' %}</ul></nav>
-  <section class="header__branding">
-    <a class="header__logo-link" href="/">
-      <img class="header__logo" src="/assets/Logo/logo.svg" width="32" height="32" alt="Логотип сайта Физческого факультета" />
-    </a>
-    <a class="header__sitename" href="/">Физический факультет</a>
+  <section class="header__menu">
+    <button class="header__menu-button button">
+      <img class="header__menu-icon" src="/assets/Logo/logo.svg" width="32" height="32" alt="Меню сайта Физческого факультета" />
+      <span class="header__menu-title button__title">Меню</span>
+    </button>
   </section>
-  <section class="header__lang">{% languages %}</section>
+  <nav class="header__navigation">
+    <h2 class="header__navigation-title">ФизФак</h2>
+    <ul class="header__navigation-list">{% menuChapter 'ru', 'nav' %}</ul>
+  </nav>
+  <section class="header__language">{% languages 'ru' %}</section>
 </header>

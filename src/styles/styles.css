@@ -5,4 +5,32 @@
 /* Blocks */
 
 @import 'blocks/box-sizing.css';
+@import 'blocks/visually-hidden.css';
+@import 'blocks/button.css';
 @import 'blocks/page.css';
+@import 'blocks/header.css';
+@import 'blocks/languages.css';
+@import 'blocks/navigation.css';
+
+:root {
+  --color-accent: #F6E501;
+  --color-background: #FFFFFF;
+  --color-dark: #A5A9AA;
+  --color-light: #E7E9E6;
+  --color-primary: #0057A1;
+  --color-secondary: #7CB3D2;
+  --color-text: #2A2D2D;
+
+  --text-size-button: 1em;
+  --text-size-header-1: 2em;
+  --text-size-header-2: 1.5em;
+  --text-size-header-3: 1.17em;
+  --text-size-header-4: 1em;
+  --text-size-header-5: 0.83em;
+  --text-size-header-6: 0.67em;
+  --text-size-title: 1.17em;
+  --text-size-paragraph: 1em;
+
+  --padding-button: .625em;
+  --padding-default: 1em;
+}

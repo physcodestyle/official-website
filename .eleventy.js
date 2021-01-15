@@ -14,7 +14,7 @@ module.exports = (config) => {
     let menu = (mode === 'nav' ? `<li class="navigation">` : `<div class="navigation">`);
     for(chapter of menuJson[language]) {
       if (mode === 'nav') {
-        menu += `<h3 class="navigation__title">${chapter['title']}</h3><ul class="navigation__list">`;
+        menu += `<h3 class="navigation__title">${chapter['title']}</h3><ul class="navigation__list` + (mode === 'nav' ? ` navigation__list--hidden">` : `">`);
       } else {
         menu += `<p class="navigation__title">${chapter['title']}</p><ul class="navigation__list">`;
       }
@@ -27,8 +27,22 @@ module.exports = (config) => {
     return menu;
   });
 
-  config.addNunjucksShortcode('languages', () => {
-    return `<div class="languages"><div class="languages__flag languages__flag--ru"></div><div class="languages__flag languages__flag--en"></div></div>`;
+  config.addNunjucksShortcode('languages', (language) => {
+    let lang = `<div class="languages">`;
+    switch (language) {
+      case 'en':
+        lang += `<a class="languages__flag" href="/">
+          <img class="languages__flag-icon" src="/assets/Icon/Flag/RU.svg" width="24" height="24" alt="На русском языке" />
+        </a>`;
+        break;
+      case 'ru':
+        lang += `<a class="languages__flag" href="/en/">
+          <img class="languages__flag-icon" src="/assets/Icon/Flag/GB.svg" width="24" height="24" alt="In English" />
+        </a>`;
+        break;
+    }
+    lang += `</div>`;
+    return lang;
   });
 
   config.addNunjucksShortcode('copyright', (language) => {
