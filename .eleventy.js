@@ -11,15 +11,15 @@ module.exports = (config) => {
   config.addPassthroughCopy('src/scripts');
 
   config.addNunjucksShortcode('menuChapter', (language, mode) => {
-    let menu = (mode === 'nav' ? `<li class="menu">` : `<div class="menu">`);
+    let menu = (mode === 'nav' ? `<li class="navigation">` : `<div class="navigation">`);
     for(chapter of menuJson[language]) {
       if (mode === 'nav') {
-        menu += `<h3 class="menu__title">${chapter['title']}</h3><ul class="menu__list">`;
+        menu += `<h3 class="navigation__title">${chapter['title']}</h3><ul class="navigation__list">`;
       } else {
-        menu += `<p class="menu__title">${chapter['title']}</p><ul class="menu__list">`;
+        menu += `<p class="navigation__title">${chapter['title']}</p><ul class="navigation__list">`;
       }
       for (item of chapter['menu']) {
-        menu += `<li class="menu__item"><a href="${item['url']}">${item['title']}</a></li>`;
+        menu += `<li class="navigation__item"><a href="${item['url']}">${item['title']}</a></li>`;
       }
       menu += `</ul>`;
     }
