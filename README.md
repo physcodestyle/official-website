@@ -10,6 +10,19 @@
 
 Репозиторий представляет собой набор файлов с содержимым сайта (тексты в формате [Markdown](https://www.markdownguide.org/basic-syntax/), картинки в высоком разрешении) и шаблоны страниц для сборки статического сайта с помощью генератора [Eleventy](https://www.11ty.dev).
 
+## Содержание
+
+* [Дизайн сайта](https://github.com/physcodestyle/official-website#дизайн-сайта)
+* [Работа с репозиторием](https://github.com/physcodestyle/official-website#работа-с-репозиторием)
+  * [Работа в контейнере](https://github.com/physcodestyle/official-website#работа-в-контейнере)
+  * [Процесс разработки](https://github.com/physcodestyle/official-website#процесс-разработки)
+  * [Технологии, применяемые на сайте](https://github.com/physcodestyle/official-website#технологии-применяемые-на-сайте)
+    * [Поддерживаемые браузеры](https://github.com/physcodestyle/official-website#поддерживаемые-браузеры)
+    * [Поддержка шрифтов](https://github.com/physcodestyle/official-website#поддержка-шрифтов)
+    * [Проверка текстов](https://github.com/physcodestyle/official-website#проверка-текстов)
+    * [Принципы верстки](https://github.com/physcodestyle/official-website#принципы-верстки)
+* [Контакты](https://github.com/physcodestyle/official-website#контакты)
+
 ## Дизайн сайта
 
 В основе дизайна лежат современные принцинпы построения интерфейса, реализованы лучшие практики. Все предложения по дизайну в целом и отдельным его элементам просьба отправлять по адресу, указанному в разделе [Контакты](https://github.com/physcodestyle/official-website#контакты).
