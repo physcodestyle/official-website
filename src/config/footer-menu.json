@@ -2,6 +2,7 @@
   "ru": [
     {
       "title": "Абитуриентам",
+      "link": "/entrants.html",
       "menu": [
         {
           "title": "О факультете",
@@ -31,6 +32,7 @@
     },
     {
       "title": "Студентам",
+      "link": "/students.html",
       "menu": [
         {
           "title": "Сессия",
@@ -60,6 +62,7 @@
     },
     {
       "title": "Аспирантам",
+      "link": "/postgraduates.html",
       "menu": [
         {
           "title": "Новости",
@@ -85,6 +88,7 @@
     },
     {
       "title": "Выпускникам",
+      "link": "/alumni.html",
       "menu": [
         {
           "title": "Встречи",
@@ -106,9 +110,10 @@
     },
     {
       "title": "Преподавателям",
+      "link": "/teachers.html",
       "menu": [
         {
-          "title": "Web of science",
+          "title": "Web of Science",
           "url": "http://apps.webofknowledge.com/"
         },
         {
@@ -130,10 +135,6 @@
         {
           "title": "Документы",
           "url": "http://www.edu.vsu.ru/course/view.php?id=2941#section-2"
-        },
-        {
-          "title": "Командировка",
-          "url": "https://www.infosys.vsu.ru/index_is.phtml?f=./documents/mission_declaration_copy/mission_declaration.php&id_for=504&log=as_all"
         }
       ]
     },
@@ -162,6 +163,7 @@
   "en": [
     {
       "title": "Entrants",
+      "link": "/en/entrants.html",
       "menu": [
         {
           "title": "About the faculty",
@@ -191,6 +193,7 @@
     },
     {
       "title": "Students",
+      "link": "/en/students.html",
       "menu": [
         {
           "title": "Session",
@@ -220,6 +223,7 @@
     },
     {
       "title": "Postgraduates",
+      "link": "/en/postgraduates.html",
       "menu": [
         {
           "title": "News",
@@ -245,6 +249,7 @@
     },
     {
       "title": "Graduates",
+      "link": "/en/alumni.html",
       "menu": [
         {
           "title": "Meetings",
@@ -266,6 +271,7 @@
     },
     {
       "title": "Teachers",
+      "link": "/en/teachers.html",
       "menu": [
         {
           "title": "Web of science",
@@ -290,10 +296,6 @@
         {
           "title": "Documents",
           "url": "http://www.edu.vsu.ru/course/view.php?id=2941#section-2"
-        },
-        {
-          "title": "Mission",
-          "url": "https://www.infosys.vsu.ru/index_is.phtml?f=./documents/mission_declaration_copy/mission_declaration.php&id_for=504&log=as_all"
         }
       ]
     },

@@ -9,12 +9,18 @@ module.exports = (config) => {
   config.addPassthroughCopy('src/assets');
   config.addPassthroughCopy('src/images');
   config.addPassthroughCopy('src/scripts');
+
+  // Footer Menu
   config.addNunjucksShortcode('footerMenu', (language) => {
     let menu = `<ul class="footer-menu">`;
     for(chapter of footerMenuJson[language]) {
-      menu += `<li class="footer-menu__chapter">
-      <p class="footer-menu__chapter-title">${chapter['title']}</p>
-      <ul class="footer-menu__list">`;
+      menu += `<li class="footer-menu__chapter">`;
+      if (chapter['link']) {
+        menu += `<a class="footer-menu__chapter-title" href="${chapter['link']}" title="${chapter['title']}">${chapter['title']}</a>`;
+      } else {
+        menu += `<p class="footer-menu__chapter-title">${chapter['title']}</p>`;
+      }
+      menu += `<ul class="footer-menu__list">`;
       for (item of chapter['menu']) {
         menu += `<li class="footer-menu__item">
           <a class="footer-menu__item-title" href="${item['url']}">${item['title']}</a>
@@ -26,17 +32,18 @@ module.exports = (config) => {
     return menu;
   });
 
+  // Language Selector
   config.addNunjucksShortcode('languages', (language) => {
     let lang = `<div class="languages">`;
     switch (language) {
       case 'en':
-        lang += `<a class="languages__flag" href="/">
-          <img class="languages__flag-icon" src="/assets/Icon/Flag/RU.svg" width="24" height="24" alt="На русском языке" />
+        lang += `<a class="languages__flag button button--sticky" href="/">
+          <img class="languages__flag-icon button-icon" src="/assets/Icon/Flag/RU.svg" width="24" height="24" alt="На русском языке" />
         </a>`;
         break;
       case 'ru':
-        lang += `<a class="languages__flag" href="/en/">
-          <img class="languages__flag-icon" src="/assets/Icon/Flag/GB.svg" width="24" height="24" alt="In English" />
+        lang += `<a class="languages__flag button button--sticky" href="/en/">
+          <img class="languages__flag-icon button-icon" src="/assets/Icon/Flag/GB.svg" width="24" height="24" alt="In English" />
         </a>`;
         break;
     }
@@ -44,6 +51,7 @@ module.exports = (config) => {
     return lang;
   });
 
+  // Copyright
   config.addNunjucksShortcode('copyright', (language) => {
     switch (language) {
       case 'en': return `© ${new Date().getFullYear()}, Physics Faculty of VSU`;
@@ -51,10 +59,11 @@ module.exports = (config) => {
     }
   });
 
+  // Address
   config.addNunjucksShortcode('address', (language) => {
     switch (language) {
-      case 'en': return `<a href="https://yandex.ru/maps/-/CGHl4S8j">394018, Voronezh, Universitetskaya square, 1, r. 238</a>`;
-      case 'ru': return `<a href="https://goo.gl/maps/rvsJQgLD9DkFbfts8">394018, г. Воронеж, Университетская пл., 1, к. 238</a>`;
+      case 'en': return `<a href="https://yandex.ru/maps/-/CGHl4S8j" title="Show on map">394018, Voronezh, Universitetskaya square, 1, r. 238</a>`;
+      case 'ru': return `<a href="https://goo.gl/maps/rvsJQgLD9DkFbfts8" title="Показать на карте">394018, г. Воронеж, Университетская пл., 1, к. 238</a>`;
     }
   });
 

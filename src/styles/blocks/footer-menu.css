@@ -2,39 +2,65 @@
 
 .footer-menu {
   display: grid;
-  grid-auto-flow: row;
+  grid-template-rows: repeat(3, auto);
+  grid-template-columns: repeat(2, auto);
+  grid-gap: 24px;
   margin: 0;
-  padding: 0;
+  padding: 1em 0;
+}
+
+@media (min-width: 456px) {
+  .footer-menu {
+    grid-template-rows: repeat(2, auto);
+    grid-template-columns: repeat(3, auto);
+  }
+}
+
+@media (min-width: 740px) {
+  .footer-menu {
+    grid-gap: 8px;
+    grid-template-columns: auto;
+    grid-template-rows: repeat(6, auto);
+  }
 }
 
 .footer-menu__chapter {
+  display: grid;
+  grid-gap: 8px;
+  grid-template-rows: min-content min-content;
   list-style: none;
+  justify-content: flex-start;
 }
 
-.footer-menu__chapter::after {
-  content: ' ';
-  background-image: url('/assets/Icon/ArrowDown.svg');
-  background-size: 24px 24px;
-  background-position: 0 0;
-  width: 24px;
-  height: 24px;
-}
-
-.footer-menu__chapter--opened {
-
+@media (min-width: 740px) {
+  .footer-menu__chapter {
+    grid-gap: 16px;
+    grid-template-rows: min-content;
+    grid-template-columns: min-content auto;
+    justify-content: center;
+  }
 }
 
 .footer-menu__chapter-title {
-  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 0;
 }
+
 .footer-menu__list {
-  display: none;
+  display: grid;
+  grid-gap: 8px;
+  grid-auto-flow: row;
+  justify-content: flex-start;
   margin: 0;
   padding: 0;
 }
 
-.footer-menu__chapter--opened .footer-menu__list {
-  display: grid;
+@media (min-width: 740px) {
+  .footer-menu__list {
+    grid-gap: 16px;
+    grid-auto-flow: column;
+  }
 }
 
 .footer-menu__item {
@@ -42,5 +68,5 @@
 }
 
 .footer-menu__item-title {
-
+  text-decoration: none;
 }
