@@ -10,7 +10,6 @@
 @import 'blocks/page.css';
 @import 'blocks/header.css';
 @import 'blocks/languages.css';
-@import 'blocks/navigation.css';
 
 :root {
   --color-accent: #F6E501;

@@ -1,7 +1,7 @@
 const htmlmin = require('html-minifier');
 
 // Importing configs
-const menuJson = require('./src/config/menu.json');
+const footerMenuJson = require('./src/config/footer-menu.json');
 
 module.exports = (config) => {
   config.addPassthroughCopy('src/favicon.ico');
@@ -10,20 +10,16 @@ module.exports = (config) => {
   config.addPassthroughCopy('src/images');
   config.addPassthroughCopy('src/scripts');
 
-  config.addNunjucksShortcode('menuChapter', (language, mode) => {
-    let menu = (mode === 'nav' ? `<li class="navigation">` : `<div class="navigation">`);
-    for(chapter of menuJson[language]) {
-      if (mode === 'nav') {
-        menu += `<h3 class="navigation__title">${chapter['title']}</h3><ul class="navigation__list` + (mode === 'nav' ? ` navigation__list--hidden">` : `">`);
-      } else {
-        menu += `<p class="navigation__title">${chapter['title']}</p><ul class="navigation__list">`;
-      }
+  config.addNunjucksShortcode('footerMenu', (language) => {
+    let menu = `<div class="footer-menu">`;
+    for(chapter of footerMenuJson[language]) {
+      `<p class="footer-menu__title">${chapter['title']}</p><ul class="footer-menu__list">`;
       for (item of chapter['menu']) {
-        menu += `<li class="navigation__item"><a href="${item['url']}">${item['title']}</a></li>`;
+        menu += `<li class="footer-menu__item"><a href="${item['url']}">${item['title']}</a></li>`;
       }
       menu += `</ul>`;
     }
-    menu += (mode === 'nav' ? `</li>` : `</div>`);
+    menu += `</div>`;
     return menu;
   });
 
