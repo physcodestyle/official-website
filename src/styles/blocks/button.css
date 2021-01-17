@@ -1,12 +1,19 @@
+/* Button */
+
 .button {
   align-items: center;
   appearance: none;
   background-color: transparent;
   border: none;
-  display: flex;
-  justify-content: flex-start;
+  display: grid;
+  grid-gap: 4px;
+  grid-auto-flow: column;
   margin: 0;
-  padding: var(--padding-button, 1em);
+  padding: var(--padding-button, 4px);
+}
+
+.button__icon {
+  object-fit: contain;
 }
 
 .button__title {
@@ -14,10 +21,33 @@
   font-size: var(--text-size-button, 1em);
   font-weight: lighter;
   line-height: 1;
-  margin-left: .5em;
   text-transform: uppercase;
 }
 
+/* Button Accented */
+
 .button--accent {
   background-color: var(--color-accent, yellow);
+}
+
+/* Button in Header */
+
+.button--header {
+  padding: var(--padding-button, 4px) 0;
+}
+
+.button--header .button__title {
+  display: none;
+}
+
+@media (min-width: 392px) {
+  .button--header .button__title {
+    display: block;
+  }
+}
+
+@media (min-width: 802px) {
+  .button--header .button__title {
+    display: none;
+  }
 }
