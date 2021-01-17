@@ -95,7 +95,6 @@
 
 @media (min-width: 802px) {
   .header__navigation-list {
-    display: flex;
     align-items: center;
     margin: 0;
     padding: 0;
