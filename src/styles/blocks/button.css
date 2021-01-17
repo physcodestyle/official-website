@@ -2,10 +2,10 @@
 
 .button {
   align-items: center;
-  appearance: none;
   background-color: transparent;
-  border: none;
+  appearance: none;
   display: grid;
+  border: none;
   grid-gap: 4px;
   grid-auto-flow: column;
   margin: 0;
@@ -18,8 +18,8 @@
 
 .button__title {
   color: var(--color-text, black);
-  font-size: var(--text-size-button, 1em);
   font-weight: lighter;
+  font-size: var(--text-size-button, 1em);
   line-height: 1;
   text-transform: uppercase;
 }
