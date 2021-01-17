@@ -62,8 +62,8 @@ module.exports = (config) => {
   // Address
   config.addNunjucksShortcode('address', (language) => {
     switch (language) {
-      case 'en': return `<a href="https://yandex.ru/maps/-/CGHl4S8j" title="Show on map">394018, Voronezh, Universitetskaya&nbsp;square,&nbsp;1,&nbsp;r.&nbsp;238</a>`;
-      case 'ru': return `<a href="https://goo.gl/maps/rvsJQgLD9DkFbfts8" title="Показать на карте">394018, г. Воронеж, Университетская&nbsp;пл.,&nbsp;1,&nbsp;к.&nbsp;238</a>`;
+      case 'en': return `<a class="address__link" target="blank_" href="https://goo.gl/maps/rvsJQgLD9DkFbfts8" title="Show on map">394018, Voronezh, Universitetskaya&nbsp;square,&nbsp;1,&nbsp;r.&nbsp;238</a>`;
+      case 'ru': return `<a class="address__link" target="blank_" href="https://yandex.ru/maps/-/CGHl4S8j" title="Показать на карте">394018, г. Воронеж, Университетская&nbsp;пл.,&nbsp;1,&nbsp;к.&nbsp;238</a>`;
     }
   });
 
