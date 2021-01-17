@@ -1,0 +1,46 @@
+/* Footer Menu */
+
+.footer-menu {
+  display: grid;
+  grid-auto-flow: row;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-menu__chapter {
+  list-style: none;
+}
+
+.footer-menu__chapter::after {
+  content: ' ';
+  background-image: url('/assets/Icon/ArrowDown.svg');
+  background-size: 24px 24px;
+  background-position: 0 0;
+  width: 24px;
+  height: 24px;
+}
+
+.footer-menu__chapter--opened {
+
+}
+
+.footer-menu__chapter-title {
+  text-transform: uppercase;
+}
+.footer-menu__list {
+  display: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-menu__chapter--opened .footer-menu__list {
+  display: grid;
+}
+
+.footer-menu__item {
+  list-style: none;
+}
+
+.footer-menu__item-title {
+
+}

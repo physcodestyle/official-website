@@ -15,8 +15,8 @@
 
 .page__body {
   display: grid;
-  justify-items: center;
   grid-auto-flow: row;
+  justify-items: center;
 }
 
 h1, h2, h3, h4, h5, h6 {

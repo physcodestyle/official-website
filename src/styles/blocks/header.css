@@ -2,8 +2,8 @@
 
 .header {
   display: grid;
-  align-items: center;
   grid-template-rows: 64px;
+  align-items: center;
   grid-template-columns: 32px auto 32px;
   width: 100vw;
   max-width: 1440px;
@@ -64,9 +64,9 @@
 }
 
 .header__navigation-subtitle {
-  font-size: var(--text-size-button, 1em);
-  font-weight: lighter;
   margin: 0;
+  font-weight: lighter;
+  font-size: var(--text-size-button, 1em);
 }
 
 .header__navigation-subtitle:hover {
@@ -96,10 +96,10 @@
 
 .header__navigation-title {
   display: flex;
-  align-items: center;
   justify-content: center;
-  font-size: var(--text-size-title, 1.17em);
+  align-items: center;
   margin: 0;
+  font-size: var(--text-size-title, 1.17em);
   text-align: center;
   text-transform: uppercase;
 }
@@ -114,6 +114,6 @@
 
 .header__language {
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
 }

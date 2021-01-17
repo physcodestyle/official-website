@@ -1,14 +1,14 @@
 /* Button */
 
 .button {
-  cursor: pointer;
   align-items: center;
+  cursor: pointer;
   background-color: transparent;
-  appearance: none;
   display: grid;
-  border: none;
-  grid-gap: 4px;
+  appearance: none;
   grid-auto-flow: column;
+  grid-gap: 4px;
+  border: none;
   margin: 0;
   padding: var(--padding-button, 4px);
 }
