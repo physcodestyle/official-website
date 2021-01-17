@@ -52,13 +52,29 @@
 .header__navigation-title {
   margin: 0;
   font-weight: bold;
-  font-size: var(--text-size-title);
+  font-size: var(--text-size-title, 1.17em);
+}
+
+.header__navigation-title:hover {
+  color: var(--color-dark, darkgrey);
+}
+
+.header__navigation-link {
+  text-decoration: none;
 }
 
 .header__navigation-subtitle {
-  font-size: var(--text-size-button);
+  font-size: var(--text-size-button, 1em);
   font-weight: lighter;
   margin: 0;
+}
+
+.header__navigation-subtitle:hover {
+  color: var(--color-dark, darkgrey);
+}
+
+.header__navigation-link:active .header__navigation-subtitle {
+  font-weight: bold;
 }
 
 .header__navigation-item {

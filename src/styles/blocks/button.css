@@ -1,6 +1,7 @@
 /* Button */
 
 .button {
+  cursor: pointer;
   align-items: center;
   background-color: transparent;
   appearance: none;

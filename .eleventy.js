@@ -9,17 +9,20 @@ module.exports = (config) => {
   config.addPassthroughCopy('src/assets');
   config.addPassthroughCopy('src/images');
   config.addPassthroughCopy('src/scripts');
-
   config.addNunjucksShortcode('footerMenu', (language) => {
-    let menu = `<div class="footer-menu">`;
+    let menu = `<ul class="footer-menu">`;
     for(chapter of footerMenuJson[language]) {
-      `<p class="footer-menu__title">${chapter['title']}</p><ul class="footer-menu__list">`;
+      menu += `<li class="footer-menu__chapter">
+      <p class="footer-menu__chapter-title">${chapter['title']}</p>
+      <ul class="footer-menu__list">`;
       for (item of chapter['menu']) {
-        menu += `<li class="footer-menu__item"><a href="${item['url']}">${item['title']}</a></li>`;
+        menu += `<li class="footer-menu__item">
+          <a class="footer-menu__item-title" href="${item['url']}">${item['title']}</a>
+        </li>`;
       }
-      menu += `</ul>`;
+      menu += `</ul></li>`;
     }
-    menu += `</div>`;
+    menu += `</ul>`;
     return menu;
   });
 
