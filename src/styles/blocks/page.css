@@ -13,6 +13,12 @@
   background-color: var(--color-background, white);
 }
 
+.page__body {
+  justify-items: center;
+  display: grid;
+  grid-auto-flow: row;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color: var(--color-text, black);
   font-family: 'Fira Sans', sans-serif;
