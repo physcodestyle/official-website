@@ -1,16 +1,16 @@
 /* Button */
 
 .button {
-  align-items: center;
-  cursor: pointer;
-  background-color: transparent;
   display: grid;
-  appearance: none;
   grid-auto-flow: column;
+  align-items: center;
   grid-gap: 4px;
-  border: none;
   margin: 0;
   padding: var(--padding-button, 4px);
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  appearance: none;
 }
 
 .button:focus {

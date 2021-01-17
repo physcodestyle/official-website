@@ -2,9 +2,9 @@
 
 .footer {
   display: grid;
+  grid-auto-flow: row;
   align-items: flex-start;
   grid-gap: 8px;
-  grid-auto-flow: row;
   width: 100vw;
   max-width: 1440px;
   padding: 0 var(--padding-default, 1em);

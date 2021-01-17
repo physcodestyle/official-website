@@ -18,48 +18,48 @@
 
 @media (min-width: 740px) {
   .footer-menu {
-    grid-gap: 8px;
-    grid-template-columns: auto;
     grid-template-rows: repeat(6, auto);
+    grid-template-columns: auto;
+    grid-gap: 8px;
   }
 }
 
 .footer-menu__chapter {
   display: grid;
-  grid-gap: 8px;
   grid-template-rows: min-content min-content;
-  list-style: none;
   justify-content: flex-start;
+  grid-gap: 8px;
+  list-style: none;
 }
 
 @media (min-width: 740px) {
   .footer-menu__chapter {
-    grid-gap: 16px;
     grid-template-rows: min-content;
     grid-template-columns: min-content auto;
     justify-content: center;
+    grid-gap: 16px;
   }
 }
 
 .footer-menu__chapter-title {
+  margin: 0;
   font-weight: bold;
   text-decoration: none;
-  margin: 0;
 }
 
 .footer-menu__list {
   display: grid;
-  grid-gap: 8px;
   grid-auto-flow: row;
   justify-content: flex-start;
+  grid-gap: 8px;
   margin: 0;
   padding: 0;
 }
 
 @media (min-width: 740px) {
   .footer-menu__list {
-    grid-gap: 16px;
     grid-auto-flow: column;
+    grid-gap: 16px;
   }
 }
 

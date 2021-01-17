@@ -3,8 +3,8 @@
 .languages, .languages__flag {
   display: flex;
   justify-content: center;
-  align-items: center;
   justify-self: center;
+  align-items: center;
 }
 
 .languages__flag-icon {

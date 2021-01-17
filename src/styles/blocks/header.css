@@ -3,8 +3,8 @@
 .header {
   display: grid;
   grid-template-rows: 64px;
-  align-items: center;
   grid-template-columns: 32px auto 32px;
+  align-items: center;
   width: 100vw;
   max-width: 1440px;
   padding: 0 var(--padding-default, 1em);
