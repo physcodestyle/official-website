@@ -19,3 +19,11 @@ gulp.task('styles', () => {
 gulp.task('build', gulp.series(
   'styles',
 ));
+
+// Watch
+
+gulp.task('watch', () => {
+  gulp.watch('src/styles/**/*.css', gulp.series(
+    'styles',
+  ));
+});
