@@ -16,7 +16,7 @@
   }
 }
 
-@media (min-width: 800px) {
+@media (min-width: 802px) {
   .footer-menu {
     grid-template-rows: repeat(6, auto);
     grid-template-columns: auto;
@@ -32,7 +32,7 @@
   list-style: none;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 802px) {
   .footer-menu__chapter {
     grid-template-rows: min-content;
     grid-template-columns: min-content auto;
@@ -56,7 +56,7 @@
   padding: 0;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 802px) {
   .footer-menu__list {
     grid-auto-flow: column;
     grid-gap: 16px;

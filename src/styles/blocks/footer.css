@@ -10,7 +10,7 @@
   padding: 0 var(--padding-default, 1em);
 }
 
-@media (min-width: 800px) {
+@media (min-width: 802px) {
   .footer {
     grid-template: 'menu menu menu menu' 'address address copyright language';
     grid-template-rows: repeat(2, auto);
@@ -33,7 +33,7 @@
   align-self: center;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 802px) {
   .footer__copyright {
     justify-content: flex-end;
   }
