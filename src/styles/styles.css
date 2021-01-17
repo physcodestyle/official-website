@@ -5,11 +5,14 @@
 /* Blocks */
 
 @import 'blocks/box-sizing.css';
+@import 'blocks/outline.css';
 @import 'blocks/visually-hidden.css';
 @import 'blocks/button.css';
 @import 'blocks/page.css';
-@import 'blocks/header.css';
 @import 'blocks/languages.css';
+@import 'blocks/header.css';
+@import 'blocks/footer.css';
+@import 'blocks/footer-menu.css';
 
 :root {
   --color-accent: #f6e501;

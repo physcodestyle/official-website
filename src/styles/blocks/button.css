@@ -13,6 +13,10 @@
   padding: var(--padding-button, 4px);
 }
 
+.button:focus {
+  border-bottom: 1px solid var(--color-secondary, lightblue);
+}
+
 .button__icon {
   object-fit: contain;
 }
@@ -25,30 +29,24 @@
   text-transform: uppercase;
 }
 
-/* Button Accented */
+/* Button Stycky */
 
-.button--accent {
-  background-color: var(--color-accent, yellow);
-}
-
-/* Button in Header */
-
-.button--header {
+.button--sticky {
   padding: var(--padding-button, 4px) 0;
 }
 
-.button--header .button__title {
+.button--sticky .button__title {
   display: none;
 }
 
 @media (min-width: 392px) {
-  .button--header .button__title {
+  .button--sticky .button__title {
     display: block;
   }
 }
 
 @media (min-width: 802px) {
-  .button--header .button__title {
+  .button--sticky .button__title {
     display: none;
   }
 }

@@ -2,7 +2,6 @@
 
 .page,
 .page__body {
-  height: 100%;
   margin: 0;
 }
 
@@ -23,4 +22,16 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--color-text, black);
   font-weight: bold;
   font-family: 'Fira Sans', sans-serif;
+}
+
+a {
+  color: var(--color-text, black);
+}
+
+a:hover {
+  color: var(--color-dark, darkgrey);
+}
+
+a:focus {
+  color: var(--color-secondary, lightblue);
 }

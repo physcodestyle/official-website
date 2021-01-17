@@ -59,6 +59,10 @@
   color: var(--color-dark, darkgrey);
 }
 
+.header__navigation-link:focus .header__navigation-title {
+  color: var(--color-secondary, lightblue);
+}
+
 .header__navigation-link {
   text-decoration: none;
 }
@@ -75,6 +79,10 @@
 
 .header__navigation-link:active .header__navigation-subtitle {
   font-weight: bold;
+}
+
+.header__navigation-link:focus .header__navigation-subtitle {
+  color: var(--color-secondary, lightblue);
 }
 
 .header__navigation-item {
