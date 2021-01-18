@@ -19,8 +19,8 @@
 /* Menu */
 
 .header__menu {
-  display: block;
   z-index: 10;
+  display: block;
 }
 
 /* Navigation */
@@ -38,12 +38,12 @@
 }
 
 .header__navigation--open {
-  align-content: center;
-  justify-content: center;
   position: absolute;
-  width: 100vw;
   top: 0;
   left: 0;
+  justify-content: center;
+  align-content: center;
+  width: 100vw;
   height: 100vh;
   background-color: white;
 }
