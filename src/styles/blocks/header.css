@@ -82,7 +82,7 @@
 }
 
 .header__navigation-link:focus .header__navigation-title {
-  color: var(--color-secondary, lightblue);
+  color: var(--color-primary, lightblue);
 }
 
 .header__navigation-link {
@@ -108,7 +108,7 @@
 }
 
 .header__navigation-link:focus .header__navigation-subtitle {
-  color: var(--color-secondary, lightblue);
+  color: var(--color-primary, lightblue);
 }
 
 .header__navigation-item {

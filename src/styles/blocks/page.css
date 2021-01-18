@@ -33,5 +33,5 @@ a:hover {
 }
 
 a:focus {
-  color: var(--color-secondary, lightblue);
+  color: var(--color-primary, lightblue);
 }
