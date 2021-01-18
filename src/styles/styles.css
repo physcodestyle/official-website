@@ -15,13 +15,13 @@
 @import 'blocks/footer-menu.css';
 
 :root {
-  --color-accent: #f6e501;
+  --color-accent: #f5df4d;
   --color-background: #ffffff;
-  --color-dark: #a5a9aa;
-  --color-light: #e7e9e6;
-  --color-primary: #0057a1;
-  --color-secondary: #7cb3d2;
-  --color-text: #2a2d2d;
+  --color-dark: #939597;
+  --color-light: #f0eee9;
+  --color-primary: #8cacd3;
+  --color-secondary: #c2bfb5;
+  --color-text: #363b48;
 
   --text-size-button: 1em;
   --text-size-header-1: 2em;
