@@ -8,7 +8,6 @@ module.exports = (config) => {
   config.addPassthroughCopy('src/api');
   config.addPassthroughCopy('src/assets');
   config.addPassthroughCopy('src/images');
-  config.addPassthroughCopy('src/scripts');
 
   // Footer Menu
   config.addNunjucksShortcode('footerMenu', (language) => {

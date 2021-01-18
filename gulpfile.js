@@ -1,5 +1,7 @@
 const gulp = require('gulp');
 const postcss = require('gulp-postcss');
+const babel = require('gulp-babel');
+const terser = require('gulp-terser');
 
 // Styles
 
@@ -14,10 +16,22 @@ gulp.task('styles', () => {
       .pipe(gulp.dest('dist/styles'));
 });
 
+// Scripts
+
+gulp.task('scripts', () => {
+    return gulp.src('src/scripts/scripts.js')
+        .pipe(babel({
+            presets: ['@babel/preset-env']
+        }))
+        .pipe(terser())
+        .pipe(gulp.dest('dist/scripts'));
+});
+
 // Build
 
 gulp.task('build', gulp.series(
   'styles',
+  'scripts',
 ));
 
 // Watch
@@ -25,5 +39,6 @@ gulp.task('build', gulp.series(
 gulp.task('watch', () => {
   gulp.watch('src/styles/**/*.css', gulp.series(
     'styles',
+    'scripts',
   ));
 });
