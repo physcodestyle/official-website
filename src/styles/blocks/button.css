@@ -9,6 +9,7 @@
   padding: var(--padding-button, 4px);
   background-color: transparent;
   border: none;
+  border-bottom: 1px solid transparent;
   cursor: pointer;
   appearance: none;
 }
