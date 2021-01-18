@@ -38,7 +38,9 @@ gulp.task('build', gulp.series(
 
 gulp.task('watch', () => {
   gulp.watch('src/styles/**/*.css', gulp.series(
-    'styles',
-    'scripts',
+    'styles'
+  ));
+  gulp.watch('src/scripts/**/*.js', gulp.series(
+    'scripts'
   ));
 });
