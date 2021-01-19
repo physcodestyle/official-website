@@ -1,6 +1,6 @@
 ---
 permalink: 'ru/longread/istoriya-faculteta/index.html'
-layout: 'page.ru.njk'
+layout: 'longread.ru.njk'
 aim: 'all'
 title: 'История факультета'
 description: 'Физический факультет существует вот уже 100 лет и...'

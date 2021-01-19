@@ -1,6 +1,6 @@
 ---
 permalink: 'ru/longread/office-365-dlya-studentov/index.html'
-layout: 'page.ru.njk'
+layout: 'longread.ru.njk'
 aim: 'all'
 title: 'Office 365 для студентов'
 description: 'Как студенту бесплатно получить Office 365?'

@@ -1,6 +1,6 @@
 ---
 permalink: 'en/longread/apple-music-so-skidkoy/index.html'
-layout: 'page.en.njk'
+layout: 'longread.en.njk'
 aim: 'all'
 title: 'Apple Music at a Discount'
 description: 'You can use a preferential subscription until the end of your studies at the VSU'

@@ -1,6 +1,6 @@
 ---
 permalink: 'en/longread/ssp-department-overview/index.html'
-layout: 'page.en.njk'
+layout: 'longread.en.njk'
 aim: 'ssp'
 title: 'Solid state physics and nanostructures Department today'
 description: 'The Department was founded in 1936 by Professor M. Levitskaya...'

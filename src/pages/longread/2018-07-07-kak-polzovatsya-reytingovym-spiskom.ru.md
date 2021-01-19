@@ -1,6 +1,6 @@
 ---
 permalink: 'ru/longread/kak-polzovatsya-reytingovym-spiskom/index.html'
-layout: 'page.ru.njk'
+layout: 'longread.ru.njk'
 aim: 'all'
 title: 'Как пользоваться рейтинговым списком?'
 description: 'Рейтинг нужен, чтобы показать ваши шансы на поступление. В первом рейтинге...'

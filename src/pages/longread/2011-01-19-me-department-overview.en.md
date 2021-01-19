@@ -1,6 +1,6 @@
 ---
 permalink: 'en/longread/me-department-overview/index.html'
-layout: 'page.en.njk'
+layout: 'longread.en.njk'
 aim: 'me'
 title: 'Semiconductor and microelectronics physics Department today'
 description: 'The Department was organized in 1959, its first head became...'

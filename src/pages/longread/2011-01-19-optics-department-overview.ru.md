@@ -1,6 +1,6 @@
 ---
 permalink: 'ru/longread/optics-department-overview/index.html'
-layout: 'page.ru.njk'
+layout: 'longread.ru.njk'
 aim: 'optics'
 title: 'Кафедра оптики и спектроскопии сегодня'
 description: 'Кафедра оптики и спектроскопии создана в 1961 году доцентом Елизаветой Николаевной Ивановой'

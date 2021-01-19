@@ -1,6 +1,6 @@
 ---
 permalink: 'ru/longread/thp-department-overview/index.html'
-layout: 'page.ru.njk'
+layout: 'longread.ru.njk'
 aim: 'thp'
 title: 'Кафедра теоретической физики сегодня'
 images:

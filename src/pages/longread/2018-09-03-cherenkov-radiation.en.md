@@ -1,6 +1,6 @@
 ---
 permalink: 'en/longread/cherenkov-radiation/index.html'
-layout: 'page.en.njk'
+layout: 'longread.en.njk'
 aim: 'all'
 title: 'Cherenkov radiation'
 description: 'In 1934, Pavel Cherenkov, performing in the laboratory of S. I. Vavilov studies of luminescence of liquids under...'

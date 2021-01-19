@@ -1,6 +1,6 @@
 ---
 permalink: 'ru/longread/ssp-department-overview/index.html'
-layout: 'page.ru.njk'
+layout: 'longread.ru.njk'
 aim: 'ssp'
 title: 'Кафедра физики твердого тела и наноструктур сегодня'
 description: 'Кафедра была основана в 1936г. профессором М.А. Левитской...'

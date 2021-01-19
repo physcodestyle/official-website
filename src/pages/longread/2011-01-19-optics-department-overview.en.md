@@ -1,6 +1,6 @@
 ---
 permalink: 'en/longread/optics-department-overview/index.html'
-layout: 'page.en.njk'
+layout: 'longread.en.njk'
 aim: 'optics'
 title: 'Optics and spectroscopy Department today'
 description: 'The Optics and spectroscopy Department was established in 1961 by associate Professor Elizaveta Nikolaevna Ivanova'

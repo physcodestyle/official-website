@@ -1,6 +1,6 @@
 ---
 permalink: 'ru/longread/kof-department-overview/index.html'
-layout: 'page.ru.njk'
+layout: 'longread.ru.njk'
 aim: 'kof'
 title: 'Кафедра общей физики сегодня'
 description: 'Кафедра общей физики существовала со дня образования ВГУ. Возглавлял кафедру...'

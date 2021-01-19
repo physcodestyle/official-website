@@ -1,6 +1,6 @@
 ---
 permalink: 'ru/longread/producty-JetBrains-dlya-studentov/index.html'
-layout: 'page.ru.njk'
+layout: 'longread.ru.njk'
 aim: 'all'
 title: 'Продукты JetBrains для студентов'
 description: 'Рассказываем как получить редакторы кода от JetBrains для таких языков как C, Java, Python и др.'

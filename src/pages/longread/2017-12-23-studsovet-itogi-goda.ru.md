@@ -1,6 +1,6 @@
 ---
 permalink: 'ru/longread/studsovet-itogi-goda/index.html'
-layout: 'page.ru.njk'
+layout: 'longread.ru.njk'
 aim: 'all'
 title: 'Студсовет – итоги 2017 года'
 description: 'Рассказывают координаторы направлений'
