@@ -1,0 +1,24 @@
+.content {
+  padding: calc(var(--padding-default, 16px) * 2) var(--padding-default, 16px);
+}
+
+@media (min-width: 680px) {
+  .content {
+    width: 680px;
+    padding: calc(var(--padding-default, 16px) * 2) 0;
+  }
+}
+
+.content h1 {
+  margin: 0 0 8px;
+}
+
+.content h6 {
+  margin: 0 0 32px;
+  color: var(--color-dark, darkgrey);
+}
+
+.content ul {
+  margin: 0;
+  padding: 0 24px;
+}

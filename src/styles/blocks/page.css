@@ -8,8 +8,22 @@
 .page {
   color: var(--color-text, black);
   font-weight: normal;
+  font-size: var(--text-size-paragraph-small, 14px);
   font-family: 'Open Sans', sans-serif;
+  line-height: 1.5;
   background-color: var(--color-background, white);
+}
+
+@media (min-width: 375px) {
+  .page {
+    font-size: var(--text-size-paragraph-medium, 16px);
+  }
+}
+
+@media (min-width: 520px) {
+  .page {
+    font-size: var(--text-size-paragraph-large, 20px);
+  }
 }
 
 .page__body {
@@ -18,10 +32,119 @@
   justify-items: center;
 }
 
+.page__content {
+  display: grid;
+  justify-content: center;
+}
+
 h1, h2, h3, h4, h5, h6 {
+  margin: var(--padding-default, 16px) 0;
   color: var(--color-text, black);
-  font-weight: bold;
   font-family: 'Fira Sans', sans-serif;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h4, h5, h6 {
+  font-weight: lighter;
+}
+
+h1 {
+  font-size: var(--text-size-header-1-small, 2em);
+}
+
+@media (min-width: 375px) {
+  h1 {
+    font-size: var(--text-size-header-1-medium, 2em);
+  }
+}
+
+@media (min-width: 520px) {
+  h1 {
+    font-size: var(--text-size-header-1-large, 2em);
+  }
+}
+
+h2 {
+  font-size: var(--text-size-header-2-small, 1.5em);
+}
+
+@media (min-width: 375px) {
+  h2 {
+    font-size: var(--text-size-header-2-medium, 1.5em);
+  }
+}
+
+@media (min-width: 520px) {
+  h2 {
+    font-size: var(--text-size-header-2-large, 1.5em);
+  }
+}
+
+h3 {
+  font-size: var(--text-size-header-3-small, 1.17em);
+}
+
+@media (min-width: 375px) {
+  h3 {
+    font-size: var(--text-size-header-3-medium, 1.17em);
+  }
+}
+
+@media (min-width: 520px) {
+  h3 {
+    font-size: var(--text-size-header-3-large, 1.17em);
+  }
+}
+
+h4 {
+  font-size: var(--text-size-header-4-small, 1em);
+}
+
+@media (min-width: 375px) {
+  h4 {
+    font-size: var(--text-size-header-4-medium, 1em);
+  }
+}
+
+@media (min-width: 520px) {
+  h4 {
+    font-size: var(--text-size-header-4-large, 1em);
+  }
+}
+
+h5 {
+  font-size: var(--text-size-header-5-small, 0.83em);
+}
+
+@media (min-width: 375px) {
+  h5 {
+    font-size: var(--text-size-header-5-medium, 0.83em);
+  }
+}
+
+@media (min-width: 520px) {
+  h5 {
+    font-size: var(--text-size-header-5-large, 0.83em);
+  }
+}
+
+h6 {
+  font-size: var(--text-size-header-6-small, 0.67em);
+}
+
+@media (min-width: 375px) {
+  h6 {
+    font-size: var(--text-size-header-6-medium, 0.67em);
+  }
+}
+
+@media (min-width: 520px) {
+  h6 {
+    font-size: var(--text-size-header-6-large, 0.67em);
+  }
 }
 
 a {
@@ -34,4 +157,17 @@ a:hover {
 
 a:focus {
   color: var(--color-primary, lightblue);
+}
+
+p {
+  margin: var(--padding-default, 16px) 0;
+  color: var(--color-text, black);
+  font-weight: normal;
+  font-family: 'Open Sans', sans-serif;
+}
+
+img {
+  object-fit: contain;
+  width: 100%;
+  height: auto;
 }
