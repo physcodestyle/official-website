@@ -55,6 +55,33 @@
   --text-size-header-6-large: 13px;
   --text-size-quotation-large: 23px;
 
+  --line-height-paragraph-small: 21px;
+  --line-height-header-1-small: 42px;
+  --line-height-header-2-small: 32px;
+  --line-height-header-3-small: 25px;
+  --line-height-header-4-small: 21px;
+  --line-height-header-5-small: 17px;
+  --line-height-header-6-small: 14px;
+  --line-height-quotation-small: 25px;
+
+  --line-height-paragraph-medium: 24px;
+  --line-height-header-1-medium: 48px;
+  --line-height-header-2-medium: 36px;
+  --line-height-header-3-medium: 28px;
+  --line-height-header-4-medium: 24px;
+  --line-height-header-5-medium: 20px;
+  --line-height-header-6-medium: 16px;
+  --line-height-quotation-medium: 28px;
+
+  --line-height-paragraph-large: 30px;
+  --line-height-header-1-large: 60px;
+  --line-height-header-2-large: 45px;
+  --line-height-header-3-large: 35px;
+  --line-height-header-4-large: 30px;
+  --line-height-header-5-large: 25px;
+  --line-height-header-6-large: 20px;
+  --line-height-quotation-large: 35px;
+
   --padding-button: 0.63em;
   --padding-default: 1em;
 }
