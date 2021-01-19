@@ -6,28 +6,22 @@
 }
 
 .page {
-  margin: var(--text-size-paragraph-small, 2em) 0;
   color: var(--color-text, black);
   font-weight: normal;
   font-size: var(--text-size-paragraph-small, 14px);
   font-family: 'Open Sans', sans-serif;
-  line-height: var(--line-height-paragraph-small, 1.5);
   background-color: var(--color-background, white);
 }
 
 @media (min-width: 375px) {
   .page {
-    margin: var(--text-size-paragraph-medium, 2em) 0;
     font-size: var(--text-size-paragraph-medium, 16px);
-    line-height: var(--line-height-paragraph-medium, 1.5);
   }
 }
 
 @media (min-width: 520px) {
   .page {
-    margin: var(--text-size-paragraph-large, 2em) 0;
     font-size: var(--text-size-paragraph-large, 20px);
-    line-height: var(--line-height-paragraph-large, 1.5);
   }
 }
 
@@ -40,6 +34,38 @@
 .page__content {
   display: grid;
   justify-content: center;
+}
+
+p {
+  margin: var(--text-size-paragraph-small, 1em) 0;
+}
+
+@media (min-width: 375px) {
+  p {
+    margin: var(--text-size-paragraph-medium, 1em) 0;
+  }
+}
+
+@media (min-width: 520px) {
+  p {
+    margin: var(--text-size-paragraph-large, 1em) 0;
+  }
+}
+
+p, ul, li, b, strong, i, em {
+  line-height: var(--line-height-paragraph-small, 1.5);
+}
+
+@media (min-width: 375px) {
+  p, ul, li, b, strong, i, em {
+    line-height: var(--line-height-paragraph-medium, 1.5);
+  }
+}
+
+@media (min-width: 520px) {
+  p, ul, li, b, strong, i, em {
+    line-height: var(--line-height-paragraph-large, 1.5);
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {

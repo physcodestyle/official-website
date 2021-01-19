@@ -17,8 +17,3 @@
   margin: 0 0 32px;
   color: var(--color-dark, darkgrey);
 }
-
-.content ul {
-  margin: 0;
-  padding: 0 24px;
-}
