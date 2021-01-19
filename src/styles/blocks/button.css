@@ -20,6 +20,7 @@
 
 .button__icon {
   object-fit: contain;
+  width: auto;
 }
 
 .button__title {

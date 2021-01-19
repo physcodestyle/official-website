@@ -96,7 +96,7 @@
 .header__navigation-subtitle {
   margin: 0;
   font-weight: lighter;
-  font-size: 1em;
+  font-size: var(--text-size-button-medium, 1em);
 }
 
 .header__navigation-subtitle:hover {
