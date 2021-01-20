@@ -36,6 +36,7 @@
 @media (min-width: 802px) {
   .footer__copyright {
     justify-content: flex-end;
+    font-size: var(--text-size-paragraph-medium, 16px);
   }
 }
 
@@ -44,6 +45,12 @@
   grid-area: address;
   justify-content: flex-start;
   align-self: center;
+}
+
+@media (min-width: 802px) {
+  .footer__address {
+    font-size: var(--text-size-paragraph-medium, 16px);
+  }
 }
 
 .footer__language {

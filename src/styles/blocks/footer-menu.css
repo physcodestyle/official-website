@@ -20,7 +20,7 @@
   .footer-menu {
     grid-template-rows: repeat(6, auto);
     grid-template-columns: auto;
-    grid-gap: 8px;
+    grid-gap: 0;
   }
 }
 
@@ -47,6 +47,12 @@
   text-decoration: none;
 }
 
+@media (min-width: 802px) {
+  .footer-menu__chapter-title {
+    font-size: var(--text-size-paragraph-medium, 16px);
+  }
+}
+
 .footer-menu__list {
   display: grid;
   grid-auto-flow: row;
@@ -69,4 +75,10 @@
 
 .footer-menu__item-title {
   text-decoration: none;
+}
+
+@media (min-width: 802px) {
+  .footer-menu__item-title {
+    font-size: var(--text-size-paragraph-medium, 16px);
+  }
 }
