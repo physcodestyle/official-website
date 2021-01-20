@@ -79,26 +79,27 @@ module.exports = (config) => {
 
   // Timestamp to localized date converter
   config.addNunjucksShortcode('timestampToDate', (language, time) => {
-    var date = new Date(time * 1000);
-    return date.toLocaleString(language, {
-      weekday: 'short',
+    const date = new Date(time * 1000);
+    let formnattedDate = date.toLocaleString(language, {
       year: 'numeric',
-      month: 'short',
+      month: 'long',
       day: 'numeric'
     });
+    formnattedDate = formnattedDate.replace(' г.', '').replace('.', '');
+    return formnattedDate;
   });
 
   // Read time colculator
   config.addNunjucksShortcode('readingTime', (language, text) => {
-    const wordsPerMinute = 120; // Average case.
     let textLength = text.split(' ').length; // Split by words
+    const wordsPerMinute = 150; // Average case.
+    const value = Math.ceil(textLength / wordsPerMinute);
     if(textLength > 0){
-      let value = Math.ceil(textLength / wordsPerMinute);
       switch (language) {
       case 'en':
-        return ` • ${value} min read`;
+        return `${value} min read`;
       case 'ru':
-        return ` • ${value} мин чтения`;
+        return `${value} мин чтения`;
       }
     }
   });

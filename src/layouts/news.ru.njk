@@ -1,0 +1,18 @@
+---
+layout: 'page.ru.njk'
+---
+<main class="news">
+  <article class="news__article content">
+    <div class="news__info">
+      <time class="news__created">{% timestampToDate 'ru', updatedAt %}</time>
+      <span class="news__reading-time">{% readingTime 'ru', content %}</span>
+      <span class="news__source">Источник: сайт</span>
+    </div>
+    {{ content | safe }}
+  </article>
+  <aside class="news__aside">
+    <div class="news__list">
+      <div class="news__item"></div>
+    </div>
+  </aside>
+</main>

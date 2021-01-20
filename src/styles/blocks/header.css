@@ -8,6 +8,10 @@
   width: 100vw;
   max-width: 1440px;
   padding: 0 var(--padding-default, 1em);
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: white;
 }
 
 @media (min-width: 802px) {

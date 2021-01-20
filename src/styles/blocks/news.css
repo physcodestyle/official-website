@@ -1,0 +1,68 @@
+/* News */
+
+.news {
+  display: grid;
+  grid-template-rows: repeat(2, auto);
+  grid-template-columns: 1fr;
+  grid-gap: var(--padding-default, 1em);
+}
+
+@media (min-width: 1280px) {
+  .news {
+    grid-template-rows: 1fr;
+    grid-template-columns: 680px 320px;
+    grid-gap: 24px;
+  }
+}
+
+.news__article {
+  padding-top: 20px;
+}
+
+.news__info {
+  display: grid;
+  justify-content: space-between;
+  grid-template-columns: auto auto 1fr;
+  grid-gap: 0.25em;
+  padding-bottom: 12px;
+  color: var(--color-dark, darkgrey);
+  font-size: var(--text-size-header-6-small, 10px);
+}
+
+@media (min-width: 375px) {
+  .news__info {
+    font-size: var(--text-size-header-6-medium, 11px);
+  }
+}
+@media (min-width: 520px) {
+  .news__info {
+    font-size: var(--text-size-header-6-large, 13px);
+  }
+}
+
+.news__reading-time {
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 0.25em;
+}
+
+.news__reading-time::before {
+  display: block;
+  content: '•';
+}
+
+.news__source {
+  justify-self: flex-end;
+}
+
+.news__aside {
+
+}
+
+.news__list {
+
+}
+
+.news__item {
+
+}
