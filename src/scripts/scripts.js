@@ -28,11 +28,11 @@
     });
   } else {
     if (isRussianPage) {
-      url = url.replace('/en', '');
+      url = '/';
       menuButton.setAttribute('title', 'Перейти на главную страницу');
     } else {
       menuButton.setAttribute('title', 'Go to Home page');
-      url = '/en' + url;
+      url = '/en';
     }
     menuButton.addEventListener('click', () => {
       location.href = url;
