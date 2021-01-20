@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/istoriya-faculteta/index.html'
+permalink: '/en/longread/istoriya-faculteta/index.html'
 layout: 'longread.en.njk'
 aim: 'all'
 title: 'The History of the Faculty'

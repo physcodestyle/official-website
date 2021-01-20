@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/optics-department-overview/index.html'
+permalink: '/en/longread/optics-department-overview/index.html'
 layout: 'longread.en.njk'
 aim: 'optics'
 title: 'Optics and spectroscopy Department today'

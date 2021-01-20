@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/department/me/index.html'
+permalink: '/ru/department/me/index.html'
 layout: 'page.ru.njk'
 title: 'Кафедра физики полупроводников и микроэлектроники'
 site: 'https://phys.vsu.ru/me/'

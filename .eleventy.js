@@ -32,17 +32,28 @@ module.exports = (config) => {
   });
 
   // Language Selector
-  config.addNunjucksShortcode('languages', (language) => {
+  config.addNunjucksShortcode('languages', (language, url) => {
     let lang = `<div class="languages">`;
     switch (language) {
       case 'en':
-        lang += `<a class="languages__flag button button--sticky" href="/">
-          <img class="languages__flag-icon button-icon" src="/assets/Icon/Flag/RU.svg" width="24" height="24" alt="На русском языке" />
+        const regExp = /en\/[a-z]+\.html/g;
+        if (url.match(regExp)) {
+          url = url.replace('en/', '');
+        } else {
+          url = url.replace('en/', 'ru/');
+        }
+        lang += `<a class="languages__flag button button--sticky" href="${url}">
+          <img class="languages__flag-icon button-icon" src="/assets/Icon/Flag/RU.svg" width="24" height="24" title="На русском языке" />
         </a>`;
         break;
       case 'ru':
-        lang += `<a class="languages__flag button button--sticky" href="/en/">
-          <img class="languages__flag-icon button-icon" src="/assets/Icon/Flag/GB.svg" width="24" height="24" alt="In English" />
+        if (url.includes('ru')) {
+          url = url.replace('ru/', 'en/');
+        } else {
+          url = '/en' + url
+        }
+        lang += `<a class="languages__flag button button--sticky" href="${url}">
+          <img class="languages__flag-icon button-icon" src="/assets/Icon/Flag/GB.svg" width="24" height="24" title="In English" />
         </a>`;
         break;
     }

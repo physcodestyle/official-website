@@ -1,5 +1,5 @@
 ---
-permalink: 'en/department/ssp/index.html'
+permalink: '/en/department/ssp/index.html'
 layout: 'page.en.njk'
 title: 'Department of solid state physics and nanostructures'
 site: 'https://phys.vsu.ru/ssp/'

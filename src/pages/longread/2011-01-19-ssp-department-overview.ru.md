@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/ssp-department-overview/index.html'
+permalink: '/ru/longread/ssp-department-overview/index.html'
 layout: 'longread.ru.njk'
 aim: 'ssp'
 title: 'Кафедра физики твердого тела и наноструктур сегодня'

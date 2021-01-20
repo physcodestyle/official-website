@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/me-department-overview/index.html'
+permalink: '/ru/longread/me-department-overview/index.html'
 layout: 'longread.ru.njk'
 aim: 'me'
 title: 'Кафедра физики полупроводников и микроэлектроники сегодня'

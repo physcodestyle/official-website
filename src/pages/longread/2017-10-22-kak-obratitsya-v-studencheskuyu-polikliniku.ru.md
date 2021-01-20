@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/kak-obratitsya-v-studencheskuyu-polikliniku/index.html'
+permalink: '/ru/longread/kak-obratitsya-v-studencheskuyu-polikliniku/index.html'
 layout: 'longread.ru.njk'
 aim: 'all'
 title: 'Как обратиться в студенческую поликлинику'

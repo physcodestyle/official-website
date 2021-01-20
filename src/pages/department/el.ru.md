@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/department/el/index.html'
+permalink: '/ru/department/el/index.html'
 layout: 'page.ru.njk'
 title: 'Кафедра электроники'
 site: 'https://phys.vsu.ru/el/'

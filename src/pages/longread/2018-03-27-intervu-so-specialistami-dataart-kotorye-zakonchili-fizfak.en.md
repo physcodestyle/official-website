@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/intervu-so-specialistami-dataart-kotorye-zakonchili-fizfak/index.html'
+permalink: '/en/longread/intervu-so-specialistami-dataart-kotorye-zakonchili-fizfak/index.html'
 layout: 'longread.en.njk'
 aim: 'all'
 title: 'Interview With the Specialists at DataArt, Who Graduated From the Faculty of Physics'

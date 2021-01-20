@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/important/lessons-schedule/index.html'
+permalink: '/ru/important/lessons-schedule/index.html'
 layout: 'page.ru.njk'
 aim: 'all'
 title: 'Расписание'

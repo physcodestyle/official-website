@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/discount-on-trips-around-the-country/index.html'
+permalink: '/en/longread/discount-on-trips-around-the-country/index.html'
 layout: 'longread.en.njk'
 aim: 'all'
 title: 'Discount on Travel Around the Country'

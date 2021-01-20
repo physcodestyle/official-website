@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/important/bolshaya-vstrecha/index.html'
+permalink: '/ru/important/bolshaya-vstrecha/index.html'
 layout: 'page.ru.njk'
 aim: 'all'
 title: 'Большая встреча'

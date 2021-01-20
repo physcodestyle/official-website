@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/kak-oformit-matpomosh/index.html'
+permalink: '/en/longread/kak-oformit-matpomosh/index.html'
 layout: 'longread.en.njk'
 aim: 'all'
 title: 'How to Apply for Financial Aid?'

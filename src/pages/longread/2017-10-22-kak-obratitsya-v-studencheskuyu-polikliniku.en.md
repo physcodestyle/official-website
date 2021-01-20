@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/kak-obratitsya-v-studencheskuyu-polikliniku/index.html'
+permalink: '/en/longread/kak-obratitsya-v-studencheskuyu-polikliniku/index.html'
 layout: 'longread.en.njk'
 aim: 'all'
 title: 'How to Apply to the Student Clinic'

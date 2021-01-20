@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/cherenkov-radiation/index.html'
+permalink: '/en/longread/cherenkov-radiation/index.html'
 layout: 'longread.en.njk'
 aim: 'all'
 title: 'Cherenkov radiation'

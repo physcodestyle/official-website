@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/important/departments/index.html'
+permalink: '/ru/important/departments/index.html'
 layout: 'page.ru.njk'
 aim: 'all'
 title: 'Кафедры'

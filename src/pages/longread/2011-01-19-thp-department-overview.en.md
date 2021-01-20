@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/thp-department-overview/index.html'
+permalink: '/en/longread/thp-department-overview/index.html'
 layout: 'longread.en.njk'
 aim: 'thp'
 title: 'Theoretical physics Department today'

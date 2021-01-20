@@ -1,5 +1,5 @@
 ---
-permalink: 'en/important/departments/index.html'
+permalink: '/en/important/departments/index.html'
 layout: 'page.en.njk'
 aim: 'all'
 title: 'Departments'

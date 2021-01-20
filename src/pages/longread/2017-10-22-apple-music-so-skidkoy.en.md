@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/apple-music-so-skidkoy/index.html'
+permalink: '/en/longread/apple-music-so-skidkoy/index.html'
 layout: 'longread.en.njk'
 aim: 'all'
 title: 'Apple Music at a Discount'

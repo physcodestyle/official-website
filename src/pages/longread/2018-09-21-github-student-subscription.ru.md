@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/github-student-subscription/index.html'
+permalink: '/ru/longread/github-student-subscription/index.html'
 layout: 'longread.ru.njk'
 aim: 'all'
 title: 'Студенческая подписка на GitHub'

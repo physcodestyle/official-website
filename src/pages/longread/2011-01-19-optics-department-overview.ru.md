@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/optics-department-overview/index.html'
+permalink: '/ru/longread/optics-department-overview/index.html'
 layout: 'longread.ru.njk'
 aim: 'optics'
 title: 'Кафедра оптики и спектроскопии сегодня'

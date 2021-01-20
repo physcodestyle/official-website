@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/department/thp/index.html'
+permalink: '/ru/department/thp/index.html'
 layout: 'page.ru.njk'
 title: 'Кафедра теоретической физики'
 site: 'https://phys.vsu.ru/thp/'

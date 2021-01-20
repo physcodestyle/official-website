@@ -1,5 +1,5 @@
 ---
-permalink: 'en/important/exams-schedule/index.html'
+permalink: '/en/important/exams-schedule/index.html'
 layout: 'page.en.njk'
 aim: 'all'
 title: 'Exams / mulligans'

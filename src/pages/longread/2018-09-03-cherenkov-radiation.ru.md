@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/cherenkov-radiation/index.html'
+permalink: '/ru/longread/cherenkov-radiation/index.html'
 layout: 'longread.ru.njk'
 aim: 'all'
 title: 'Эффект Вавилова – Черенкова'

@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/studsovet-itogi-goda/index.html'
+permalink: '/en/longread/studsovet-itogi-goda/index.html'
 layout: 'longread.en.njk'
 aim: 'all'
 title: 'Student Council – Year-End 2017'

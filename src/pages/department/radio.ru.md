@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/department/radio/index.html'
+permalink: '/ru/department/radio/index.html'
 layout: 'page.ru.njk'
 title: 'Кафедра радиофизики'
 site: 'https://phys.vsu.ru/radio/'

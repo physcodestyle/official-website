@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/studsovet-itogi-goda/index.html'
+permalink: '/ru/longread/studsovet-itogi-goda/index.html'
 layout: 'longread.ru.njk'
 aim: 'all'
 title: 'Студсовет – итоги 2017 года'

@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/department/kof/index.html'
+permalink: '/ru/department/kof/index.html'
 layout: 'page.ru.njk'
 title: 'Кафедра общей физики'
 site: 'https://phys.vsu.ru/kof/'

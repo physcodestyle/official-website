@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/department/ssp/index.html'
+permalink: '/ru/department/ssp/index.html'
 layout: 'page.ru.njk'
 title: 'Кафедра физики твердого тела и наноструктур'
 site: 'https://phys.vsu.ru/ssp/'

@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/office-365-dlya-studentov/index.html'
+permalink: '/en/longread/office-365-dlya-studentov/index.html'
 layout: 'longread.en.njk'
 aim: 'all'
 title: 'Office 365 for Students'

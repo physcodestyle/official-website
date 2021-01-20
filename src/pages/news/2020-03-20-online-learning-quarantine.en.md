@@ -1,5 +1,5 @@
 ---
-permalink: 'en/news/online-learning-quarantine/index.html'
+permalink: '/en/news/online-learning-quarantine/index.html'
 layout: 'page.en.njk'
 aim: 'all'
 title: 'Distance learning in the conditions of the quarantine'

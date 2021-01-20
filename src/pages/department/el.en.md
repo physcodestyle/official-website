@@ -1,5 +1,5 @@
 ---
-permalink: 'en/department/el/index.html'
+permalink: '/en/department/el/index.html'
 layout: 'page.en.njk'
 title: 'Department of electronics'
 site: 'https://phys.vsu.ru/el/'

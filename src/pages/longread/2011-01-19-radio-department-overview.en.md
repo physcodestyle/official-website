@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/radio-department-overview/index.html'
+permalink: '/en/longread/radio-department-overview/index.html'
 layout: 'longread.en.njk'
 aim: 'radio'
 title: 'Department of radiophysics today'

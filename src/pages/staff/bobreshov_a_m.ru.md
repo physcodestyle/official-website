@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/staff/bobreshov_a_m/index.html'
+permalink: '/ru/staff/bobreshov_a_m/index.html'
 layout: 'page.ru.njk'
 name: 'Бобрешов Анатолий Михайлович'
 degree: 'доктор физико-математических наук'

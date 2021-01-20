@@ -1,5 +1,5 @@
 ---
-permalink: 'en/department/kof/index.html'
+permalink: '/en/department/kof/index.html'
 layout: 'page.en.njk'
 title: 'Department of general physics'
 site: 'https://phys.vsu.ru/kof/'

@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/electronics-department-overview/index.html'
+permalink: '/ru/longread/electronics-department-overview/index.html'
 layout: 'longread.ru.njk'
 aim: 'el'
 title: 'Кафедра электроники сегодня'

@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/istoriya-faculteta/index.html'
+permalink: '/ru/longread/istoriya-faculteta/index.html'
 layout: 'longread.ru.njk'
 aim: 'all'
 title: 'История факультета'

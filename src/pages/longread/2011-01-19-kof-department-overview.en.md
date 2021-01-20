@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/kof-department-overview/index.html'
+permalink: '/en/longread/kof-department-overview/index.html'
 layout: 'longread.en.njk'
 aim: 'kof'
 title: 'General physics Department today'

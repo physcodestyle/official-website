@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/radio-department-overview/index.html'
+permalink: '/ru/longread/radio-department-overview/index.html'
 layout: 'longread.ru.njk'
 aim: 'radio'
 title: 'Кафедра радиофизики сегодня'

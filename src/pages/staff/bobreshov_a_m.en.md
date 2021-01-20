@@ -1,5 +1,5 @@
 ---
-permalink: 'en/staff/bobreshov_a_m/index.html'
+permalink: '/en/staff/bobreshov_a_m/index.html'
 layout: 'page.en.njk'
 name: 'Bobreshov Anatolii Mikhailovich'
 degree: 'PhD'

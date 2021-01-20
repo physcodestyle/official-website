@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/important/exams-schedule/index.html'
+permalink: '/ru/important/exams-schedule/index.html'
 layout: 'page.ru.njk'
 aim: 'all'
 title: 'Сессия / Пересдачи'

@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/department/optics/index.html'
+permalink: '/ru/department/optics/index.html'
 layout: 'page.ru.njk'
 title: 'Кафедра оптики и спектроскопии'
 site: 'https://phys.vsu.ru/optics/'

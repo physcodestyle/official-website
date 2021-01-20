@@ -1,5 +1,5 @@
 ---
-permalink: 'en/department/optics/index.html'
+permalink: '/en/department/optics/index.html'
 layout: 'page.en.njk'
 title: 'Department of optics and spectroscopy'
 site: 'https://phys.vsu.ru/optics/'

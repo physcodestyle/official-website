@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/news/online-learning-quarantine/index.html'
+permalink: '/ru/news/online-learning-quarantine/index.html'
 layout: 'page.ru.njk'
 aim: 'all'
 title: 'Дистанционное обучение в условиях карантина'

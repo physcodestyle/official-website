@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/kak-poluchit-windows/index.html'
+permalink: '/ru/longread/kak-poluchit-windows/index.html'
 layout: 'longread.ru.njk'
 aim: 'all'
 title: 'Как получить Windows?'

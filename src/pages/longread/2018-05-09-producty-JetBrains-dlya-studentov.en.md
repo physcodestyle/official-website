@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/producty-JetBrains-dlya-studentov/index.html'
+permalink: '/en/longread/producty-JetBrains-dlya-studentov/index.html'
 layout: 'longread.en.njk'
 aim: 'all'
 title: 'JetBrains Products for Students'

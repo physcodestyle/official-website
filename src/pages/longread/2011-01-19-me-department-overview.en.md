@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/me-department-overview/index.html'
+permalink: '/en/longread/me-department-overview/index.html'
 layout: 'longread.en.njk'
 aim: 'me'
 title: 'Semiconductor and microelectronics physics Department today'

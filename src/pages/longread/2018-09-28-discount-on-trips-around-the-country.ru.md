@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/discount-on-trips-around-the-country/index.html'
+permalink: '/ru/longread/discount-on-trips-around-the-country/index.html'
 layout: 'longread.ru.njk'
 aim: 'all'
 title: 'Как студенту ФизФака получить скидку 25% на поездки по стране'

@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/bazovye-kafedry-na-napravlenii-radiofizika/index.html'
+permalink: '/en/longread/bazovye-kafedry-na-napravlenii-radiofizika/index.html'
 layout: 'longread.en.njk'
 aim: 'all'
 title: 'Basic departments in the direction of «Radiophysics»'

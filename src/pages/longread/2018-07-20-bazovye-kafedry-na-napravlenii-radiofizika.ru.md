@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/bazovye-kafedry-na-napravlenii-radiofizika/index.html'
+permalink: '/ru/longread/bazovye-kafedry-na-napravlenii-radiofizika/index.html'
 layout: 'longread.ru.njk'
 aim: 'all'
 title: 'Базовые кафедры на направлении «Радиофизика»'

@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/kak-oformit-matpomosh/index.html'
+permalink: '/ru/longread/kak-oformit-matpomosh/index.html'
 layout: 'longread.ru.njk'
 aim: 'all'
 title: 'Как оформить матпомощь?'

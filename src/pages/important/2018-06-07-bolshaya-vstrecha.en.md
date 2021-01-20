@@ -1,5 +1,5 @@
 ---
-permalink: 'en/important/bolshaya-vstrecha/index.html'
+permalink: '/en/important/bolshaya-vstrecha/index.html'
 layout: 'page.en.njk'
 aim: 'all'
 title: 'Big Meeting'

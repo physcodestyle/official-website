@@ -1,5 +1,5 @@
 ---
-permalink: 'en/important/lessons-schedule/index.html'
+permalink: '/en/important/lessons-schedule/index.html'
 layout: 'page.en.njk'
 aim: 'all'
 title: 'Schedule'

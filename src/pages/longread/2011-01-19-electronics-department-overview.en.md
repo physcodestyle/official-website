@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/electronics-department-overview/index.html'
+permalink: '/en/longread/electronics-department-overview/index.html'
 layout: 'longread.en.njk'
 aim: 'el'
 title: 'Department of electronics today'

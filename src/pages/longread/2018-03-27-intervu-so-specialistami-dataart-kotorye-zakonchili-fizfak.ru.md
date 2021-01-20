@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/intervu-so-specialistami-dataart-kotorye-zakonchili-fizfak/index.html'
+permalink: '/ru/longread/intervu-so-specialistami-dataart-kotorye-zakonchili-fizfak/index.html'
 layout: 'longread.ru.njk'
 aim: 'all'
 title: 'Интервью со специалистами DataArt, которые закончили ФизФак'

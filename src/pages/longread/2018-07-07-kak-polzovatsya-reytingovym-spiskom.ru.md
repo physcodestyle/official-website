@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/kak-polzovatsya-reytingovym-spiskom/index.html'
+permalink: '/ru/longread/kak-polzovatsya-reytingovym-spiskom/index.html'
 layout: 'longread.ru.njk'
 aim: 'all'
 title: 'Как пользоваться рейтинговым списком?'

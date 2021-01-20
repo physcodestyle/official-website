@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/kak-polzovatsya-reytingovym-spiskom/index.html'
+permalink: '/en/longread/kak-polzovatsya-reytingovym-spiskom/index.html'
 layout: 'longread.en.njk'
 aim: 'all'
 title: 'How to Use the Rating List?'

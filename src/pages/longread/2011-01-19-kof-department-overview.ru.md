@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/kof-department-overview/index.html'
+permalink: '/ru/longread/kof-department-overview/index.html'
 layout: 'longread.ru.njk'
 aim: 'kof'
 title: 'Кафедра общей физики сегодня'

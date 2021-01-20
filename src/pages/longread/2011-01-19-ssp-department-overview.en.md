@@ -1,5 +1,5 @@
 ---
-permalink: 'en/longread/ssp-department-overview/index.html'
+permalink: '/en/longread/ssp-department-overview/index.html'
 layout: 'longread.en.njk'
 aim: 'ssp'
 title: 'Solid state physics and nanostructures Department today'

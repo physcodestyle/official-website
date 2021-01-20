@@ -1,5 +1,5 @@
 ---
-permalink: 'ru/longread/apple-music-so-skidkoy/index.html'
+permalink: '/ru/longread/apple-music-so-skidkoy/index.html'
 layout: 'longread.ru.njk'
 aim: 'all'
 title: 'Apple Music со скидкой'
