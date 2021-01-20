@@ -86,7 +86,22 @@ module.exports = (config) => {
       month: 'short',
       day: 'numeric'
     });
-  })
+  });
+
+  // Read time colculator
+  config.addNunjucksShortcode('readingTime', (language, text) => {
+    const wordsPerMinute = 120; // Average case.
+    let textLength = text.split(' ').length; // Split by words
+    if(textLength > 0){
+      let value = Math.ceil(textLength / wordsPerMinute);
+      switch (language) {
+      case 'en':
+        return ` • ${value} min read`;
+      case 'ru':
+        return ` • ${value} мин чтения`;
+      }
+    }
+  });
 
   config.addFilter('htmlmin', (value) => {
     return htmlmin.minify(
