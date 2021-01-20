@@ -77,6 +77,17 @@ module.exports = (config) => {
     }
   });
 
+  // Timestamp to localized date converter
+  config.addNunjucksShortcode('timestampToDate', (language, time) => {
+    var date = new Date(time * 1000);
+    return date.toLocaleString(language, {
+      weekday: 'short',
+      year: 'numeric',
+      month: 'short',
+      day: 'numeric'
+    });
+  })
+
   config.addFilter('htmlmin', (value) => {
     return htmlmin.minify(
       value, {
