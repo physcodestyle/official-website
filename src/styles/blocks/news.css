@@ -65,6 +65,9 @@
 .news__list-title {
   margin: 0;
   padding: 0 16px;
+  font-size: 16px;
+  text-transform: uppercase;
+  line-height: 1;
 }
 
 .news__list {
