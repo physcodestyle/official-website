@@ -250,7 +250,22 @@ a:focus {
 }
 
 img {
+  display: block;
   object-fit: contain;
-  width: 100%;
+  width: auto;
+  max-width: 100%;
   height: auto;
+  margin: var(--text-size-quotation-large, 0.67em) auto;
+}
+
+@media (min-width: 375px) {
+  img {
+    margin: var(--text-size-quotation-large, 0.67em) auto;
+  }
+}
+
+@media (min-width: 520px) {
+  img {
+    margin: var(--text-size-quotation-large, 0.67em) auto;
+  }
 }
