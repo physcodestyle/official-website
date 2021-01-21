@@ -21,8 +21,8 @@
 
 .news__info {
   display: grid;
-  justify-content: space-between;
   grid-template-columns: auto auto 1fr;
+  justify-content: space-between;
   grid-gap: 0.25em;
   padding-bottom: 12px;
   color: var(--color-dark, darkgrey);
@@ -34,6 +34,7 @@
     font-size: var(--text-size-header-6-medium, 11px);
   }
 }
+
 @media (min-width: 520px) {
   .news__info {
     font-size: var(--text-size-header-6-large, 13px);

@@ -1,7 +1,7 @@
 .news-card {
   display: grid;
-  grid-template-columns: 1fr;
   grid-template-rows: auto auto;
+  grid-template-columns: 1fr;
   grid-gap: 4px;
   padding: 8px 16px;
 }
@@ -17,14 +17,14 @@
 
 .news-card__info {
   display: grid;
-  justify-content: flex-start;
   grid-template-columns: auto auto;
+  justify-content: flex-start;
   grid-gap: 0.25em;
   padding-bottom: 12px;
 }
 
 .news-card__created {
-
+  display: block;
 }
 
 .news-card__reading-time {

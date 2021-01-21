@@ -28,8 +28,8 @@
 
 .block__contact,
 .block__info {
-  font-weight: lighter;
   color: var(--color-dark, darkgrey);
+  font-weight: lighter;
 }
 
 .block__contact {

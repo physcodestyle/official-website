@@ -1,6 +1,9 @@
 /* Header */
 
 .header {
+  position: fixed;
+  top: 0;
+  left: 0;
   display: grid;
   grid-template-rows: 64px;
   grid-template-columns: 32px auto 32px;
@@ -8,9 +11,6 @@
   width: 100vw;
   max-width: 1440px;
   padding: 0 var(--padding-default, 1em);
-  position: fixed;
-  top: 0;
-  left: 0;
   background-color: white;
 }
 
