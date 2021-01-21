@@ -6,7 +6,7 @@ layout: 'page.ru.njk'
     <div class="news__info">
       <time class="news__created">{% timestampToDate 'ru', updatedAt %}</time>
       <span class="news__reading-time">{% readingTime 'ru', content %}</span>
-      <span class="news__source">Источник: сайт</span>
+      <span class="news__source">Источник: {{ source }}</span>
     </div>
     {{ content | safe }}
   </article>
