@@ -9,6 +9,11 @@ module.exports = (config) => {
   config.addPassthroughCopy('src/assets');
   config.addPassthroughCopy('src/images');
 
+  // Limiter for loop
+  config.addFilter('limit', function(arr, limit) {
+    return arr.slice(0, limit);
+  });
+
   // Footer Menu
   config.addNunjucksShortcode('footerMenu', (language) => {
     let menu = `<ul class="footer-menu">`;
