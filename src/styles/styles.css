@@ -9,12 +9,14 @@
 @import 'blocks/visually-hidden.css';
 @import 'blocks/button.css';
 @import 'blocks/page.css';
+@import 'blocks/block.css';
 @import 'blocks/content.css';
 @import 'blocks/languages.css';
 @import 'blocks/header.css';
 @import 'blocks/footer.css';
 @import 'blocks/footer-menu.css';
 @import 'blocks/news.css';
+@import 'blocks/news-card.css';
 
 :root {
   --color-accent: #f5df4d;
@@ -82,6 +84,14 @@
   --line-height-header-5-large: 25px;
   --line-height-header-6-large: 20px;
   --line-height-quotation-large: 35px;
+
+  /* Block Sizes */
+
+  --text-caption-small: 32px;
+  --text-header-small: 14px;
+  --text-content-small: 14px;
+  --text-contact-small: 13px;
+  --text-info-small: 11px;
 
   --text-size-button-medium: 16px;
 

@@ -1,0 +1,39 @@
+.news-card {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto auto;
+  grid-gap: 4px;
+  padding: 8px 16px;
+}
+
+.news-card__content {
+  margin: 0;
+  text-decoration: none;
+}
+
+.news-card--active .news-card__content {
+  font-weight: bold;
+}
+
+.news-card__info {
+  display: grid;
+  justify-content: flex-start;
+  grid-template-columns: auto auto;
+  grid-gap: 0.25em;
+  padding-bottom: 12px;
+}
+
+.news-card__created {
+
+}
+
+.news-card__reading-time {
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 0.25em;
+}
+
+.news-card__reading-time::before {
+  display: block;
+  content: '•';
+}

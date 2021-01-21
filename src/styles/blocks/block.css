@@ -1,0 +1,41 @@
+/* Block */
+
+.block {
+  font-family: 'Fira Sans', sans-serif;
+  line-height: 1.5;
+}
+
+.block__caption,
+.block__header,
+.block__content {
+  color: var(--color-text, black);
+}
+
+.block__caption {
+  font-weight: lighter;
+  font-size: var(--text-caption-small, 2.3em);
+}
+
+.block__header {
+  font-weight: bold;
+  font-size: var(--text-header-small, 1em);
+}
+
+.block__content {
+  font-weight: lighter;
+  font-size: var(--text-content-small, 1em);
+}
+
+.block__contact,
+.block__info {
+  font-weight: lighter;
+  color: var(--color-dark, darkgrey);
+}
+
+.block__contact {
+  font-size: var(--text-contact-small, 0.93em);
+}
+
+.block__info {
+  font-size: var(--text-info-small, 0.79em);
+}

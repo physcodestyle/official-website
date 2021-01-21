@@ -4,7 +4,7 @@
   display: grid;
   grid-template-rows: repeat(2, auto);
   grid-template-columns: 1fr;
-  grid-gap: var(--padding-default, 1em);
+  margin-bottom: 24px;
 }
 
 @media (min-width: 1280px) {
@@ -56,13 +56,16 @@
 }
 
 .news__aside {
+  display: grid;
+  justify-content: flex-start;
+  align-items: start;
+}
 
+.news__list-title {
+  margin: 0;
+  padding: 0 16px;
 }
 
 .news__list {
-
-}
-
-.news__item {
-
+  padding-top: 12px;
 }
