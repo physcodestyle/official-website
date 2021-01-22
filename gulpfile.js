@@ -17,9 +17,11 @@ gulp.task('news', async () => {
       timeout: 1000,
     })
     .then(function (response) {
+      let counter = 0;
       const vkNews = response.data;
       const vkKeys = Object.keys(vkNews);
       for (key of vkKeys) {
+        counter++;
         let desc = '';
         const wordArray = vkNews[key].text.split('\n')[0].split(' ');
         for (i = 0; i < wordArray.length && i < 15; i++) {
@@ -51,9 +53,9 @@ gulp.task('news', async () => {
         }
         fs.writeFile(`src/pages/news/${key}.ru.md`, md, function (err) {
           if (err) return console.log(err);
-          console.log(`File ${key} with news fron VK was created.`);
         });
       }
+      console.log(`${counter} files with news fron VK were created.`);
     })
     .catch(function (error) {
       console.log(error);
