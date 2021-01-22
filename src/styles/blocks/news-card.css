@@ -20,7 +20,6 @@
   grid-template-columns: auto auto;
   justify-content: start;
   grid-gap: 0.25em;
-  padding-bottom: 12px;
 }
 
 .news-card__created {

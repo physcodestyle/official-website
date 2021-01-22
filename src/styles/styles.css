@@ -19,6 +19,7 @@
 @import 'blocks/main.css';
 @import 'blocks/news-card.css';
 @import 'blocks/key-card.css';
+@import 'blocks/read-card.css';
 
 :root {
   --color-accent: #f5df4d;

@@ -1,0 +1,14 @@
+{% for post in collections.read_ru | sortByDate | reverse | limit(6) %}
+  <div class="read-card {% if page.url == post.url %} read-card--active {% endif %} block">
+    {% if page.url == post.url %}
+      <span class="read-card__content block__content">{{ post.data.description }}</span>
+    {% else %}
+      <a class="read-card__content block__content" href="{{ post.url }}">{{ post.data.description }}</a>
+    {% endif %}
+    <img class="read-card__image" src="{{ post.data.images[0].src }}" alt="{{ post.data.images[0].alt }}" />
+    <div class="read-card__info block__info">
+      <time class="read-card__created">{% timestampToDate 'ru', post.data.updatedAt %}</time>
+      <span class="read-card__reading-time">{% readingTime 'ru', post.templateContent %}</span>
+    </div>
+  </div>
+{% endfor %}
