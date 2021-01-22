@@ -1,0 +1,30 @@
+/* Link Card */
+
+.link-card {
+  display: grid;
+  grid-template: 'image content' 'image contact';
+  grid-template-columns: 44px auto;
+  justify-content: start;
+  grid-gap: 4px;
+  padding: 8px 16px;
+  width: 100%;
+}
+
+.link-card__contact-icon {
+  grid-area: image;
+  width: 24px;
+  height: 24px;
+  margin: 0;
+}
+
+.link-card__header {
+  grid-area: content;
+}
+
+.link-card__content {
+  grid-area: content;
+}
+
+.link-card__contact {
+  grid-area: contact;
+}

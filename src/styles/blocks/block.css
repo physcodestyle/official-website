@@ -41,12 +41,15 @@
 .block__info {
   color: var(--color-dark, darkgrey);
   font-weight: lighter;
+  margin: 0;
 }
 
 .block__contact {
   font-size: var(--text-contact-small, 0.93em);
+  margin: 0;
 }
 
 .block__info {
   font-size: var(--text-info-small, 0.79em);
+  margin: 0;
 }
