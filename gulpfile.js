@@ -34,11 +34,16 @@ gulp.task('news', async () => {
         md += `updatedAt: ${vkNews[key].date}\n`;
         md += `---\n`;
         if (vkNews[key].image) {
-          md += `![${desc}](${vkNews[key].image.url})\n`;
-          md += `${vkNews[key].text.replaceAll(vkRegExp, '').replaceAll(']', '')}`;
+          md += `![${desc}](${vkNews[key].image.url})\n\n`;
+          const list = vkNews[key].text.replaceAll(vkRegExp, '').replaceAll(']', '').split('\n');
+          for (i = 0; i < list.length; i++) {
+            if (list[i] !== '\n') {
+              md += `${list[i].trim()}\n`;
+            }
+          }
         } else if (vkNews[key].link) {
           if (vkNews[key].link.image) {
-            md += `![${desc}](${vkNews[key].link.image.url})\n`;
+            md += `![${desc}](${vkNews[key].link.image.url})\n\n`;
           }
           md += `[${vkNews[key].text}](${vkNews[key].link.url})\n`;
         }
