@@ -44,6 +44,7 @@
 .footer-menu__chapter-title {
   font-weight: bold;
   text-decoration: none;
+  margin: 0;
 }
 
 @media (min-width: 802px) {
