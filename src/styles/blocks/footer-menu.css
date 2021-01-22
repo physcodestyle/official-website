@@ -42,9 +42,9 @@
 }
 
 .footer-menu__chapter-title {
+  margin: 0;
   font-weight: bold;
   text-decoration: none;
-  margin: 0;
 }
 
 @media (min-width: 802px) {

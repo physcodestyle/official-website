@@ -24,9 +24,9 @@
 .contact-card__contact {
   display: grid;
   grid-auto-flow: column;
+  justify-content: start;
   grid-gap: 14px;
   padding-top: 4px;
-  justify-content: start;
 }
 
 .contact-card__contact--rows {
@@ -37,15 +37,15 @@
 .contact-card__contact-item {
   display: grid;
   grid-auto-flow: column;
-  grid-gap: 4px;
   justify-content: start;
   align-items: center;
+  grid-gap: 4px;
 }
 
 .contact-card__contact-icon {
-  margin: 0;
   width: 16px;
   height: 16px;
+  margin: 0;
 }
 
 .contact-card__contact-info {

@@ -6,8 +6,8 @@
   grid-template-columns: 44px auto;
   justify-content: start;
   grid-gap: 4px;
-  padding: 8px 16px;
   width: 100%;
+  padding: 8px 16px;
 }
 
 .link-card__contact-icon {

@@ -21,15 +21,15 @@
 }
 
 .block__caption {
-  text-decoration: none;
   font-weight: lighter;
   font-size: var(--text-caption-small, 2.3em);
+  text-decoration: none;
 }
 
 .block__header {
-  text-decoration: none;
   font-weight: bold;
   font-size: var(--text-header-small, 1em);
+  text-decoration: none;
 }
 
 .block__content {
@@ -39,17 +39,17 @@
 
 .block__contact,
 .block__info {
+  margin: 0;
   color: var(--color-dark, darkgrey);
   font-weight: lighter;
-  margin: 0;
 }
 
 .block__contact {
-  font-size: var(--text-contact-small, 0.93em);
   margin: 0;
+  font-size: var(--text-contact-small, 0.93em);
 }
 
 .block__info {
-  font-size: var(--text-info-small, 0.79em);
   margin: 0;
+  font-size: var(--text-info-small, 0.79em);
 }
