@@ -6,7 +6,7 @@ title: 'Solid state physics and nanostructures Department today'
 description: 'The Department was founded in 1936 by Professor M. Levitskaya...'
 lead: 'The Department was founded in 1936 by Professor M. Levitskaya and was called the Department of electromagnetic oscillations. In 1961, after the Department of Optics and the Department of Nuclear physics became known as the Department of solid state physics.'
 images:
-  - src: '/images/el_phys_about_01.jpg'
+  - src: '/images/titled-teaser/el_phys_about_01.jpg'
     alt: 'История кафедры электроники - 1'
     type: 'image'
 updatedAt: 1568360578

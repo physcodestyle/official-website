@@ -1,11 +1,12 @@
 ---
 permalink: '/ru/longread/intervu-so-specialistami-dataart-kotorye-zakonchili-fizfak/index.html'
 layout: 'longread.ru.njk'
-aim: 'all'
+tags:
+  - read_ru
 title: 'Интервью со специалистами DataArt, которые закончили ФизФак'
 description: 'Как ФизФак помог вам попасть в IT-компанию, и что вы думаете о мифе, что после его окончания работать негде?'
 images:
-  - src: '/images/dataart-logo.png'
+  - src: '/images/titled-teaser/dataart-logo.png'
     alt: 'Интервью со специалистами DataArt, которые закончили ФизФак'
     type: 'image'
 updatedAt: 1568360578

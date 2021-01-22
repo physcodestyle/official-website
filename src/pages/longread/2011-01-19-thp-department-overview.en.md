@@ -4,7 +4,7 @@ layout: 'longread.en.njk'
 aim: 'thp'
 title: 'Theoretical physics Department today'
 images:
-  - src: '/images/el_phys_about_01.jpg'
+  - src: '/images/titled-teaser/el_phys_about_01.jpg'
     alt: 'История кафедры электроники - 1'
     type: 'image'
 updatedAt: 1568360578

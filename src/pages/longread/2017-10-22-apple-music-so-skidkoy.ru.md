@@ -1,11 +1,12 @@
 ---
 permalink: '/ru/longread/apple-music-so-skidkoy/index.html'
 layout: 'longread.ru.njk'
-aim: 'all'
+tags:
+  - read_ru
 title: 'Apple Music со скидкой'
 description: 'Использовать льготную подписку можно до конца своего обучения в ВГУ'
 images:
-  - src: '/images/apple-music-discounts-for-students.jpg'
+  - src: '/images/titled-teaser/apple-music-discounts-for-students.jpg'
     alt: 'Apple Music со скидкой'
     type: 'image'
 updatedAt: 1568360578

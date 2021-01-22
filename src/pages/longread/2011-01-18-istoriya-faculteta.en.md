@@ -1,12 +1,13 @@
 ---
 permalink: '/en/longread/istoriya-faculteta/index.html'
 layout: 'longread.en.njk'
-aim: 'all'
+tags:
+  - read_en
 title: 'The History of the Faculty'
 description: 'The faculty of physics has been around for 100 years...'
 lead: 'The dawn of the faculty of physics takes us to the 30 years of the last century. As part of the main scientific disciplines, the study of physics was of great importance for the Voronezh state University. The first head of the Department of physics was a veteran of the University Professor N. A. Sakharov. The Department conducted work on the application of the photoelectric method and photometry to the study of radiant energy, as well as optics. The scientific work was noticeably revived after the arrival of Professor A. p. Pospelov, who moved to Voronezh from Tomsk.'
 images:
-  - src: '/images/milky-way.jpg'
+  - src: '/images/titled-teaser/milky-way.jpg'
     alt: 'The History of the Faculty'
     type: 'image'
 updatedAt: 1568360578

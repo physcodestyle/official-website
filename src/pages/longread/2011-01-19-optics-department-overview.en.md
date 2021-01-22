@@ -6,7 +6,7 @@ title: 'Optics and spectroscopy Department today'
 description: 'The Optics and spectroscopy Department was established in 1961 by associate Professor Elizaveta Nikolaevna Ivanova'
 lead: 'The Optics and spectroscopy Department was established in 1961 by associate Professor Elizaveta Nikolaevna Ivanova and a small group of teachers. Up to this point, they all worked at the Department of electromagnetic oscillations under the guidance of the world-famous prof.M. Levitskaya, where scientific research and specialists in optical spectroscopy of atoms, molecules and solids were produced. By the time of creation of the Department methods of optical spectroscopy have already found wide application in many fields of science and technology.'
 images:
-  - src: '/images/el_phys_about_01.jpg'
+  - src: '/images/titled-teaser/el_phys_about_01.jpg'
     alt: 'История кафедры электроники - 1'
     type: 'image'
 updatedAt: 1568360578

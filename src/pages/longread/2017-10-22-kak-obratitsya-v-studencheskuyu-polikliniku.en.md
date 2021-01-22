@@ -1,11 +1,12 @@
 ---
 permalink: '/en/longread/kak-obratitsya-v-studencheskuyu-polikliniku/index.html'
 layout: 'longread.en.njk'
-aim: 'all'
+tags:
+  - read_en
 title: 'How to Apply to the Student Clinic'
 description: 'We tell you how to pass fluorography without any hassle, do vaccinations and spend a minimum of time visiting hospitals'
 images:
-  - src: '/images/student-hospital.jpg'
+  - src: '/images/titled-teaser/student-hospital.jpg'
     alt: 'How to Apply to the Student Clinic'
     type: 'image'
 updatedAt: 1568360578

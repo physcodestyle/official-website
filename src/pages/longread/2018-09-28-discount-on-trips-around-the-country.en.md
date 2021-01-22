@@ -1,12 +1,13 @@
 ---
 permalink: '/en/longread/discount-on-trips-around-the-country/index.html'
 layout: 'longread.en.njk'
-aim: 'all'
+tags:
+  - read_en
 title: 'Discount on Travel Around the Country'
 description: 'Russian Railways gives 25% discount to students for trips around the country'
 lead: 'The student program is valid for travel in wagons of the type of compartment (those that belong to JSC FPC). And also Sapsan and Allegro and other trains of the series 701-750.'
 images:
-  - src: '/images/trail-discounts-for-students.jpg'
+  - src: '/images/titled-teaser/trail-discounts-for-students.jpg'
     alt: 'Discount on Travel Around the Country'
     type: 'image'
 updatedAt: 1568360578

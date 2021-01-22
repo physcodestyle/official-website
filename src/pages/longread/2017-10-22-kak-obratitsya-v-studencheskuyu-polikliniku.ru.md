@@ -1,11 +1,12 @@
 ---
 permalink: '/ru/longread/kak-obratitsya-v-studencheskuyu-polikliniku/index.html'
 layout: 'longread.ru.njk'
-aim: 'all'
+tags:
+  - read_ru
 title: 'Как обратиться в студенческую поликлинику'
 description: 'Рассказываем, как без лишних хлопот проходить флюорографию, делать прививки и тратить минимум времени на посещение больниц'
 images:
-  - src: '/images/student-hospital.jpg'
+  - src: '/images/titled-teaser/student-hospital.jpg'
     alt: 'Как обратиться в студенческую поликлинику'
     type: 'image'
 updatedAt: 1568360578

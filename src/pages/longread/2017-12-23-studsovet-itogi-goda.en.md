@@ -1,11 +1,12 @@
 ---
 permalink: '/en/longread/studsovet-itogi-goda/index.html'
 layout: 'longread.en.njk'
-aim: 'all'
+tags:
+  - read_en
 title: 'Student Council – Year-End 2017'
 description: 'Tell the coordinators of the directions'
 images:
-  - src: '/images/studsovet-2017.jpg'
+  - src: '/images/titled-teaser/studsovet-2017.jpg'
     alt: 'Student Council – Year-End 2017'
     type: 'image'
 updatedAt: 1568360578

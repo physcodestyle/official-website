@@ -1,11 +1,12 @@
 ---
 permalink: '/en/longread/apple-music-so-skidkoy/index.html'
 layout: 'longread.en.njk'
-aim: 'all'
+tags:
+  - read_en
 title: 'Apple Music at a Discount'
 description: 'You can use a preferential subscription until the end of your studies at the VSU'
 images:
-  - src: '/images/apple-music-discounts-for-students.jpg'
+  - src: '/images/titled-teaser/apple-music-discounts-for-students.jpg'
     alt: 'Apple Music at a Discount'
     type: 'image'
 updatedAt: 1568360578

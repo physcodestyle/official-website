@@ -1,11 +1,12 @@
 ---
 permalink: '/ru/longread/producty-JetBrains-dlya-studentov/index.html'
 layout: 'longread.ru.njk'
-aim: 'all'
+tags:
+  - read_ru
 title: 'Продукты JetBrains для студентов'
 description: 'Рассказываем как получить редакторы кода от JetBrains для таких языков как C, Java, Python и др.'
 images:
-  - src: '/images/how-to-get-jetbrains-products.jpg'
+  - src: '/images/titled-teaser/how-to-get-jetbrains-products.jpg'
     alt: 'Продукты JetBrains для студентов'
     type: 'image'
 updatedAt: 1568360578

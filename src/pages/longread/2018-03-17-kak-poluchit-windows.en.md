@@ -1,11 +1,12 @@
 ---
 permalink: '/en/longread/kak-poluchit-windows/index.html'
 layout: 'longread.en.njk'
-aim: 'all'
+tags:
+  - read_en
 title: 'How to Get Windows?'
 description: 'We tell you how to get licensed Windows 10'
 images:
-  - src: '/images/microsoft-office-license-for-students.jpg'
+  - src: '/images/titled-teaser/microsoft-office-license-for-students.jpg'
     alt: 'How to Get Windows?'
     type: 'image'
 updatedAt: 1568360578

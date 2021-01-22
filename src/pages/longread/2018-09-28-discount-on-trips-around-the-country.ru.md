@@ -1,12 +1,13 @@
 ---
 permalink: '/ru/longread/discount-on-trips-around-the-country/index.html'
 layout: 'longread.ru.njk'
-aim: 'all'
+tags:
+  - read_ru
 title: 'Как студенту ФизФака получить скидку 25% на поездки по стране'
 description: 'Студенческая программа действует на поездки в вагонах типа купейных (те, что принадлежат...'
 lead: 'Студенческая программа действует на поездки в вагонах типа купейных (те, что принадлежат АО «ФПК»). А также «Сапсан» и «Аллегро» и другие поезда серии 701-750.'
 images:
-  - src: '/images/trail-discounts-for-students.jpg'
+  - src: '/images/titled-teaser/trail-discounts-for-students.jpg'
     alt: 'Скидка на проезд по стране'
     type: 'image'
 updatedAt: 1568360578

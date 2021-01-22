@@ -1,11 +1,12 @@
 ---
 permalink: '/ru/longread/kak-poluchit-windows/index.html'
 layout: 'longread.ru.njk'
-aim: 'all'
+tags:
+  - read_ru
 title: 'Как получить Windows?'
 description: 'Рассказываем, как получить лицензионную Windows 10'
 images:
-  - src: '/images/microsoft-office-license-for-students.jpg'
+  - src: '/images/titled-teaser/microsoft-office-license-for-students.jpg'
     alt: 'Как получить Windows?'
     type: 'image'
 updatedAt: 1568360578

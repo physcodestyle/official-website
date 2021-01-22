@@ -1,11 +1,12 @@
 ---
 permalink: '/en/longread/kak-oformit-matpomosh/index.html'
 layout: 'longread.en.njk'
-aim: 'all'
+tags:
+  - read_en
 title: 'How to Apply for Financial Aid?'
 description: 'Material assistance can be obtained regardless of academic performance and...'
 images:
-  - src: '/images/kak-oformit-matpomosch.jpg'
+  - src: '/images/titled-teaser/kak-oformit-matpomosch.jpg'
     alt: 'How to Apply for Financial Aid?'
     type: 'image'
 updatedAt: 1568360578

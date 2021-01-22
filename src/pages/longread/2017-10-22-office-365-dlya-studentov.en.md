@@ -1,11 +1,12 @@
 ---
 permalink: '/en/longread/office-365-dlya-studentov/index.html'
 layout: 'longread.en.njk'
-aim: 'all'
+tags:
+  - read_en
 title: 'Office 365 for Students'
 description: 'How does a student get Office 365 for free?'
 images:
-  - src: '/images/microsoft-office-license-for-students.jpg'
+  - src: '/images/titled-teaser/microsoft-office-license-for-students.jpg'
     alt: 'Office 365 for Students'
     type: 'image'
 updatedAt: 1568360578

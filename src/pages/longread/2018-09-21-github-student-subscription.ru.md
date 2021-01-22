@@ -1,21 +1,22 @@
 ---
 permalink: '/ru/longread/github-student-subscription/index.html'
 layout: 'longread.ru.njk'
-aim: 'all'
+tags:
+  - read_ru
 title: 'Студенческая подписка на GitHub'
 description: 'Сегодня рассказываем как получить студенческую подписку на GitHub, которая даёт доступ к...'
 lead: 'Сегодня рассказываем как получить студенческую подписку на GitHub, которая даёт доступ к текстовому редактору Atom, AWS Educate — ресурс от Amazon для обучения в сфере облачных технологий, также доступ к продуктам от JetBrains и т.д.'
 images:
-  - src: '/images/github-student-subscription-01.jpg'
+  - src: '/images/titled-teaser/github-student-subscription-01.jpg'
     alt: 'Студенческая подписка на GitHub - 1'
     type: 'image'
-  - src: '/images/github-student-subscription-02.jpg'
+  - src: '/images/titled-teaser/github-student-subscription-02.jpg'
     alt: 'Студенческая подписка на GitHub - 2'
     type: 'image'
-  - src: '/images/github-student-subscription-03.jpg'
+  - src: '/images/titled-teaser/github-student-subscription-03.jpg'
     alt: 'Студенческая подписка на GitHub - 3'
     type: 'image'
-  - src: '/images/github-student-subscription-04.jpg'
+  - src: '/images/titled-teaser/github-student-subscription-04.jpg'
     alt: 'Студенческая подписка на GitHub - 4'
     type: 'image'
 updatedAt: 1568360578

@@ -6,7 +6,7 @@ title: 'General physics Department today'
 description: 'Department of General physics existed from the date of formation of VSU. The head of the Department was...'
 lead: 'The General physics Department has existed as part of the faculty of physics and mathematics since the founding of the FSU (i.e. since 1918). The Department was led by Professor Sakharov, Nikolai Aleksandrovich. In 1941, our University was evacuated to Elabuga. In 1964, when the main building of the VSU was commissioned, the Department of General physics began to function.'
 images:
-  - src: '/images/el_phys_about_01.jpg'
+  - src: '/images/titled-teaser/el_phys_about_01.jpg'
     alt: 'История кафедры электроники - 1'
     type: 'image'
 updatedAt: 1568360578
