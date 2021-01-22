@@ -43,10 +43,11 @@ gulp.task('news', async () => {
         md += `updatedAt: ${vkNews[key].date}\n`;
         md += `---\n`;
         if (vkNews[key].image) {
-          md += `![${desc}](${vkNews[key].image.url})\n`;
+          md += `![${vkNews[key].title}](${vkNews[key].image.url})\n`;
           md += `${vkNews[key].text}`;
         } else if (vkNews[key].link) {
-          md += `[${vkNews[key].text}](${vkNews[key].link})\n`;
+          md += `![${vkNews[key].link.title}](${vkNews[key].link.image.url})\n`;
+          md += `[${vkNews[key].text}](${vkNews[key].link.url})\n`;
         }
         fs.writeFile(`src/pages/news/${key}.ru.md`, md, function (err) {
           if (err) return console.log(err);

@@ -28,13 +28,21 @@ if (isset($response->error)) {
     foreach ($post->attachments as $attachment) {
       if ($attachment->type === 'photo') {
         $maxSize = 0;
+        $result['vk-' . $post->id]['title'] = $attachment->photo->text;
         foreach ($attachment->photo->sizes as $size) {
           if ($size->width >= $maxSize) {
             $result['vk-' . $post->id]['image'] = $size;
           }
         }
       } else if ($attachment->type === 'link') {
-        $result['vk-' . $post->id]['link'] = $attachment->link->url;
+        $maxSize = 0;
+        $result['vk-' . $post->id]['link']['url'] = $attachment->link->url;
+        $result['vk-' . $post->id]['link']['title'] = $attachment->link->photo->text;
+        foreach ($attachment->link->photo->sizes as $size) {
+          if ($size->width >= $maxSize) {
+            $result['vk-' . $post->id]['link']['image'] = $size;
+          }
+        }
       }
     }
   }
