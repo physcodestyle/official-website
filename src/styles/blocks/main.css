@@ -4,6 +4,7 @@
   display: grid;
   grid-auto-flow: row;
   grid-gap: 32px;
+  padding: 32px 0;
 }
 
 .main__key-list-wrapper {

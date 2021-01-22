@@ -17,9 +17,11 @@
 @import 'blocks/footer-menu.css';
 @import 'blocks/news.css';
 @import 'blocks/main.css';
+@import 'blocks/dep-list.css';
 @import 'blocks/news-card.css';
 @import 'blocks/key-card.css';
 @import 'blocks/read-card.css';
+@import 'blocks/contact-card.css';
 
 :root {
   --color-accent: #f5df4d;
