@@ -9,12 +9,7 @@ module.exports = (config) => {
   config.addPassthroughCopy('src/assets');
   config.addPassthroughCopy('src/images');
 
-  // Limiter for loop
-  config.addFilter('limit', function(arr, limit) {
-    return arr.slice(0, limit);
-  });
-
-  // Footer Menu
+  // Shortcode: Footer Menu
   config.addNunjucksShortcode('footerMenu', (language) => {
     let menu = `<ul class="footer-menu">`;
     for(chapter of footerMenuJson[language]) {
@@ -36,7 +31,7 @@ module.exports = (config) => {
     return menu;
   });
 
-  // Language Selector
+  // Shortcode: Language Selector
   config.addNunjucksShortcode('languages', (language, url) => {
     let lang = `<div class="languages">`;
     switch (language) {
@@ -66,7 +61,7 @@ module.exports = (config) => {
     return lang;
   });
 
-  // Copyright
+  // Shortcode: Copyright
   config.addNunjucksShortcode('copyright', (language) => {
     switch (language) {
       case 'en': return `© ${new Date().getFullYear()}, Physics Faculty of VSU`;
@@ -74,7 +69,7 @@ module.exports = (config) => {
     }
   });
 
-  // Address
+  // Shortcode: Address
   config.addNunjucksShortcode('address', (language) => {
     switch (language) {
       case 'en': return `<a class="address__link" target="blank_" href="https://goo.gl/maps/rvsJQgLD9DkFbfts8" title="Show on map">394018, Voronezh, Universitetskaya&nbsp;square,&nbsp;1,&nbsp;r.&nbsp;238</a>`;
@@ -82,7 +77,7 @@ module.exports = (config) => {
     }
   });
 
-  // Timestamp to localized date converter
+  // Shortcode: Timestamp to localized date converter
   config.addNunjucksShortcode('timestampToDate', (language, time) => {
     const date = new Date(time * 1000);
     let formnattedDate = date.toLocaleString(language, {
@@ -94,7 +89,7 @@ module.exports = (config) => {
     return formnattedDate;
   });
 
-  // Read time colculator
+  // Shortcode: Read time colculator
   config.addNunjucksShortcode('readingTime', (language, text) => {
     let textLength = text.split(' ').length; // Split by words
     const wordsPerMinute = 150; // Average case.
@@ -109,6 +104,17 @@ module.exports = (config) => {
     }
   });
 
+  // Filter: Limiter for loop
+  config.addFilter('limit', function(arr, limit) {
+    return arr.slice(0, limit);
+  });
+
+  // Filter: Sorter (by date)
+  config.addFilter('sortByDate', function(arr) {
+    return arr.sort((a, b) => a.data.updatedAt - b.data.updatedAt)
+  });
+
+  // Filter: HTML minifier
   config.addFilter('htmlmin', (value) => {
     return htmlmin.minify(
       value, {
@@ -118,6 +124,7 @@ module.exports = (config) => {
     );
   });
 
+  // Transform: HTML minifier
   config.addTransform('htmlmin', (content, outputPath) => {
     if (outputPath && outputPath.endsWith('.html')) {
       const result = htmlmin.minify(

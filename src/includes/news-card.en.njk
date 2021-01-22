@@ -1,4 +1,4 @@
-{% for post in collections.news_en | limit(6) %}
+{% for post in collections.news_en | sortByDate | reverse | limit(6) %}
   <div class="news-card {% if page.url == post.url %} news-card--active {% endif %} block">
     {% if page.url == post.url %}
       <span class="news-card__content block__content">{{ post.data.description }}</span>
