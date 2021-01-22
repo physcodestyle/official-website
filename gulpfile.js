@@ -22,35 +22,23 @@ gulp.task('news', async () => {
       const vkKeys = Object.keys(vkNews);
       for (key of vkKeys) {
         counter++;
-        let desc = '';
-        const wordArray = vkNews[key].text.split('\n')[0].split(' ');
-        for (i = 0; i < wordArray.length && i < 15; i++) {
-          if (wordArray[i].slice(-1) === '.') {
-            desc += wordArray[i]
-            desc[desc.length - 1] = '…';
-            break;
-          } else if (wordArray[i].slice(0) === '#' || wordArray[i].slice(-1) === '\n') {
-            desc += wordArray[i] + '…';
-            break;
-          } else {
-            desc += wordArray[i] + ' ';
-          }
-        }
+        const vkRegExp = /\[(club|id)[0-9]+\|/ig;
+        let desc = `${vkNews[key].text.trim().replaceAll(vkRegExp, '').replaceAll(']', '').replaceAll('\n', ' ').slice(0, 100)}…`;
         let md = `---\n`;
         md += `permalink: '/ru/news/${key}/index.html'\n`;
         md += `layout: 'news.ru.njk'\n`;
-        md += `title: '${vkNews[key].title}'\n`;
+        md += `title: '${desc}'\n`;
         md += `source: ВКонтакте\n`;
         md += `tags:\n  - news_ru\n`;
         md += `description: '${desc}'\n`;
         md += `updatedAt: ${vkNews[key].date}\n`;
         md += `---\n`;
         if (vkNews[key].image) {
-          md += `![${vkNews[key].title}](${vkNews[key].image.url})\n`;
-          md += `${vkNews[key].text}`;
+          md += `![${desc}](${vkNews[key].image.url})\n`;
+          md += `${vkNews[key].text.replaceAll(vkRegExp, '').replaceAll(']', '')}`;
         } else if (vkNews[key].link) {
           if (vkNews[key].link.image) {
-            md += `![${vkNews[key].link.title}](${vkNews[key].link.image.url})\n`;
+            md += `![${desc}](${vkNews[key].link.image.url})\n`;
           }
           md += `[${vkNews[key].text}](${vkNews[key].link.url})\n`;
         }
