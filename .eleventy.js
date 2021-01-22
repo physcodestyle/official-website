@@ -43,7 +43,7 @@ module.exports = (config) => {
           url = url.replace('en/', 'ru/');
         }
         lang += `<a class="languages__flag button button--sticky" href="${url}">
-          <img class="languages__flag-icon button-icon" src="/assets/Icon/Flag/RU.svg" width="24" height="24" title="На русском языке" />
+          <img class="languages__flag-icon button-icon" src="/assets/Icon/Flag/RU/Large.svg" width="24" height="24" title="На русском языке" />
         </a>`;
         break;
       case 'ru':
@@ -53,7 +53,7 @@ module.exports = (config) => {
           url = '/en' + url
         }
         lang += `<a class="languages__flag button button--sticky" href="${url}">
-          <img class="languages__flag-icon button-icon" src="/assets/Icon/Flag/GB.svg" width="24" height="24" title="In English" />
+          <img class="languages__flag-icon button-icon" src="/assets/Icon/Flag/GB/Large.svg" width="24" height="24" title="In English" />
         </a>`;
         break;
     }
