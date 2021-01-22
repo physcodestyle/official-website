@@ -15,7 +15,6 @@
 .contact-card__caption,
 .contact-card__content {
   margin: 0;
-  text-decoration: none;
 }
 
 .contact-card__caption {
@@ -28,7 +27,6 @@
   grid-gap: 14px;
   padding-top: 4px;
   justify-content: start;
-  text-decoration: none;
 }
 
 .contact-card__contact--rows {
@@ -42,7 +40,6 @@
   grid-gap: 4px;
   justify-content: start;
   align-items: center;
-  text-decoration: none;
 }
 
 .contact-card__contact-icon {

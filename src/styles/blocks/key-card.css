@@ -19,7 +19,6 @@
 
 .key-card__content {
   grid-area: content;
-  text-decoration: none;
 }
 
 .key-card__info {

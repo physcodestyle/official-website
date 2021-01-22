@@ -9,7 +9,6 @@
 
 .read-card__content {
   grid-area: content;
-  text-decoration: none;
 }
 
 .read-card--active .read-card__content {

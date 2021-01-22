@@ -8,7 +8,6 @@
 
 .news-card__content {
   margin: 0;
-  text-decoration: none;
 }
 
 .news-card--active .news-card__content {

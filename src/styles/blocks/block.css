@@ -17,14 +17,17 @@
 .block__header,
 .block__content {
   color: var(--color-text, black);
+  text-decoration: none;
 }
 
 .block__caption {
+  text-decoration: none;
   font-weight: lighter;
   font-size: var(--text-caption-small, 2.3em);
 }
 
 .block__header {
+  text-decoration: none;
   font-weight: bold;
   font-size: var(--text-header-small, 1em);
 }
