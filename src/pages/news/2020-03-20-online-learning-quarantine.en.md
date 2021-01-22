@@ -1,6 +1,7 @@
 ---
 permalink: '/en/news/online-learning-quarantine/index.html'
 layout: 'news.en.njk'
+title: 'Distance learning in the conditions of the quarantine'
 source: site
 tags:
   - news_en

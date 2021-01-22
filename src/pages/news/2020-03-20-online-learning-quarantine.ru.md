@@ -1,6 +1,7 @@
 ---
 permalink: '/ru/news/online-learning-quarantine/index.html'
 layout: 'news.ru.njk'
+title: 'Дистанционное обучение в условиях карантина'
 source: сайт
 tags:
   - news_ru
