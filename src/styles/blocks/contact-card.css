@@ -1,0 +1,43 @@
+/* Contact Card */
+
+.contact-card {
+  display: grid;
+  grid-auto-flow: row;
+  grid-gap: 4px;
+  padding: 8px 16px;
+}
+
+.contact-card__header,
+.contact-card__caption,
+.contact-card__content {
+  margin: 0;
+  text-decoration: none;
+}
+
+.contact-card__contact {
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 14px;
+  padding-top: 4px;
+  justify-content: start;
+  text-decoration: none;
+}
+
+.contact-card__contact-item {
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 4px;
+  justify-content: start;
+  align-items: center;
+  text-decoration: none;
+}
+
+.contact-card__contact-icon {
+  margin: 0;
+  width: 16px;
+  height: 16px;
+}
+
+.contact-card__contact-info {
+  text-decoration: none;
+}
