@@ -5,6 +5,20 @@ const terser = require('gulp-terser');
 const axios = require('axios');
 const fs = require('fs');
 
+// Processing a content with links
+
+function addLinks(text) {
+  const linkRegExp = /(http|https):\/\/[0-9a-zа-я=_%&?\/\.]+/gi;
+  const allLinks = text.match(linkRegExp);
+  let result = text;
+  if (allLinks !== null) {
+    allLinks.forEach(element => {
+      result = result.replaceAll(element, `[${element}](${element})`);
+    });
+  }
+  return result;
+}
+
 // Get current news
 
 gulp.task('news', async () => {
@@ -38,9 +52,10 @@ gulp.task('news', async () => {
           const list = vkNews[key].text.replaceAll(vkRegExp, '').replaceAll(']', '').split('\n');
           for (i = 0; i < list.length; i++) {
             if (list[i] !== '\n') {
-              md += `${list[i].trim()}\n`;
+              md += addLinks(`${list[i].trim()}\n`);
             }
           }
+          md = md.replaceAll(/[\n]{3,}/gi, `\n\n`);
         } else if (vkNews[key].link) {
           if (vkNews[key].link.image) {
             md += `![${desc}](${vkNews[key].link.image.url})\n\n`;
