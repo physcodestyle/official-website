@@ -21,6 +21,7 @@
 .button__icon {
   object-fit: contain;
   width: auto;
+  margin: 0;
 }
 
 .button__title {

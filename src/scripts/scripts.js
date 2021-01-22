@@ -14,7 +14,7 @@
       menu.classList.toggle('header__navigation--open');
       if (menu.classList.contains('header__navigation--open')) {
         menuTitle.innerHTML = isRussianPage ? 'Закрыть' : 'Close';
-        menuIcon.setAttribute('src', '/assets/Icon/Close.svg');
+        menuIcon.setAttribute('src', '/assets/Icon/Close/Large.svg');
         menuIcon.setAttribute('width', '24');
         menuIcon.setAttribute('height', '24');
         page.setAttribute('style', 'overflow-y: hidden;');
