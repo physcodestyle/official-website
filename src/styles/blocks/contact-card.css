@@ -7,11 +7,19 @@
   padding: 8px 16px;
 }
 
+.contact-card--featured {
+  padding-top: 0;
+}
+
 .contact-card__header,
 .contact-card__caption,
 .contact-card__content {
   margin: 0;
   text-decoration: none;
+}
+
+.contact-card__caption {
+  font-weight: bold;
 }
 
 .contact-card__contact {
@@ -21,6 +29,11 @@
   padding-top: 4px;
   justify-content: start;
   text-decoration: none;
+}
+
+.contact-card__contact--rows {
+  grid-auto-flow: row;
+  grid-gap: 4px;
 }
 
 .contact-card__contact-item {
@@ -39,5 +52,6 @@
 }
 
 .contact-card__contact-info {
+  margin: 0;
   text-decoration: none;
 }
