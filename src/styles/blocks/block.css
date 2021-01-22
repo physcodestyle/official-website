@@ -5,6 +5,14 @@
   line-height: 1.5;
 }
 
+.block__list-header {
+  margin: 0;
+  padding: 0 16px 8px;
+  font-size: 16px;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
 .block__caption,
 .block__header,
 .block__content {
