@@ -2,7 +2,7 @@
 
 .footer {
   display: grid;
-  grid-template: 'menu' 'address' 'copyright' 'language';
+  grid-template: 'social' 'menu' 'address' 'copyright' 'language';
   align-items: flex-start;
   grid-gap: 8px;
   width: 100vw;
@@ -12,12 +12,18 @@
 
 @media (min-width: 802px) {
   .footer {
-    grid-template: 'menu menu menu menu' 'address address copyright language';
+    grid-template: 'social social social social' 'menu menu menu menu' 'address address copyright language';
     grid-template-rows: repeat(2, auto);
     grid-template-columns: 25% 25% minmax(max-content, calc(50% - 48px)) 32px;
     grid-auto-flow: unset;
     grid-gap: 16px;
   }
+}
+
+.footer__social-list {
+  grid-area: social;
+  justify-self: center;
+  padding-bottom: 24px;
 }
 
 .footer__menu {

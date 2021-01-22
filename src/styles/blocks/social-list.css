@@ -1,0 +1,12 @@
+.social-list {
+  display: grid;
+  grid-auto-flow: row;
+}
+
+@media (min-width: 802px) {
+  .social-list {
+    grid-auto-flow: unset;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
