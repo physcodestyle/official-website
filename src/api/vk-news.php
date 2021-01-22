@@ -37,7 +37,7 @@ if (isset($response->error)) {
       } else if ($attachment->type === 'link') {
         $maxSize = 0;
         $result['vk-' . $post->id]['link']['url'] = $attachment->link->url;
-        $result['vk-' . $post->id]['link']['title'] = $attachment->link->photo->text;
+        $result['vk-' . $post->id]['title'] = $attachment->link->photo->text;
         foreach ($attachment->link->photo->sizes as $size) {
           if ($size->width >= $maxSize) {
             $result['vk-' . $post->id]['link']['image'] = $size;

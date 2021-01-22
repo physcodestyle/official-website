@@ -39,6 +39,7 @@ gulp.task('news', async () => {
         let md = `---\n`;
         md += `permalink: '/ru/news/${key}/index.html'\n`;
         md += `layout: 'news.ru.njk'\n`;
+        md += `title: '${vkNews[key].title}'\n`;
         md += `source: ВКонтакте\n`;
         md += `tags:\n  - news_ru\n`;
         md += `description: '${desc}'\n`;
