@@ -23,7 +23,7 @@ gulp.task('news', async () => {
       for (key of vkKeys) {
         counter++;
         const vkRegExp = /\[(club|id)[0-9]+\|/ig;
-        let desc = `${vkNews[key].text.trim().replaceAll(vkRegExp, '').replaceAll(']', '').replaceAll('\n', ' ').slice(0, 100)}…`;
+        let desc = `${vkNews[key].text.trim().replaceAll(vkRegExp, '').replaceAll(']', '').replaceAll('\n', ' ').slice(0, 95)}…`;
         let md = `---\n`;
         md += `permalink: '/ru/news/${key}/index.html'\n`;
         md += `layout: 'news.ru.njk'\n`;
