@@ -1,0 +1,46 @@
+/* Key Card */
+
+.key-card {
+  display: grid;
+  grid-template: 'number content' 'number info';
+  grid-template-columns: min-content auto;
+  grid-gap: 4px;
+  padding: 8px 16px;
+  counter-increment: key-counter;
+}
+
+.key-card::before {
+  grid-area: number;
+  content: '0' counter(key-counter);
+  width: 48px;
+  font-weight: bold;
+  font-size: var(--text-caption-small, 2em);
+}
+
+.key-card__content {
+  grid-area: content;
+  text-decoration: none;
+}
+
+.key-card__info {
+  display: grid;
+  grid-auto-flow: column;
+  grid-area: info;
+  justify-content: start;
+  grid-gap: 0.25em;
+}
+
+.key-card__created {
+  display: block;
+}
+
+.key-card__reading-time {
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 0.25em;
+}
+
+.key-card__reading-time::before {
+  display: block;
+  content: '•';
+}

@@ -4,8 +4,14 @@ layout: 'page.en.njk'
 permalink: '/en/index.html'
 ---
 <main class="main">
+  <div class="main__key-list block">
+    <h2 class="main__key-list-title block__list-header">Featured</h2>
+    <ol class="main__key-list-wrapper">
+      {% include 'key-card.en.njk' %}
+    </ol>
+  </div>
   <div class="main__news-list block">
-    <h2 class="news-list-title block__list-header">News</h2>
+    <h2 class="main__news-list-title block__list-header">News</h2>
     {% include 'news-card.en.njk' %}
   </div>
 </main>
