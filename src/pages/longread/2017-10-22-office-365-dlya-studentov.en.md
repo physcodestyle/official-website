@@ -25,5 +25,4 @@ How to connect:
 
 5. The first time you log in, the system will ask you to set a new password, instead of a temporary one. Change and enter the system:
 
-
 That’s all. Now you can use the Office 365 package, but you can only use it until the end of your studies at the University.

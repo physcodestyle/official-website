@@ -46,7 +46,6 @@ Main research interests:
 - chaotic systems
 - ultrashort pulses in electronics and radar
 
-
 ## Public activities
 
 Main research interests: electromagnetic compatibility of radio-electronic devices, solid-state microwave devices, chaotic systems, ultrashort pulses in electronics and radar

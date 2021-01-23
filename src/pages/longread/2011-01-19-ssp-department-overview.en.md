@@ -47,7 +47,6 @@ Current research areas
 
 - Influence of ultrashort pulses of electromagnetic radiation on devices, integrated circuits and electronic devices.-
 
-
 Scientific and educational relations
 ------------------------------------
 

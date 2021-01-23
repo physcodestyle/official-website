@@ -31,7 +31,6 @@ The main direction of these scientific researches under the name “Fundamental 
 
 - Use of dissipative-induced polarization dichroism for nonlinear laser spectroscopy of atoms and ions.
 
-
 Research in these areas is stimulated by the sustained interest of the world scientific community in the processes of interaction of laser radiation with matter. It is enough to point to the range of application of modern lasers, which has recently been achieved in science and technology, including household appliances — from the creation of ultra-precise devices for welding metals to miniaturization of modern computer facilities, from cable television and fiber-optic communication systems to modern means of space navigation and information transmission. Significant hopes in the development of new sources of energy physics associated with laser-controlled thermonuclear reaction.
 
 Understanding the processes of interaction of high-power pulses of laser radiation with matter is impossible without fundamental knowledge based on a strict mathematical description of the elementary effects of the interaction of strong electromagnetic fields with atoms, molecules and elementary particles. The scientific research activity of the staff of the Department of theoretical physics of VSU is devoted to the acquisition of this knowledge.

@@ -69,7 +69,6 @@ Research staff and graduate students of the Department are concentrated in the f
 
 - Formation and decay of plasmon-polariton excitations in condensed media.
 
-
 Scientific work
 ---------------
 
@@ -87,7 +86,6 @@ The Department of optics and spectroscopy has developed a scientific and pedagog
 
 - Plasmon-polariton excitations in condensed media
 
-
 #### Applied research:
 
 - Development of materials for optical memory and new ways of recording and reading optical information
@@ -95,7 +93,6 @@ The Department of optics and spectroscopy has developed a scientific and pedagog
 - Development of low-threshold power limiters
 
 - Digital processing of optical images
-
 
 Cooperation
 -----------
