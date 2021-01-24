@@ -1,0 +1,18 @@
+.dep-list {
+  display: grid;
+  grid-auto-flow: row;
+}
+
+@media (min-width: 640px) {
+  .dep-list {
+    grid-auto-flow: unset;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 960px) {
+  .dep-list {
+    grid-auto-flow: unset;
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

@@ -1,0 +1,52 @@
+.contacts {
+  display: grid;
+  grid-template: 'map' 'contact' 'deanary' 'departments';
+  justify-content: start;
+  align-items: start;
+  grid-gap: 32px;
+  margin: 0 0 32px;
+}
+
+@media (min-width: 640px) {
+  .contacts {
+    grid-template: 'map map' 'contact deanary' 'departments departments';
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 0;
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 960px) {
+  .contacts {
+    grid-template: 'map map contact' 'map map deanary' 'departments departments departments';
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 0;
+    max-width: 960px;
+  }
+}
+
+.contacts__map {
+  grid-area: map;
+}
+
+.contacts__map-image {
+  margin: 0 auto;
+}
+
+.contacts__dep-contact {
+  grid-area: contact;
+}
+
+.contacts__dean-contact {
+  grid-area: deanary;
+}
+
+.contacts__dep-list {
+  grid-area: departments;
+}
+
+@media (min-width: 960px) {
+  .contacts__dep-list {
+    margin-top: 32px;
+  }
+}
