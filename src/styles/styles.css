@@ -100,6 +100,21 @@
   --text-content-small: 14px;
   --text-contact-small: 13px;
   --text-info-small: 11px;
+  --text-list-header-small: 16px;
+
+  --text-caption-medium: 37px;
+  --text-header-medium: 16px;
+  --text-content-medium: 16px;
+  --text-contact-medium: 15px;
+  --text-info-medium: 13px;
+  --text-list-header-medium: 18px;
+
+  --text-caption-large: 39px;
+  --text-header-large: 18px;
+  --text-content-large: 18px;
+  --text-contact-large: 17px;
+  --text-info-large: 14px;
+  --text-list-header-large: 21px;
 
   --text-size-button-medium: 16px;
 

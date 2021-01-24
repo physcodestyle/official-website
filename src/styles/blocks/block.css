@@ -2,15 +2,27 @@
 
 .block {
   font-family: 'Fira Sans', sans-serif;
-  line-height: 1.5;
+  line-height: 1.2;
 }
 
 .block__list-header {
   margin: 0;
   padding: 0 16px 8px;
-  font-size: 16px;
+  font-size: var(--text-list-header-small, 1.14em);
   line-height: 1;
   text-transform: uppercase;
+}
+
+@media (min-width: 375px) {
+  .block__list-header {
+    font-size: var(--text-list-header-medium, 1.14em);
+  }
+}
+
+@media (min-width: 520px) {
+  .block__list-header {
+    font-size: var(--text-list-header-large, 1.14em);
+  }
 }
 
 .block__caption,
@@ -26,15 +38,51 @@
   text-decoration: none;
 }
 
+@media (min-width: 375px) {
+  .block__caption {
+    font-size: var(--text-caption-medium, 2.3em);
+  }
+}
+
+@media (min-width: 520px) {
+  .block__caption {
+    font-size: var(--text-caption-large, 2.3em);
+  }
+}
+
 .block__header {
   font-weight: bold;
   font-size: var(--text-header-small, 1em);
   text-decoration: none;
 }
 
+@media (min-width: 375px) {
+  .block__header {
+    font-size: var(--text-header-medium, 1em);
+  }
+}
+
+@media (min-width: 520px) {
+  .block__header {
+    font-size: var(--text-header-large, 1em);
+  }
+}
+
 .block__content {
   font-weight: lighter;
   font-size: var(--text-content-small, 1em);
+}
+
+@media (min-width: 375px) {
+  .block__content {
+    font-size: var(--text-content-medium, 1em);
+  }
+}
+
+@media (min-width: 520px) {
+  .block__content {
+    font-size: var(--text-content-large, 1em);
+  }
 }
 
 .block__contact,
@@ -49,7 +97,31 @@
   font-size: var(--text-contact-small, 0.93em);
 }
 
+@media (min-width: 375px) {
+  .block__contact {
+    font-size: var(--text-contact-medium, 0.93em);
+  }
+}
+
+@media (min-width: 520px) {
+  .block__contact {
+    font-size: var(--text-contact-large, 0.93em);
+  }
+}
+
 .block__info {
   margin: 0;
   font-size: var(--text-info-small, 0.79em);
+}
+
+@media (min-width: 375px) {
+  .block__info {
+    font-size: var(--text-info-medium, 0.79em);
+  }
+}
+
+@media (min-width: 520px) {
+  .block__info {
+    font-size: var(--text-info-large, 0.79em);
+  }
 }
