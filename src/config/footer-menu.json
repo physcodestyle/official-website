@@ -140,6 +140,7 @@
     },
     {
       "title": "Контакты",
+      "link": "/contacts.html",
       "menu": [
         {
           "title": "ВГУ",
@@ -301,6 +302,7 @@
     },
     {
       "title": "Contacts",
+      "link": "/en/contacts.html",
       "menu": [
         {
           "title": "VSU",

@@ -21,6 +21,7 @@
 .button__icon {
   object-fit: contain;
   width: auto;
+  max-width: unset;
   margin: 0;
 }
 
