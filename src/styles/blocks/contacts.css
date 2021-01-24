@@ -4,8 +4,8 @@
   justify-content: start;
   align-items: start;
   grid-gap: 32px;
-  margin: 0 0 32px;
   max-width: 1024px;
+  margin: 0 0 32px;
 }
 
 @media (min-width: 640px) {
