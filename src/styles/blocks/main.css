@@ -10,14 +10,14 @@
 @media (min-width: 640px) {
   .main {
     grid-column-gap: 0;
-    grid-template: 'key key' 'read news' 'departments departments' 'contact contact';
+    grid-template: 'key key' 'news read' 'departments departments' 'contact contact';
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media (min-width: 960px) {
   .main {
-    grid-template: 'key key key key key key' 'read read read news news news' 'departments departments departments departments departments departments' 'contact contact contact contact contact contact';
+    grid-template: 'key key key key key key' 'news news news read read read' 'departments departments departments departments departments departments' 'contact contact contact contact contact contact';
     grid-template-columns: repeat(6, 1fr);
   }
 }
