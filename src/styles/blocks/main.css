@@ -2,14 +2,64 @@
 
 .main {
   display: grid;
-  grid-auto-flow: row;
+  grid-template: 'key' 'read' 'news' 'departments' 'contact';
   grid-gap: 32px;
   padding: 32px 0;
 }
 
+@media (min-width: 640px) {
+  .main {
+    grid-column-gap: 0;
+    grid-template: 'key key' 'read news' 'departments departments' 'contact contact';
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 960px) {
+  .main {
+    grid-template: 'key key key key key key' 'read read read news news news' 'departments departments departments departments departments departments' 'contact contact contact contact contact contact';
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+.main__key-list {
+  grid-area: key;
+}
+
 .main__key-list-wrapper {
+  display: grid;
+  grid-auto-flow: row;
   margin: 0;
   padding: 0;
   list-style: none;
   counter-reset: key-counter;
+}
+
+@media (min-width: 640px) {
+  .main__key-list-wrapper {
+    grid-auto-flow: unset;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 960px) {
+  .main__key-list-wrapper {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.main__news-list {
+  grid-area: news;
+}
+
+.main__read-list {
+  grid-area: read;
+}
+.main__dep-list {
+  grid-area: departments;
+}
+
+.main__dep-contact {
+  grid-area: contact;
+  justify-self: center;
 }

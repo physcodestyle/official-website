@@ -12,7 +12,6 @@
     grid-template: 'map map' 'contact deanary' 'departments departments';
     grid-template-columns: repeat(2, 1fr);
     grid-column-gap: 0;
-    max-width: 640px;
   }
 }
 
@@ -21,7 +20,6 @@
     grid-template: 'map map contact' 'map map deanary' 'departments departments departments';
     grid-template-columns: repeat(3, 1fr);
     grid-row-gap: 0;
-    max-width: 960px;
   }
 }
 
