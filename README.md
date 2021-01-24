@@ -55,6 +55,7 @@
 Для удобства использования котнтейнера необходимо создать следующие переменные окружения (необходимо задать реальные значения):
 
 ```bash
+$ export PHYS_USER_GOOGLE_MAP_KEY=<Key for Maps Static API>
 $ export PHYS_USER_NAME=<Имя Фамилия>
 $ export PHYS_USER_EMAIL=<Email, используемый на GitHub>
 $ export PHYS_USER_SIGNATURE=$(cat ~/.ssh/<ключ для доступа на GitHub>)

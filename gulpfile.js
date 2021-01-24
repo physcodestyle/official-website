@@ -19,6 +19,58 @@ function addLinks(text) {
   return result;
 }
 
+// Downloading files
+
+async function downloadFile(fileUrl, outputLocationPath) {
+  const writer = fs.createWriteStream(outputLocationPath);
+
+  return axios({
+    method: 'get',
+    url: fileUrl,
+    responseType: 'stream',
+  }).then(response => {
+    return new Promise((resolve, reject) => {
+      response.data.pipe(writer);
+      let error = null;
+      writer.on('error', err => {
+        error = err;
+        writer.close();
+        reject(err);
+      });
+      writer.on('close', () => {
+        if (!error) {
+          resolve(true);
+        }
+        //no need to call the reject here, as it will have been called in the
+        //'error' stream;
+      });
+    });
+  });
+}
+
+// Get map images
+
+gulp.task('map', async () => {
+  const GOOGLE_MAP_KEY = process.env.PHYS_USER_GOOGLE_MAP_KEY;
+  const PATH = 'https://maps.googleapis.com/maps/api/staticmap?center=Voronezh+State+University&zoom=15&language=en_US&maptype=roadmap&format=jpg&size=';
+  const gMapLinks = [
+    `${PATH}320x279&key=${GOOGLE_MAP_KEY}`,
+    `${PATH}375x328&key=${GOOGLE_MAP_KEY}`,
+    `${PATH}414x362&key=${GOOGLE_MAP_KEY}`,
+    `${PATH}640x450&key=${GOOGLE_MAP_KEY}`,
+  ];
+  const gMapImages = [
+    'dist/images/map/g-map-320.jpeg',
+    'dist/images/map/g-map-375.jpeg',
+    'dist/images/map/g-map-414.jpeg',
+    'dist/images/map/g-map-640.jpeg',
+  ];
+
+  for (i = 0; i < gMapLinks.length; i++) {
+    downloadFile(gMapLinks[i], gMapImages[i]);
+  }
+});
+
 // Get current news
 
 gulp.task('news', async () => {
