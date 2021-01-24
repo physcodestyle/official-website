@@ -17,6 +17,20 @@
   margin: 0;
 }
 
+@media (min-width: 375px) {
+  .link-card__contact-icon {
+    width: 28px;
+    height: 28px;
+  }
+}
+
+@media (min-width: 520px) {
+  .link-card__contact-icon {
+    width: 32px;
+    height: 32px;
+  }
+}
+
 .link-card__header {
   grid-area: content;
 }
