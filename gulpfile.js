@@ -64,10 +64,10 @@ gulp.task('map', async () => {
     `${URL}640x450&key=${process.env.GOOGLE_MAP_KEY}`,
   ];
   const gMapImages = [
-    `${PATH}/g-map-320.jpeg`,
-    `${PATH}/g-map-375.jpeg`,
-    `${PATH}/g-map-414.jpeg`,
-    `${PATH}/g-map-640.jpeg`,
+    `${PATH}g-map-320.jpeg`,
+    `${PATH}g-map-375.jpeg`,
+    `${PATH}g-map-414.jpeg`,
+    `${PATH}g-map-640.jpeg`,
   ];
   if (!fs.existsSync(PATH_DIST)){
     fs.mkdirSync(PATH_DIST);
@@ -166,6 +166,7 @@ gulp.task('scripts', () => {
 gulp.task('build', gulp.series(
   'styles',
   'scripts',
+  'map'
 ));
 
 // Watch
