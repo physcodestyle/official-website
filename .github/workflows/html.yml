@@ -22,6 +22,8 @@ jobs:
         with:
           java-version: ${{ matrix.java }}
           architecture: x64
+        env:
+          GOOGLE_MAP_KEY: ${{ secrets.PHYS_USER_GOOGLE_MAP_KEY }}
       - run: npm ci
       - run: npm run build
       - run: npm run html
