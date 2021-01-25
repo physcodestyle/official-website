@@ -69,14 +69,14 @@ gulp.task('map', async () => {
     `${PATH}g-map-414.jpeg`,
     `${PATH}g-map-640.jpeg`,
   ];
-  if (!fs.existsSync(PATH_DIST)){
-    fs.mkdirSync(PATH_DIST);
+  if (!fs.existsSync(PATH)){
     if (!fs.existsSync(`${PATH_DIST}/${PATH_IMAGES}`)){
-      fs.mkdirSync(`${PATH_DIST}/${PATH_IMAGES}`);
-      if (!fs.existsSync(PATH)){
-        fs.mkdirSync(PATH);
+      if (!fs.existsSync(PATH_DIST)){
+        fs.mkdirSync(PATH_DIST);
       }
+      fs.mkdirSync(`${PATH_DIST}/${PATH_IMAGES}`);
     }
+    fs.mkdirSync(PATH);
   }
   for (i = 0; i < gMapLinks.length; i++) {
     downloadFile(gMapLinks[i], gMapImages[i]);
