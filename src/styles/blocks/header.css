@@ -20,6 +20,12 @@
   }
 }
 
+@media (min-width: 1440px) {
+  .header {
+    left: calc((100vw - 1440px) / 2);
+  }
+}
+
 /* Menu */
 
 .header__menu {
