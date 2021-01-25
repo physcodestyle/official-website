@@ -5,6 +5,9 @@ const terser = require('gulp-terser');
 const axios = require('axios');
 const fs = require('fs');
 
+const PATH_DIST = 'dist';
+const PATH_IMAGES = 'images';
+
 // Processing a content with links
 
 function addLinks(text) {
@@ -51,21 +54,30 @@ async function downloadFile(fileUrl, outputLocationPath) {
 // Get map images
 
 gulp.task('map', async () => {
-  const GOOGLE_MAP_KEY = process.env.PHYS_USER_GOOGLE_MAP_KEY;
-  const PATH = 'https://maps.googleapis.com/maps/api/staticmap?center=Voronezh+State+University&zoom=15&language=en_US&maptype=roadmap&format=jpg&size=';
+  const URL = 'https://maps.googleapis.com/maps/api/staticmap?center=Voronezh+State+University&zoom=15&language=en_US&maptype=roadmap&format=jpg&size=';
+  const PATH_MAP = 'map';
+  const PATH = `${PATH_DIST}/${PATH_IMAGES}/${PATH_MAP}/`;
   const gMapLinks = [
-    `${PATH}320x279&key=${GOOGLE_MAP_KEY}`,
-    `${PATH}375x328&key=${GOOGLE_MAP_KEY}`,
-    `${PATH}414x362&key=${GOOGLE_MAP_KEY}`,
-    `${PATH}640x450&key=${GOOGLE_MAP_KEY}`,
+    `${URL}320x279&key=${process.env.GOOGLE_MAP_KEY}`,
+    `${URL}375x328&key=${process.env.GOOGLE_MAP_KEY}`,
+    `${URL}414x362&key=${process.env.GOOGLE_MAP_KEY}`,
+    `${URL}640x450&key=${process.env.GOOGLE_MAP_KEY}`,
   ];
   const gMapImages = [
-    'dist/images/map/g-map-320.jpeg',
-    'dist/images/map/g-map-375.jpeg',
-    'dist/images/map/g-map-414.jpeg',
-    'dist/images/map/g-map-640.jpeg',
+    `${PATH}/g-map-320.jpeg`,
+    `${PATH}/g-map-375.jpeg`,
+    `${PATH}/g-map-414.jpeg`,
+    `${PATH}/g-map-640.jpeg`,
   ];
-
+  if (!fs.existsSync(PATH_DIST)){
+    fs.mkdirSync(PATH_DIST);
+    if (!fs.existsSync(`${PATH_DIST}/${PATH_IMAGES}`)){
+      fs.mkdirSync(`${PATH_DIST}/${PATH_IMAGES}`);
+      if (!fs.existsSync(PATH)){
+        fs.mkdirSync(PATH);
+      }
+    }
+  }
   for (i = 0; i < gMapLinks.length; i++) {
     downloadFile(gMapLinks[i], gMapImages[i]);
   }

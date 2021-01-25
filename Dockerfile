@@ -5,8 +5,10 @@ FROM node
 ARG USER_NAME
 ARG USER_EMAIL
 ARG SIGNATURE
+ARG G_MAP_KEY
 
 # Setup of user enviroment
+ENV GOOGLE_MAP_KEY=${G_MAP_KEY}
 RUN apt-get update; apt-get install -y vim
 RUN mkdir -p ~/.ssh; \
     chmod 0700 ~/.ssh; \

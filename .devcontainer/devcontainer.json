@@ -1,6 +1,6 @@
 {
   "dockerComposeFile": "../docker-compose.yaml",
-  "service": "narisoft",
+  "service": "phys-website",
   "workspaceFolder": "/app",
   "extensions": [
     // Supporting scripts for API & Tools

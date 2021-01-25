@@ -77,7 +77,8 @@ $ export PHYS_USER_SIGNATURE=$(cat ~/.ssh/<ключ для доступа на G
     $ docker build -t physcodestyle:site \
     --build-arg USER_NAME=${PHYS_USER_NAME} \
     --build-arg USER_EMAIL=${PHYS_USER_EMAIL} \
-    --build-arg SIGNATURE=${PHYS_USER_SIGNATURE} .
+    --build-arg SIGNATURE=${PHYS_USER_SIGNATURE} \
+    --build-arg G_MAP_KEY=${PHYS_USER_GOOGLE_MAP_KEY} .
     ```
 
     Для запуска контейнера можно воспользоваться следующей командой:
