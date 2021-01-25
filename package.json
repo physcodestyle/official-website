@@ -4,7 +4,7 @@
   "description": "The official site of the Physics Faculty of Voronezh State University",
   "main": "index.js",
   "scripts": {
-    "start": "node .fonts.js && gulp build && gulp map && eleventy --serve --quiet",
+    "start": "node .fonts.js && gulp build && eleventy --serve --quiet",
     "build": "node .fonts.js && gulp build && gulp map && eleventy",
     "editorconfig": "editorconfig-checker",
     "markdown": "remark 'src/pages/**/*.md' --quiet",
