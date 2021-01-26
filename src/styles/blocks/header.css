@@ -126,6 +126,10 @@
   list-style: none;
 }
 
+.header__navigation-item--active .header__navigation-subtitle {
+  font-weight: bold;
+}
+
 .header__navigation-title {
   display: flex;
   justify-content: center;

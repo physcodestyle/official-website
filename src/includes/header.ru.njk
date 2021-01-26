@@ -10,32 +10,32 @@
       <h2 class="header__navigation-title">ФизФак</h2>
     </a>
     <ul class="header__navigation-list">
-      <li class="header__navigation-item">
+      <li class="header__navigation-item {% if page.url == '/entrants.html' %} header__navigation-item--active {% endif %}">
         <a class="header__navigation-link" href="/entrants.html" title="Раздел сайта посвященный абитуриентам">
           <h3 class="header__navigation-subtitle">Абитуриентам</h3>
         </a>
       </li>
-      <li class="header__navigation-item">
+      <li class="header__navigation-item {% if page.url == '/students.html' %} header__navigation-item--active {% endif %}">
         <a class="header__navigation-link" href="/students.html" title="Раздел сайта посвященный студентам">
           <h3 class="header__navigation-subtitle">Студентам</h3>
         </a>
       </li>
-      <li class="header__navigation-item">
+      <li class="header__navigation-item {% if page.url == '/postgraduates.html' %} header__navigation-item--active {% endif %}">
         <a class="header__navigation-link" href="/postgraduates.html" title="Раздел сайта посвященный аспирантам">
           <h3 class="header__navigation-subtitle">Аспирантам</h3>
         </a>
       </li>
-      <li class="header__navigation-item">
+      <li class="header__navigation-item {% if page.url == '/alumni.html' %} header__navigation-item--active {% endif %}">
         <a class="header__navigation-link" href="/alumni.html" title="Раздел сайта посвященный выпускникам">
           <h3 class="header__navigation-subtitle">Выпускникам</h3>
         </a>
       </li>
-      <li class="header__navigation-item">
+      <li class="header__navigation-item {% if page.url == '/teachers.html' %} header__navigation-item--active {% endif %}">
         <a class="header__navigation-link" href="/teachers.html" title="Раздел сайта посвященный преподавателям">
           <h3 class="header__navigation-subtitle">Преподавателям</h3>
         </a>
       </li>
-      <li class="header__navigation-item">
+      <li class="header__navigation-item {% if page.url == '/contacts.html' %} header__navigation-item--active {% endif %}">
         <a class="header__navigation-link" href="/contacts.html" title="Как с нас найти и с нами связаться?">
           <h3 class="header__navigation-subtitle">Контакты</h3>
         </a>
