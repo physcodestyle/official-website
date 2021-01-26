@@ -153,7 +153,7 @@ gulp.task('styles', () => {
 // Scripts
 
 gulp.task('scripts', () => {
-    return gulp.src('src/scripts/scripts.js')
+    return gulp.src('src/scripts/*.js')
         .pipe(babel({
             presets: ['@babel/preset-env']
         }))
