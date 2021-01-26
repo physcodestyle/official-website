@@ -2,23 +2,42 @@
 
 .entrants {
   display: grid;
-  grid-auto-flow: row;
+  grid-template: 'links' 'videos' 'statistics';
   grid-gap: 32px;
   width: 100vw;
   max-width: 1024px;
   margin: 32px 0;
 }
 
+@media (min-width: 960px) {
+  .entrants {
+    grid-template: 'videos videos links' 'statistics statistics statistics';
+  }
+}
+
 .entrants__links {
   display: grid;
+  grid-area: links;
   grid-auto-flow: row;
+  grid-template-rows: repeat(2, min-content);
+  align-items: flex-start;
+  justify-items: flex-start;
 }
 
 .entrants__video-list {
   display: grid;
+  grid-area: videos;
   grid-auto-flow: row;
   grid-gap: 32px;
+  align-items: flex-end;
   padding: 0 16px;
+}
+
+@media (min-width: 960px) {
+  .entrants__video-list {
+    grid-auto-flow: unset;
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 .entrants__video {
@@ -32,6 +51,7 @@
 
 .entrants__statistics {
   display: grid;
+  grid-area: statistics;
   grid-auto-flow: row;
   grid-gap: 24px;
 }
