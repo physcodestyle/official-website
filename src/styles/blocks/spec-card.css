@@ -4,8 +4,8 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr) max-content;
   align-items: center;
-  grid-column-gap: 16px;
   grid-row-gap: 8px;
+  grid-column-gap: 16px;
   padding: 8px 16px;
 }
 
