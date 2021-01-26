@@ -1,0 +1,45 @@
+/* Entrants */
+
+.entrants {
+  display: grid;
+  grid-auto-flow: row;
+  grid-gap: 32px;
+  margin: 32px 0;
+  width: 100vw;
+  max-width: 1024px;
+}
+
+.entrants__links {
+  display: grid;
+  grid-auto-flow: row;
+}
+
+.entrants__video-list {
+  display: grid;
+  grid-auto-flow: row;
+  grid-gap: 32px;
+  padding: 0 16px;
+}
+
+.entrants__video {
+  display: grid;
+  grid-auto-flow: row;
+}
+
+.entrants__video-header {
+  padding-left: 0;
+}
+
+.entrants__statistics {
+  display: grid;
+  grid-auto-flow: row;
+  grid-gap: 24px;
+}
+
+@media (min-width: 960px) {
+  .entrants__statistics {
+    grid-auto-flow: unset;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
