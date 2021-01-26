@@ -5,7 +5,6 @@
   grid-template: 'links' 'video' 'vacancies' 'internships' 'courses' 'read' 'departments' 'dean';
   grid-template-columns: 1fr;
   grid-gap: 16px;
-  max-width: 1024px;
   margin: 32px 0;
 }
 

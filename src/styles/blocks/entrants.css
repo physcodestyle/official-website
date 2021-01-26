@@ -5,7 +5,6 @@
   grid-template: 'links' 'videos' 'statistics';
   grid-gap: 32px;
   width: 100vw;
-  max-width: 1024px;
   margin: 32px 0;
 }
 
