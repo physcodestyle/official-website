@@ -4,6 +4,7 @@
   position: fixed;
   top: 0;
   left: 0;
+  z-index: 2;
   display: grid;
   grid-template-rows: 64px;
   grid-template-columns: 32px auto 32px;
@@ -12,7 +13,6 @@
   max-width: 1440px;
   padding: 0 var(--padding-default, 1em);
   background-color: white;
-  z-index: 2;
 }
 
 @media (min-width: 892px) {

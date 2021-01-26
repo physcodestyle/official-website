@@ -3,8 +3,8 @@
 .spec-brief__spec-info {
   display: grid;
   grid-template-columns: repeat(2, 1fr) 114px;
-  grid-gap: 4px;
   align-items: center;
+  grid-gap: 4px;
   padding: 8px 16px;
 }
 
@@ -24,9 +24,9 @@
 }
 
 .spec-brief__info-exams {
-  padding: 0;
-  margin: 8px 0;
   align-self: start;
+  margin: 8px 0;
+  padding: 0;
 }
 
 .spec-brief__info-exam {
