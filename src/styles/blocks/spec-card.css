@@ -1,14 +1,15 @@
-/* Spec Brief */
+/* Spec Card */
 
-.spec-brief__spec-info {
+.spec-card__spec-info {
   display: grid;
-  grid-template-columns: repeat(2, 1fr) 114px;
+  grid-template-columns: repeat(2, 1fr) max-content;
   align-items: center;
-  grid-gap: 4px;
+  grid-column-gap: 16px;
+  grid-row-gap: 8px;
   padding: 8px 16px;
 }
 
-.spec-brief__info-circle {
+.spec-card__info-circle {
   display: grid;
   grid-template-rows: 80px min-content;
   grid-template-columns: 1fr;
@@ -19,16 +20,16 @@
   width: 80px;
 }
 
-.spec-brief__info-legend {
+.spec-card__info-legend {
   text-align: center;
 }
 
-.spec-brief__info-exams {
+.spec-card__info-exams {
   align-self: start;
   margin: 8px 0;
   padding: 0;
 }
 
-.spec-brief__info-exam {
+.spec-card__info-exam {
   list-style: none;
 }

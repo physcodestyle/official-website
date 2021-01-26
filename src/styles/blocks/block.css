@@ -33,7 +33,7 @@
 }
 
 .block__caption {
-  font-weight: lighter;
+  font-weight: bold;
   font-size: var(--text-caption-small, 2.3em);
   text-decoration: none;
 }
