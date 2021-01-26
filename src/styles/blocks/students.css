@@ -5,8 +5,8 @@
   grid-template: 'links' 'video' 'vacancies' 'internships' 'courses' 'read' 'departments' 'dean';
   grid-template-columns: 1fr;
   grid-gap: 16px;
-  margin: 32px 0;
   max-width: 1024px;
+  margin: 32px 0;
 }
 
 @media (min-width: 960px) {
@@ -39,6 +39,7 @@
 .students__read-list {
   grid-area: read;
 }
+
 .students__dep-list {
   grid-area: departments;
 }

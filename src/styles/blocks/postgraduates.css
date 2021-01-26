@@ -3,6 +3,6 @@
 .postgraduates {
   display: grid;
   grid-auto-flow: row;
-  margin: 32px 0;
   max-width: 1024px;
+  margin: 32px 0;
 }
