@@ -59,7 +59,7 @@
 .news__aside {
   display: grid;
   justify-content: flex-start;
-  align-items: start;
+  align-items: flex-start;
 }
 
 .news__list-title {
