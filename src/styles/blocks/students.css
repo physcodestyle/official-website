@@ -45,4 +45,5 @@
 
 .students__dep-contact {
   grid-area: dean;
+  justify-self: center;
 }
