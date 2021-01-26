@@ -1,0 +1,48 @@
+/* Students */
+
+.students {
+  display: grid;
+  grid-template: 'links' 'video' 'vacancies' 'internships' 'courses' 'read' 'departments' 'dean';
+  grid-template-columns: 1fr;
+  grid-gap: 16px;
+  margin: 32px 0;
+  max-width: 1024px;
+}
+
+@media (min-width: 960px) {
+  .students {
+    grid-template: 'video links' 'vacancies internships' 'courses read' 'departments departments' 'dean dean';
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.students__links {
+  grid-area: links;
+}
+
+.students__video-list {
+  grid-area: video;
+}
+
+.students__vacancies-list {
+  grid-area: vacancies;
+}
+
+.students__internships-list {
+  grid-area: internships;
+}
+
+.students__courses-list {
+  grid-area: courses;
+}
+
+.students__read-list {
+  grid-area: read;
+}
+.students__dep-list {
+  grid-area: departments;
+}
+
+.students__dep-contact {
+  grid-area: dean;
+}
