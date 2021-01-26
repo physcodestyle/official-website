@@ -1,0 +1,13 @@
+{% for post in collections.vacancies_ru | sortByDate | reverse | limit(6) %}
+  <div class="news-card {% if page.url == post.url %} news-card--active {% endif %} block">
+    {% if page.url == post.url %}
+      <span class="news-card__content block__content">{{ post.data.description }}</span>
+    {% else %}
+      <a class="news-card__content block__content" href="{{ post.url }}">{{ post.data.description }}</a>
+    {% endif %}
+    <div class="news-card__info block__info">
+      <time class="news-card__created">{% timestampToDate 'ru', post.data.updatedAt %}</time>
+      <span class="news-card__reading-time">{% readingTime 'ru', post.templateContent %}</span>
+    </div>
+  </div>
+{% endfor %}
