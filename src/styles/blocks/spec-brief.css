@@ -1,0 +1,34 @@
+/* Spec Brief */
+
+.spec-brief__spec-info {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr) 114px;
+  grid-gap: 4px;
+  align-items: center;
+  padding: 8px 16px;
+}
+
+.spec-brief__info-circle {
+  display: grid;
+  grid-template-rows: 80px min-content;
+  grid-template-columns: 1fr;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  grid-gap: 8px;
+  width: 80px;
+}
+
+.spec-brief__info-legend {
+  text-align: center;
+}
+
+.spec-brief__info-exams {
+  padding: 0;
+  margin: 8px 0;
+  align-self: start;
+}
+
+.spec-brief__info-exam {
+  list-style: none;
+}
