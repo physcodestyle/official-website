@@ -1,5 +1,5 @@
 # Basic image
-FROM node
+FROM node:alpine
 
 # Required args
 ARG USER_NAME
@@ -9,7 +9,6 @@ ARG G_MAP_KEY
 
 # Setup of user enviroment
 ENV GOOGLE_MAP_KEY=${G_MAP_KEY}
-RUN apt-get update; apt-get install -y vim
 RUN mkdir -p ~/.ssh; \
     chmod 0700 ~/.ssh; \
     ssh-keyscan github.com > ~/.ssh/known_hosts; \
@@ -21,5 +20,5 @@ RUN git config --global user.name "${USER_NAME}"; \
     git config --global user.email "${USER_EMAIL}"
 WORKDIR /app
 ADD . .
-RUN npm install
+RUN npm ci
 EXPOSE 8080/tcp
