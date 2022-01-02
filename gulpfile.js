@@ -165,8 +165,7 @@ gulp.task('scripts', () => {
 
 gulp.task('build', gulp.series(
   'styles',
-  'scripts',
-  'map'
+  'scripts'
 ));
 
 // Watch
