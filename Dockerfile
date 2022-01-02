@@ -9,7 +9,8 @@ ARG G_MAP_KEY
 
 # Setup of user enviroment
 ENV GOOGLE_MAP_KEY=${G_MAP_KEY}
-RUN mkdir -p ~/.ssh; \
+RUN apk add git; \
+    mkdir -p ~/.ssh; \
     chmod 0700 ~/.ssh; \
     ssh-keyscan github.com > ~/.ssh/known_hosts; \
     echo ${SIGNATURE} > ~/.ssh/id_rsa; \
