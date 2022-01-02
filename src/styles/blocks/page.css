@@ -31,6 +31,13 @@
   justify-items: center;
 }
 
+@media (min-width: 1440px) {
+  .page__body {
+    margin: auto;
+    max-width: 1440px;
+  }
+}
+
 .page__content {
   display: grid;
   justify-content: center;
