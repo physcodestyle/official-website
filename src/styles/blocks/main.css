@@ -2,13 +2,13 @@
 
 .main {
   display: grid;
-  grid-template: 'key' 'read' 'news' 'departments' 'contact';
+  grid-template: 'image' 'key' 'read' 'news' 'departments' 'contact';
   grid-gap: 32px;
 }
 
 @media (min-width: 640px) {
   .main {
-    grid-template: 'key key' 'news read' 'departments departments' 'contact contact';
+    grid-template: 'image image' 'key key' 'news read' 'departments departments' 'contact contact';
     grid-template-columns: repeat(2, 1fr);
     grid-column-gap: 0;
   }
