@@ -37,6 +37,7 @@
 
 @media (min-width: 640px) {
   .main__key-list-wrapper {
+    padding: 44px;
     grid-template-columns: repeat(2, 1fr);
     grid-auto-flow: unset;
   }
@@ -44,6 +45,7 @@
 
 @media (min-width: 960px) {
   .main__key-list-wrapper {
+    padding: 88px;
     grid-template-columns: repeat(3, 1fr);
   }
 }
