@@ -16,7 +16,7 @@ function addLinks(text) {
   let result = text;
   if (allLinks !== null) {
     allLinks.forEach(element => {
-      result = result.replaceAll(element, `[${element}](${element})`);
+      result = result.replace(element, `[${element}](${element})`);
     });
   }
   return result;
@@ -100,37 +100,46 @@ gulp.task('news', async () => {
       const vkKeys = Object.keys(vkNews);
       for (key of vkKeys) {
         counter++;
-        const vkRegExp = /\[(club|id)[0-9]+\|/ig;
-        let desc = `${vkNews[key].text.trim().replaceAll(vkRegExp, '').replaceAll(']', '').replaceAll('\n', ' ').replace('#ГостевойПост ', '').slice(0, 95)}…`;
-        let md = `---\n`;
-        md += `permalink: '/ru/news/${key}/index.html'\n`;
-        md += `layout: 'news.ru.njk'\n`;
-        md += `title: '${desc}'\n`;
-        md += `source: ВКонтакте\n`;
-        md += `tags:\n  - news_ru\n`;
-        md += `description: '${desc}'\n`;
-        md += `updatedAt: ${vkNews[key].date}\n`;
-        md += `---\n`;
-        if (vkNews[key].image) {
-          md += `![${desc}](${vkNews[key].image.url})\n\n`;
-          const list = vkNews[key].text.replaceAll(vkRegExp, '').replaceAll(']', '').split('\n');
-          for (i = 0; i < list.length; i++) {
-            if (list[i] !== '\n') {
-              md += addLinks(`${list[i].trim()}\n`);
+        if (typeof vkNews[key].text === 'string') {
+          const t = String(vkNews[key].text)
+                      .trim()
+                      .replace(/\[(club|id)[0-9]+\|/ig, '')
+                      .replace(/\]/ig, '')
+          const desc = `${t
+            .replace(/\n/ig, ' ')
+            .replace('#ГостевойПост ', '')
+            .slice(0, 95)
+          }…`;
+          let md = `---\n`;
+          md += `permalink: '/ru/news/${key}/index.html'\n`;
+          md += `layout: 'news.ru.njk'\n`;
+          md += `title: '${desc}'\n`;
+          md += `source: ВКонтакте\n`;
+          md += `tags:\n  - news_ru\n`;
+          md += `description: '${desc}'\n`;
+          md += `updatedAt: ${vkNews[key].date}\n`;
+          md += `---\n`;
+          if (vkNews[key].image) {
+            md += `![${desc}](${vkNews[key].image.url})\n\n`;
+            const list = t.split('\n');
+            for (i = 0; i < list.length; i++) {
+              if (list[i] !== '\n') {
+                md += addLinks(`${list[i].trim()}\n`);
+              }
             }
+            md = md.replace(/[\n]{3,}/gi, `\n\n`);
+          } else if (vkNews[key].link) {
+            if (vkNews[key].link.image) {
+              md += `![${desc}](${vkNews[key].link.image.url})\n\n`;
+            }
+            md += `[${vkNews[key].text}](${vkNews[key].link.url})\n`;
           }
-          md = md.replaceAll(/[\n]{3,}/gi, `\n\n`);
-        } else if (vkNews[key].link) {
-          if (vkNews[key].link.image) {
-            md += `![${desc}](${vkNews[key].link.image.url})\n\n`;
-          }
-          md += `[${vkNews[key].text}](${vkNews[key].link.url})\n`;
+          fs.writeFile(`src/pages/news/${key}.ru.md`, md, function (err) {
+            if (err) return console.log(err);
+          });
         }
-        fs.writeFile(`src/pages/news/${key}.ru.md`, md, function (err) {
-          if (err) return console.log(err);
-        });
       }
-      console.log(`${counter} files with news fron VK were created.`);
+      console.log(`${counter} files with news from VK were created.`);
     })
     .catch(function (error) {
       console.log(error);
