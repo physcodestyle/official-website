@@ -7,9 +7,9 @@ description: 'The Department of physics has existed in the faculty of physics an
 head:
   avatar:
     src: '/images/turistchev.jpg'
-    title: 'Turistchev Sergey Yгrevich - Head of the Department of general physics'
+    title: 'Turistchev Sergey Yurevich - Head of the Department of general physics'
     url: '/staff/kof/turistchev_s_yu'
-  name: 'Turistchev Sergey Yгrevich'
+  name: 'Turistchev Sergey Yurevich'
   title: 'Head of the Department, Full professor'
   image:
     src: '/images/main-image/kof.jpg'
