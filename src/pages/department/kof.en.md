@@ -6,10 +6,10 @@ site: 'https://phys.vsu.ru/kof/'
 description: 'The Department of physics has existed in the faculty of physics and mathematics since the day of VSU formation (i.e. since 1918). Professor Nikolai Sakharov headed the Department (currently his name is the laboratory of mechanics - room 145). In 1941, our University was evacuated to Elabuga. After returning from the evacuation to Voronezh in 1945, the head of the Department was associate Professor Kozlobaev I. P., then he was replaced by associate Professor Pivovarov M. M. in 1964, when he was commissioned a new (main) building of the VSU, began to operate the Department of General physics. The first head of the Department was associate Professor Nina Evdokimovna Markova.'
 head:
   avatar:
-    src: '/images/klinskih.jpg'
-    title: 'Turistchev Sergey Yгr'evich - Head of the Department of general physics'
-    url: '/staff/kof/klinskih_a_f'
-  name: 'Turistchev Sergey Yгr'evich'
+    src: '/images/turistchev.jpg'
+    title: 'Turistchev Sergey Yгrevich - Head of the Department of general physics'
+    url: '/staff/kof/turistchev_s_yu'
+  name: 'Turistchev Sergey Yгrevich'
   title: 'Head of the Department, Full professor'
   image:
     src: '/images/main-image/kof.jpg'
