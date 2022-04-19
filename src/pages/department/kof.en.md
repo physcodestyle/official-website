@@ -7,9 +7,9 @@ description: 'The Department of physics has existed in the faculty of physics an
 head:
   avatar:
     src: '/images/klinskih.jpg'
-    title: 'Klinskih Aleksandr Fedotovich - Head of the Department of general physics'
+    title: 'Turistchev Sergey Yгr'evich - Head of the Department of general physics'
     url: '/staff/kof/klinskih_a_f'
-  name: 'Klinskih Aleksandr Fedotovich'
+  name: 'Turistchev Sergey Yгr'evich'
   title: 'Head of the Department, Full professor'
   image:
     src: '/images/main-image/kof.jpg'
