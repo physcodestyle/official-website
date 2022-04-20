@@ -10,7 +10,7 @@ head:
     title: 'Turistchev Sergey Yurevich - Head of the Department of general physics'
     url: '/staff/kof/turistchev_s_yu'
   name: 'Turistchev Sergey Yurevich'
-  title: 'Head of the Department, Full professor'
+  title: 'Head of the Department, Assoc. Professor'
   image:
     src: '/images/main-image/kof.jpg'
     title: 'Department of general physics'
