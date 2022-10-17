@@ -62,7 +62,7 @@ contacts:
   - name: 'Кафедра электроники'
     phone: '+7 473 220 82 84'
     site: ''
-    email: 'bobreshov@phys.vsu.ru'
+    email: 'uskov@phys.vsu.ru'
   - name: 'Кафедра экспериментальной физики'
     phone: '+7 473 220 86 25'
     site: ''

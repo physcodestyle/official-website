@@ -66,7 +66,7 @@ contacts:
   - name: 'Department of electronics'
     phone: '+7 473 220 82 84'
     site: ''
-    email: 'bobreshov@phys.vsu.ru'
+    email: 'uskov@phys.vsu.ru'
   - name: 'Department of experimental physics'
     phone: '+7 473 220 86 25'
     site: ''
