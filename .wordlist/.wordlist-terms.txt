@@ -3,6 +3,7 @@ aABIIU
 aAmSEc
 aAOy
 aAOyHo
+aAOz
 aAz
 aB
 ABAP
@@ -150,6 +151,7 @@ ARTLOFT
 arTO
 ARTRUSSIA
 arusjq
+Arzamas
 Asapio
 asc
 asfLHy
@@ -201,6 +203,7 @@ ayhHNP
 ayhHQA
 ayhHXk
 ayHyea
+ayrHlC
 Ayt
 ayxBmK
 az
@@ -312,6 +315,8 @@ bWmOSp
 bX
 BxHQc
 bXmCKg
+bYcMDM
+bZdGAP
 careertest
 CCA
 ccf
@@ -355,10 +360,12 @@ cie
 CIPS
 cJVQL
 CKjbsjYcq
+clAtlz
 ClBh
 clck
 clementyev
 ClG
+clHl
 CLMNZHsy
 ClmTlq
 Clou
@@ -468,6 +475,7 @@ dostupvrn
 Dota
 dotnetvrn
 Druze
+druzya
 ds
 Ds
 DS
@@ -633,6 +641,7 @@ fiz
 fizfac
 fizfak
 fizfaka
+fL
 fLKx
 fLlsiuAz
 fluorographic
@@ -1120,6 +1129,7 @@ letnyayashkola
 Lev
 Levitskaya
 LhyFmo
+licey
 linkedin
 Linkedin
 linux
@@ -1135,6 +1145,7 @@ lomonosov
 Lomonosov
 longread
 lookatme
+loravitat
 löwitzian
 lp
 LPI
@@ -1305,6 +1316,7 @@ napravlenii
 NARFU
 NAS
 nasa
+nash
 nastya
 natalijagurova
 natbukhvalova
@@ -1374,6 +1386,7 @@ nzRcV
 O'mama
 oBiCjz
 obratitsya
+obrvrn
 obuchenie
 OC
 Ocado
@@ -1532,6 +1545,7 @@ pravovye
 prc
 pre
 Pre
+prekrasen
 preobrazovaniem
 prepodavatel
 prezidentskie
@@ -1665,6 +1679,7 @@ rotavvs
 roundranking
 Rozhansky
 rpBCg
+rQb
 rqc
 rR
 Rr
@@ -1782,8 +1797,10 @@ Sokolova
 Solaris
 SolidWorks
 sotnikova
+souz
 sov
 sovet
+sovm
 sovsu
 sozvezdie
 Sozvezdie
@@ -1818,6 +1835,7 @@ ss
 sS
 SSD
 ssp
+standup
 Stankevich
 Stankevicha
 STaqrLiF
@@ -1992,6 +2010,7 @@ typeform
 ua
 UAIAv
 UAVs
+uchenye
 uchenykh
 uchitel
 uCrqC
@@ -2090,6 +2109,7 @@ vladimir
 Vladimirovich
 Vladislav
 VLKSM
+VlP
 VM
 vMP
 VMware
@@ -2114,6 +2134,7 @@ Voronez
 voronezh
 voronezha
 voronezhe
+voronezhskih
 voronezhskikh
 voronezhskiy
 Voronina
@@ -2138,12 +2159,14 @@ vSphere
 VSSoldatenkova
 vstrecha
 VSU's
+vsumain
 VSUPRESS
 vsustart
 vtb
 vuDiy
 Vue
 vuz
+vuzov
 vVcjfsVA
 vy
 vzLKlSHO
