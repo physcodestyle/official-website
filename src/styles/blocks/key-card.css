@@ -10,12 +10,12 @@
 }
 
 .key-card::before {
+  z-index: 1;
   grid-area: number;
   content: '0' counter(key-counter);
   width: 48px;
   font-weight: bold;
   font-size: var(--text-caption-small, 2em);
-  z-index: 1;
 }
 
 .key-card__content {
@@ -24,10 +24,10 @@
 
 .key-card__content::before {
   position: absolute;
+  width: 36px;
+  height: 24px;
   margin-left: -60px;
   content: ' ';
-  height: 24px;
-  width: 36px;
   background-color: var(--color-accent);
 }
 

@@ -53,9 +53,9 @@
   grid-auto-flow: row;
   grid-area: statistics;
   grid-gap: 24px;
+  max-width: 780px;
   margin: auto;
   margin-top: 48px;
-  max-width: 780px;
 }
 
 @media (min-width: 780px) {
