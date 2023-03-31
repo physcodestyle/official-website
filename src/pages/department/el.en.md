@@ -7,9 +7,9 @@ description: 'The Department of Electronics was founded in 1962. The structure o
 head:
   avatar:
     src: '/images/uskov.jpg'
-    title: 'Uskov Grigory Konstantionovich - Head of the Department of electronics'
+    title: 'Uskov Grigory Konstantinovich - Head of the Department of electronics'
     url: '/staff/el/uskov_a_m'
-  name: 'Uskov Grigory Konstantionovich'
+  name: 'Uskov Grigory Konstantinovich'
   title: 'Head of the department, assoc. professor'
   image:
     src: '/images/main-image/el.jpg'
