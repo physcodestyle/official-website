@@ -88,6 +88,7 @@ Aleynikov
 Aleynikova
 Alfa
 Alferov
+alfyorovskaya
 AlGaAs
 Alina
 alla
@@ -316,6 +317,11 @@ bWmOSp
 bX
 BxHQc
 bXmCKg
+bXZhOa
+bXZhQP
+bXZhTk
+bXZhUu
+bXZhVu
 bYcMDM
 bYE
 bZdGAP
@@ -326,6 +332,7 @@ ccf
 cctjJH
 cCzpQ
 CDE
+cdh
 CdSe
 ce
 centre
@@ -369,6 +376,7 @@ CKjbsjYcq
 clAtlz
 ClBh
 clck
+cleaBT
 clementyev
 ClG
 clHl
@@ -395,6 +403,7 @@ Cours
 Coursera
 CoverB
 CoverBrothers
+COVID
 creativescience
 CRfuTe
 CRM
@@ -594,6 +603,7 @@ excitations
 Exe
 EXE
 ExoMars
+experium
 expertyouleadvrn
 exponenta
 Exponenta
@@ -704,6 +714,7 @@ Fullstack
 FUmc
 funder
 funkcionirovat
+FutureToday
 fXl
 Fyodor
 GaAs
@@ -1144,6 +1155,7 @@ letnyayashkola
 Lev
 Levitskaya
 LhyFmo
+licard
 licey
 linkedin
 Linkedin
@@ -1657,6 +1669,7 @@ RDBMS
 RDD
 RdGuYxvW
 RdM
+redbull
 redbullbasement
 registraciya
 reitingoviy
@@ -1679,6 +1692,7 @@ riavrn
 rifvrn
 RINC
 ript
+riverrunes
 rlnc
 rlncru
 RMO
@@ -1770,6 +1784,8 @@ shestero
 Shilov
 Shinji
 Shipchenski
+shkola
+SHL
 shpori
 shri
 Shunina
@@ -1832,6 +1848,7 @@ SpaceX
 Spartak
 spatio
 spb
+spbau
 SPbGETU
 Spbgukit
 specialistami
@@ -1877,6 +1894,7 @@ stipendia
 stipendiu
 stipendiyatele
 Stiskal
+STM
 stopstart
 Stopstart
 Stoughton
@@ -2107,6 +2125,7 @@ vcEGE
 Veremeenko
 Verilog
 verstovye
+vesennyaya
 vestipk
 vestivrn
 Vfb
@@ -2313,6 +2332,7 @@ Yulia
 yulkP
 yw
 yXW
+yYah
 YyNrTe
 yzhuikova
 za
