@@ -1,4 +1,4 @@
-name: EditorConfig
+name: Линтер EditorConfig
 
 on:
   pull_request:
