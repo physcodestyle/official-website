@@ -315,6 +315,7 @@ bWcEwG
 bWjLN
 bWmOSp
 bX
+bXGQyU
 BxHQc
 bXmCKg
 bXZhOa
@@ -324,11 +325,15 @@ bXZhUu
 bXZhVu
 bYcMDM
 bYE
+bYqCNg
 bZdGAP
 bZTEHF
+caGINb
 careertest
+caZccn
 CCA
 ccf
+ccFB
 cctjJH
 cCzpQ
 CDE
@@ -376,13 +381,16 @@ CKjbsjYcq
 clAtlz
 ClBh
 clck
+cle
 cleaBT
 clementyev
 ClG
 clHl
+ClimateScience
 CLMNZHsy
 ClmTlq
 Clou
+cluScA
 CMS
 cobley
 Codecraft
@@ -409,6 +417,7 @@ CRfuTe
 CRM
 Crosslight
 csff
+CSV
 CTqodenKnUSQlhMeFs
 ctrl
 Cttk
@@ -647,9 +656,11 @@ ffKY
 FGU
 fh
 Fhgz
+fHku
 Fhu
 fi
 Fi
+fibe
 FIFA
 Figma
 FINA
@@ -807,6 +818,7 @@ Hannover
 hatuntsev
 hBaNP
 HBT
+hcJt
 HCNA
 hdEN
 HDFS
@@ -863,6 +875,7 @@ HyperX
 HywYSF
 hziKL
 iasWTIaAOrm
+ib
 ibPtZ
 ic
 ichf
@@ -965,6 +978,7 @@ JavaDay
 Javascript
 javascriptvrn
 javavrn
+JCGr
 JCW
 JEE
 JetAdmin
@@ -1350,6 +1364,7 @@ natbukhvalova
 nauchnogo
 Nauka
 naukatv
+naUY
 navigaciya
 nc
 ncbi
@@ -1467,6 +1482,7 @@ Orp
 orporation
 oRrSbmMQtNOmNC
 oscillographic
+osovsu
 oT
 otdyh
 otkryta
@@ -1668,9 +1684,11 @@ rc
 RDBMS
 RDD
 RdGuYxvW
+rdkm
 RdM
 redbull
 redbullbasement
+Redmine
 registraciya
 reitingoviy
 relex
@@ -1729,6 +1747,7 @@ rur
 RUR
 rus
 Ruselectronics
+rusfond
 russ
 russia
 russian
@@ -1823,6 +1842,7 @@ SMSEafqQ
 SMTP
 SNILS
 SnO
+snopfvsu
 SoapUI
 socialNetworks
 socialnuu
@@ -2033,6 +2053,7 @@ TRP
 Tryphonov
 tsu
 TSU
+TSV
 Tsyplakov
 ttf
 TTN
@@ -2060,6 +2081,7 @@ uCrqC
 udachi
 ufn
 Ugai
+UHikGJ
 UI
 uic
 uid
@@ -2197,6 +2219,7 @@ vrnbusbot
 vrntranschat
 vrPgn
 vruchenie
+vS
 VSCode
 VSG
 vsi
@@ -2219,9 +2242,11 @@ WAJYjy
 Warface
 warmsiliconequbit
 WCF
+wcP
 WcrRgT
 wdqkm
 Wearables
+WebGL
 Webometr
 Webometrics
 WebSocket
@@ -2273,6 +2298,7 @@ XC
 Xcode
 XcY
 XDpiX
+XeD
 Xhc
 XIutb
 xjaWuQ
@@ -2295,6 +2321,7 @@ XW
 XWpiD
 xz
 xZ
+yaintern
 Yakov
 yakovenko
 yandex
