@@ -1,7 +1,0 @@
-UTF
-MIUI
-json
-JSON
-ru
-vsu
-VSU
