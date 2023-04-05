@@ -1,8 +1,8 @@
-![Editorconfig](https://github.com/physcodestyle/official-website/workflows/EditorConfig/badge.svg)
-![Spellcheck](https://github.com/physcodestyle/official-website/workflows/Spellcheck/badge.svg)
-![Markdown](https://github.com/physcodestyle/official-website/workflows/Markdown/badge.svg)
-![HTML](https://github.com/physcodestyle/official-website/workflows/HTML/badge.svg)
-![CSS](https://github.com/physcodestyle/official-website/workflows/CSS/badge.svg)
+[![Линтер EditorConfig](https://github.com/physcodestyle/official-website/actions/workflows/editorconfig.yml/badge.svg)](https://github.com/physcodestyle/official-website/actions/workflows/editorconfig.yml)
+[![Линтер Markdown](https://github.com/physcodestyle/official-website/actions/workflows/markdown.yml/badge.svg)](https://github.com/physcodestyle/official-website/actions/workflows/markdown.yml)
+[![Линтер HTML](https://github.com/physcodestyle/official-website/actions/workflows/html.yml/badge.svg)](https://github.com/physcodestyle/official-website/actions/workflows/html.yml)
+[![Линтер CSS](https://github.com/physcodestyle/official-website/actions/workflows/css.yml/badge.svg)](https://github.com/physcodestyle/official-website/actions/workflows/css.yml)
+[![Орфография](https://github.com/physcodestyle/official-website/actions/workflows/spellcheck.yml/badge.svg)](https://github.com/physcodestyle/official-website/actions/workflows/spellcheck.yml)
 
 # Сайт Физического факультета ВГУ
 
