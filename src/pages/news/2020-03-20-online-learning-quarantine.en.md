@@ -8,8 +8,8 @@ tags:
 description: 'From March 17 in order to prevent the spread of coronavirus infection...'
 images:
   - src: '/images/learn.jpg'
- —  alt: 'Distance learning in the conditions of the quarantine'
- —  type: 'image'
+  - alt: 'Distance learning in the conditions of the quarantine'
+  - type: 'image'
 updatedAt: 1584662400
 ---
 # Distance learning in the conditions of the quarantine
