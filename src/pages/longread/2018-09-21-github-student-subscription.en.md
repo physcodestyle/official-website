@@ -23,7 +23,7 @@ updatedAt: 1568360578
 Subscribe now
 -------------
 
-First you need to create an account on \[GitHub\] (https://github.com).
+First you need to create an account on [GitHub](https://github.com).
 
 Then go to [link](https://education.github.com/pack). This page provides detailed information about the products. After reviewing, click “Get your pack”.
 

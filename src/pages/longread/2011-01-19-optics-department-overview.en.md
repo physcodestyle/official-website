@@ -32,7 +32,7 @@ As a result, a new class of photochemical processes on the surface of light-sens
 
 Under the guidance of A. N. Latysheva successfully defended his PhD thesis, M. I. Molotskii, L. B. Antonova, M. A. Kushnir, V. G. Klyuev, T. V. Voloshina, Yu. K. Timoshenko, L. J. Malaya, V. N. Rasheyev, L. S. Leonova, A. I. Kustov, V. A. Shunina, O. V. Ovchinnikov, P. E. Tatyanin, S. S. Okhotnikov, M. S. Smirnov, S. V. Chernykh, D. A. Minakov, A. M. Smirnov, P. V. Novikov, V. B. ZON. The scientific guidance of Professor M. G. Klyuev helped to become candidates of M. A. Yefimova, T. L. Mayorova, Yu. V. Vostrikova, E. A. Kosyakova.
 
-Doctor’s dissertations defended by M. I. Molotsky, V. G. Klyuev, O. V. Ovchinnikov, and Tymoshenko. Professors G. F. Novikov and A. N. Latyshev together with the Institute of Problems of chemical physics RAS im. Akad. N. N. Semenova (Chernogolovka) created a joint research laboratory “Photostimulated processes in crystals”.
+Doctor's dissertations defended by M. I. Molotsky, V. G. Klyuev, O. V. Ovchinnikov, and Tymoshenko. Professors G. F. Novikov and A. N. Latyshev together with the Institute of Problems of chemical physics RAS im. Akad. N. N. Semenova (Chernogolovka) created a joint research laboratory “Photostimulated processes in crystals”.
 
 For big merits in scientific activity to the doctor of physical and mathematical Sciences, Professor Latyshev Anatoly Nikolaevich the decree of the President of the Russian Federation N 1093 of 20.08.2007 conferred the honorary title “the Honored worker of science of the Russian Federation”.
 
@@ -42,7 +42,7 @@ In 1988, the astrophysical laboratory and a branch of the Department were establ
 
 Since 1996, a new specialization – “Physical and chemical methods of forensic examination”, and then “Optical and optoelectronic devices and systems”has been popular among students of physical faculty. in 2001, developed curricula and obtained a license for the opening of the Department of a new Department of secondary technical education in optical and optoelectronic devices systems.
 
-One of the first in Russia Department of optics and spectroscopy in 1995 implemented a master’s program “Physics of optical phenomena” (head prof. Latyshev). About 100 masters-physicists who studied under this program were graduated. At present, the first issue of undergraduates is being prepared for another new program “Optics of nanostructured materials” (head of prof. Latyshev).
+One of the first in Russia Department of optics and spectroscopy in 1995 implemented a master's program “Physics of optical phenomena” (head prof. Latyshev). About 100 masters-physicists who studied under this program were graduated. At present, the first issue of undergraduates is being prepared for another new program “Optics of nanostructured materials” (head of prof. Latyshev).
 
 The Department is closely connected with the production and academic institutions. Joint works of fundamental and applied nature are carried out. The Department is actively involved in the implementation of scientific programs of grants of Russian and international funds. In the last 8 years, the Department is actively conducting applied research in the interests of the Ministry of defense.
 

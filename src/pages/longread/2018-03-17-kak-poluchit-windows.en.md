@@ -13,11 +13,11 @@ updatedAt: 1568360578
 ---
 A physics Student can get Windows 10. To do this, you will need a student card, an extended record card and a flash drive for at least 4 GB.
 
-Windows is obtained in room 346 (pcnt Department of computer software). It is possible that the first time you do not find the right person. That’s OK. We advise you to go 1-2 times a week during a long break.
+Windows is obtained in room 346 (pcnt Department of computer software). It is possible that the first time you do not find the right person. That's OK. We advise you to go 1-2 times a week during a long break.
 
 If you have friends who also want to get the key, collect the credits and take them together. In order not to give each USB flash drive with Windows, we recommend to download the image to the cloud, open access by link and provide this link to the right people.
 
-The Installation Of Windows 10. Using a flash drive: What to do: 1. Download the program \[Rufus\] (https://goo.gl/oBiCjz). Make sure that the flash drive does not have the necessary data, as the program will format it; 2. Set up Rufus for recording: \* Run Rufus. Fill in the tabs as shown on the screen: \* Device → select your flash drive; \* New volume label → any name (e.g. Windows 10); \* Leave the checkboxes as in the picture; 3. Select the ISO image: \* In the window that opens, select the image of our Windows 10: \* Next, click “Start” and wait. When the image is recorded, the “Ready”will appear in the lower left corner. Press the “Close”button.
+The Installation Of Windows 10. Using a flash drive: What to do: 1. Download the program [Rufus](https://goo.gl/oBiCjz). Make sure that the flash drive does not have the necessary data, as the program will format it; 2. Set up Rufus for recording: \* Run Rufus. Fill in the tabs as shown on the screen: \* Device → select your flash drive; \* New volume label → any name (e.g. Windows 10); \* Leave the checkboxes as in the picture; 3. Select the ISO image: \* In the window that opens, select the image of our Windows 10: \* Next, click “Start” and wait. When the image is recorded, the “Ready”will appear in the lower left corner. Press the “Close”button.
 
 Using disk: For this need to: 1. Download and install the program [UltraISO](https://goo.gl/mevRKk); 2. Insert a blank disc into the drive (DVD-R/DVD-RW suitable); 3. Set up UltraISO for recording: \* Run UltraISO. \* A window will appear in front of you. \* Click “File” next “Open” and in the window that appears, select our image.
 

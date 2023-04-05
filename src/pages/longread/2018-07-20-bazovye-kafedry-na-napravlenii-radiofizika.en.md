@@ -35,7 +35,7 @@ What is the basic Department?
 
 The base department is a special department at the faculty, which is opened by the company. This department trains specialists who are needed in the company. A stricter definition can be found in the law.
 
-At our basic departments training takes place in the master’s degree. To do this, you need to go to the direction of “Radiophysics” and pass a competition for the desired Department.
+At our basic departments training takes place in the master's degree. To do this, you need to go to the direction of “Radiophysics” and pass a competition for the desired Department.
 
 Classes are conducted by employees of enterprises, because students get practical experience that will be needed in their future work.
 
@@ -55,6 +55,6 @@ Students of the department learn to program microcontrollers, study the principl
 What are the training conditions?
 ---------------------------------
 
-Do not confuse the training in such departments with the target set. Students enter the budget and are not required to work for a certain period after graduation. But the majority remains to work in companies, because consciously received these departments. The companies take all the students who studied faithfully for two years in the master’s program.
+Do not confuse the training in such departments with the target set. Students enter the budget and are not required to work for a certain period after graduation. But the majority remains to work in companies, because consciously received these departments. The companies take all the students who studied faithfully for two years in the master's program.
 
 Practices and part of the classes are held on the basis of enterprises. So it is more convenient to use the equipment and solve the necessary tasks.

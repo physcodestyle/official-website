@@ -16,7 +16,7 @@ We will tell you how to get code editors from JetBrains for languages such as C,
 1 step
 ------
 
-Go to \[site\] (https://www.jetbrains.com/student/).
+Go to [site](https://www.jetbrains.com/student/).
 
 2 step
 ------
@@ -26,7 +26,7 @@ On the page you will see the products available for students. Then click on the 
 3 step
 ------
 
-The registration field opens. There are three ways to confirm that you are a student: - Use student e-mail. This is the address you use to access the Wi-Fi VSU; - Use ISIC (international student card); ISIC can be ordered on \[website\] (https://isic.ru/cards/isic/). The card gives a lot of discounts and benefits both in Russia and abroad. - Use a scan of the student card (in this case, the confirmation will take about a week). We have chosen a method with e-mail address VSU.
+The registration field opens. There are three ways to confirm that you are a student: - Use student e-mail. This is the address you use to access the Wi-Fi VSU; - Use ISIC (international student card); ISIC can be ordered on [website](https://isic.ru/cards/isic/). The card gives a lot of discounts and benefits both in Russia and abroad. - Use a scan of the student card (in this case, the confirmation will take about a week). We have chosen a method with e-mail address VSU.
 
 4 step
 ------
@@ -51,4 +51,4 @@ You will receive an email from JetBrains with a link to confirm your request. Yo
 8 step
 ------
 
-Then you will receive another letter, which will link to the confirmation of the student license. That’s all. Now you can use products from JetBrains. The license is given for a year, then it will need to be confirmed again.
+Then you will receive another letter, which will link to the confirmation of the student license. That's all. Now you can use products from JetBrains. The license is given for a year, then it will need to be confirmed again.

@@ -25,7 +25,7 @@ In the application you need to specify your Full Name, prof. ticket number, facu
 
 ### Step 3
 
-Collect three signatures: Signed by the Professor of the course. The list of trade-Union physics Department: [https://vk.cc/5DllRi](https://vk.cc/5DllRi) Signed by the Vice Dean. You can get it at the Dean’s office, room 238. Signed by a member of the scholarship Committee. Members of the scholarship Committee of physical Faculty from students: [https://vk.cc/5DllRi](https://vk.cc/5DllRi)
+Collect three signatures: Signed by the Professor of the course. The list of trade-Union physics Department: [https://vk.cc/5DllRi](https://vk.cc/5DllRi) Signed by the Vice Dean. You can get it at the Dean's office, room 238. Signed by a member of the scholarship Committee. Members of the scholarship Committee of physical Faculty from students: [https://vk.cc/5DllRi](https://vk.cc/5DllRi)
 
 ### Step 4
 
