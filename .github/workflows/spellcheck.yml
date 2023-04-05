@@ -15,4 +15,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Yaspeller
-        run: npx yaspeller --only-errors --ignore-urls --check-yo --file-extensions ".md,.html" *
+        run: npx yaspeller --ignore-urls --check-yo --file-extensions ".md,.html" src
