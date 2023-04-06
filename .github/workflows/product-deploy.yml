@@ -49,6 +49,6 @@ jobs:
           set sftp:auto-confirm yes
           mirror -c -R -P 4 ./dist/en
           mirror -c -R -P 4 ./dist/ru
-          mirror -c -r -R -P 4 ./dist
+          mput dist/*
           exit
           EOF
