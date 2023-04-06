@@ -44,15 +44,10 @@ jobs:
         run: npm run build
       - name: Публикация сайта
         run: |
+          cd dist
           lftp -u "$USER","$PASS" $HOST <<EOF
           set ssl:verify-certificate no
           set sftp:auto-confirm yes
-          mirror --ignore-time -c -R -P 4 ./dist/assets
-          mirror --ignore-time -c -R -P 4 ./dist/styles
-          mirror --ignore-time -c -R -P 4 ./dist/scripts
-          mirror --ignore-time -c -R -P 4 ./dist/images
-          mirror --ignore-time -c -R -P 4 ./dist/en
-          mirror --ignore-time -c -R -P 4 ./dist/ru
-          mput dist/*
+          mirror --verbose=1,2,3 --ignore-time --scan-all-first --reverse --parallel=4 ./
           exit
           EOF
