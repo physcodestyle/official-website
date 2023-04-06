@@ -1,0 +1,36 @@
+name: Публикация сайта
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    env:
+      USER: ${{ secrets.FTP_USER }}
+      HOST: ${{ secrets.FTP_HOST }}
+      PASS: ${{ secrets.FTP_PASS }}
+    strategy:
+      matrix:
+        node-version: [16.x]
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Установка пакетов
+        run: npm ci
+      - name: Сборка сайта
+        run: npm run build
+      - name: Публикация сайта
+        run: |
+          lftp -u "$USER","$PASS" $HOST <<EOF
+          set ssl:verify-certificate no
+          set sftp:auto-confirm yes
+          mirror -c -R -P 4 ./dist/en
+          mirror -c -R -P 4 ./dist/ru
+          mirror -c -r -R -P 4 ./dist
+          exit
+          EOF
