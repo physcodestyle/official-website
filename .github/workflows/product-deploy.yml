@@ -47,6 +47,10 @@ jobs:
           lftp -u "$USER","$PASS" $HOST <<EOF
           set ssl:verify-certificate no
           set sftp:auto-confirm yes
+          mirror -c -R -P 4 ./dist/assets
+          mirror -c -R -P 4 ./dist/styles
+          mirror -c -R -P 4 ./dist/scripts
+          mirror -c -R -P 4 ./dist/images
           mirror -c -R -P 4 ./dist/en
           mirror -c -R -P 4 ./dist/ru
           mput dist/*
