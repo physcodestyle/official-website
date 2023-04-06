@@ -1,0 +1,52 @@
+name: Публикация сайта
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      USER: ${{ secrets.FTP_USER }}
+      HOST: ${{ secrets.FTP_HOST }}
+      PASS: ${{ secrets.FTP_PASS }}
+    strategy:
+      matrix:
+        node-version: [16.x]
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Установка lftp
+        run: |
+          sudo apt install lftp
+      - name: Кэширование модулей
+        uses: actions/cache@v3
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+      - name: Установка пакетов
+        run: npm ci
+      - name: Обновление новостей
+        run: npx gulp news
+      - name: Создание Pull Request'а
+        id: pr
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Обновление новостей
+          branch: news-${{ steps.date.outputs.date }}
+          delete-branch: true
+          title: "Обновление новостей (${{ steps.date.outputs.date }})"
+          labels: |
+            новости
+          reviewers: igsekor
+          draft: false
