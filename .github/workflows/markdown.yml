@@ -1,4 +1,4 @@
-name: Линтер Markdown
+name: Markdown
 
 on:
   pull_request:

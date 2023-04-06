@@ -1,4 +1,4 @@
-name: Линтер HTML
+name: HTML
 
 on:
   pull_request:

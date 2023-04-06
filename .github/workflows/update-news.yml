@@ -1,11 +1,11 @@
-name: Публикация сайта
+name: Обновление новостей
 
 on:
   schedule:
     - cron: '0 5 * * *'
 
 jobs:
-  deploy:
+  news:
     runs-on: ubuntu-latest
     env:
       USER: ${{ secrets.FTP_USER }}
