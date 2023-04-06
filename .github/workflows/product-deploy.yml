@@ -1,12 +1,16 @@
 name: Публикация сайта
 
 on:
-  push:
+  workflow_run:
+    workflows:
+      - "Орфография"
     branches:
       - main
+    types:
+      - completed
 
 jobs:
-  lint:
+  deploy:
     runs-on: ubuntu-latest
     env:
       USER: ${{ secrets.FTP_USER }}
