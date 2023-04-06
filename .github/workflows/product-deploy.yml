@@ -22,8 +22,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - name: Установка lftp
         run: |
-          apt-get update -y
-          apt-get install -y lftp
+          sudo apt install lftp
       - name: Установка пакетов
         run: npm ci
       - name: Сборка сайта
