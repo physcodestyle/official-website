@@ -3,6 +3,7 @@
 [![Линтер HTML](https://github.com/physcodestyle/official-website/actions/workflows/html.yml/badge.svg)](https://github.com/physcodestyle/official-website/actions/workflows/html.yml)
 [![Линтер CSS](https://github.com/physcodestyle/official-website/actions/workflows/css.yml/badge.svg)](https://github.com/physcodestyle/official-website/actions/workflows/css.yml)
 [![Орфография](https://github.com/physcodestyle/official-website/actions/workflows/spellcheck.yml/badge.svg)](https://github.com/physcodestyle/official-website/actions/workflows/spellcheck.yml)
+[![Публикация сайта](https://github.com/physcodestyle/official-website/actions/workflows/product-deploy.yml/badge.svg)](https://github.com/physcodestyle/official-website/actions/workflows/product-deploy.yml)
 
 # Сайт Физического факультета ВГУ
 
