@@ -99,7 +99,6 @@ gulp.task('news', async () => {
       const vkNews = response.data;
       const vkKeys = Object.keys(vkNews);
       for (key of vkKeys) {
-        counter++;
         if (typeof vkNews[key].text === 'string') {
           const t = String(vkNews[key].text)
                       .trim()
@@ -134,9 +133,12 @@ gulp.task('news', async () => {
             }
             md += `[${vkNews[key].text}](${vkNews[key].link.url})\n`;
           }
-          fs.writeFile(`src/pages/news/${key}.ru.md`, md, function (err) {
-            if (err) return console.log(err);
-          });
+          if (!fs.existsSync(`src/pages/news/${key}.ru.md`)) {
+            fs.writeFile(`src/pages/news/${key}.ru.md`, md, function (err) {
+              if (err) return console.log(err);
+            });
+            counter++;
+          }
         }
       }
       console.log(`${counter} files with news from VK were created.`);
