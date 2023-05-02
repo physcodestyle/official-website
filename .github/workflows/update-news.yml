@@ -37,15 +37,20 @@ jobs:
         run: npm ci
       - name: Обновление новостей
         run: npx gulp news
+      - name: Получение текущей даты
+        id: t1
+        uses: Kaven-Universe/github-action-current-date-time@v1
+        with:
+          format: "YYYY_MM_DD HH_mm_ss_SSS"
       - name: Создание Pull Request'а
         id: pr
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: Обновление новостей
-          branch: news-${{ steps.date.outputs.date }}
+          branch: news-${{ steps.t1.outputs.day }}-${{ steps.t1.outputs.month }}-${{ steps.t1.outputs.year }}
           delete-branch: true
-          title: "Обновление новостей (${{ steps.date.outputs.date }})"
+          title: "Обновление новостей (${{ steps.t1.outputs.day_of_week }}, ${{ steps.t1.outputs.day }} ${{ steps.t1.outputs.month }})"
           labels: |
             новости
           reviewers: igsekor
